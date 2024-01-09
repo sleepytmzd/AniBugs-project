@@ -1,0 +1,12458 @@
+[
+ {
+  "animeID": 6,
+  "genre": "Action"
+ },
+ {
+  "animeID": 6,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 6,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 6,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 6,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 8,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 8,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 8,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 15,
+  "genre": "Action"
+ },
+ {
+  "animeID": 15,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 15,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 16,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 16,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 16,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 16,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 17,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 17,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 17,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 18,
+  "genre": "Action"
+ },
+ {
+  "animeID": 18,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 18,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 19,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 19,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 19,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 19,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 19,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 20,
+  "genre": "Action"
+ },
+ {
+  "animeID": 20,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 20,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 20,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 20,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 20,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 21,
+  "genre": "Action"
+ },
+ {
+  "animeID": 21,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 21,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 21,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 21,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 22,
+  "genre": "Action"
+ },
+ {
+  "animeID": 22,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 22,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 23,
+  "genre": "Action"
+ },
+ {
+  "animeID": 23,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 24,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 24,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 24,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 25,
+  "genre": "Action"
+ },
+ {
+  "animeID": 25,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 25,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 25,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 25,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 28,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 29,
+  "genre": "Action"
+ },
+ {
+  "animeID": 29,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 33,
+  "genre": "Action"
+ },
+ {
+  "animeID": 33,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 33,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 33,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 33,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 33,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 43,
+  "genre": "Action"
+ },
+ {
+  "animeID": 43,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 43,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 44,
+  "genre": "Action"
+ },
+ {
+  "animeID": 44,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 44,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 45,
+  "genre": "Action"
+ },
+ {
+  "animeID": 45,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 45,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 45,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 45,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 46,
+  "genre": "Action"
+ },
+ {
+  "animeID": 46,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 47,
+  "genre": "Action"
+ },
+ {
+  "animeID": 47,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 47,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 47,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 47,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 47,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 49,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 49,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 49,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 49,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 50,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 50,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 50,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 51,
+  "genre": "Action"
+ },
+ {
+  "animeID": 51,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 51,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 51,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 51,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 52,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 52,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 52,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 52,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 53,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 53,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 53,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 53,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 54,
+  "genre": "Action"
+ },
+ {
+  "animeID": 54,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 54,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 54,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 57,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 57,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 57,
+  "genre": "Music"
+ },
+ {
+  "animeID": 57,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 59,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 59,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 59,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 59,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 59,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 60,
+  "genre": "Action"
+ },
+ {
+  "animeID": 60,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 60,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 61,
+  "genre": "Action"
+ },
+ {
+  "animeID": 61,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 61,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 61,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 63,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 63,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 63,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 63,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 64,
+  "genre": "Action"
+ },
+ {
+  "animeID": 64,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 64,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 64,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 65,
+  "genre": "Action"
+ },
+ {
+  "animeID": 65,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 65,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 66,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 66,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 67,
+  "genre": "Action"
+ },
+ {
+  "animeID": 67,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 67,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 67,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 68,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 68,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 68,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 74,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 74,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 74,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 74,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 100,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 100,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 100,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 100,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 100,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 102,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 102,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 102,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 103,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 103,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 103,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 103,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 103,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 104,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 104,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 104,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 104,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 104,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 105,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 105,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 105,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 106,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 106,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 106,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 107,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 107,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 107,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 107,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 108,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 108,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 108,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 108,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 110,
+  "genre": "Action"
+ },
+ {
+  "animeID": 110,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 110,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 114,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 120,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 120,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 120,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 120,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 120,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 121,
+  "genre": "Action"
+ },
+ {
+  "animeID": 121,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 121,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 121,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 122,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 122,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 122,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 122,
+  "genre": "Music"
+ },
+ {
+  "animeID": 122,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 122,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 123,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 123,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 123,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 123,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 123,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 124,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 124,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 124,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 129,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 129,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 129,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 129,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 130,
+  "genre": "Action"
+ },
+ {
+  "animeID": 130,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 130,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 130,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 130,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 131,
+  "genre": "Action"
+ },
+ {
+  "animeID": 131,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 131,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 131,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 132,
+  "genre": "Action"
+ },
+ {
+  "animeID": 132,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 132,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 132,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 134,
+  "genre": "Action"
+ },
+ {
+  "animeID": 134,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 134,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 134,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 135,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 135,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 135,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 136,
+  "genre": "Action"
+ },
+ {
+  "animeID": 136,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 136,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 137,
+  "genre": "Action"
+ },
+ {
+  "animeID": 137,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 137,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 138,
+  "genre": "Action"
+ },
+ {
+  "animeID": 138,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 138,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 139,
+  "genre": "Action"
+ },
+ {
+  "animeID": 139,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 139,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 141,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 141,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 142,
+  "genre": "Action"
+ },
+ {
+  "animeID": 142,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 142,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 142,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 142,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 142,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 142,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 142,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 143,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 143,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 143,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 145,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 145,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 145,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 145,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 149,
+  "genre": "Action"
+ },
+ {
+  "animeID": 149,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 149,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 149,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 149,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 151,
+  "genre": "Action"
+ },
+ {
+  "animeID": 151,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 151,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 151,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 151,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 154,
+  "genre": "Action"
+ },
+ {
+  "animeID": 154,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 154,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 154,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 154,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 155,
+  "genre": "Action"
+ },
+ {
+  "animeID": 155,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 155,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 155,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 155,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 156,
+  "genre": "Action"
+ },
+ {
+  "animeID": 156,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 156,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 156,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 157,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 157,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 157,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 157,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 159,
+  "genre": "Action"
+ },
+ {
+  "animeID": 159,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 159,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 159,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 159,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 159,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 161,
+  "genre": "Action"
+ },
+ {
+  "animeID": 161,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 162,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 162,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 162,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 170,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 170,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 170,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 170,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 173,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 173,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 173,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 173,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 174,
+  "genre": "Action"
+ },
+ {
+  "animeID": 174,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 174,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 175,
+  "genre": "Action"
+ },
+ {
+  "animeID": 175,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 175,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 175,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 177,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 177,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 177,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 178,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 178,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 178,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 179,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 179,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 179,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 183,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 185,
+  "genre": "Action"
+ },
+ {
+  "animeID": 185,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 185,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 186,
+  "genre": "Action"
+ },
+ {
+  "animeID": 186,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 186,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 187,
+  "genre": "Action"
+ },
+ {
+  "animeID": 187,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 187,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 187,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 189,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 189,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 189,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 189,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 190,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 190,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 190,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 191,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 191,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 191,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 192,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 192,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 192,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 197,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 197,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 197,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 197,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 200,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 200,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 200,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 201,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 201,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 201,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 201,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 209,
+  "genre": "Action"
+ },
+ {
+  "animeID": 209,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 209,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 209,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 210,
+  "genre": "Action"
+ },
+ {
+  "animeID": 210,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 210,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 210,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 210,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 223,
+  "genre": "Action"
+ },
+ {
+  "animeID": 223,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 223,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 223,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 223,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 225,
+  "genre": "Action"
+ },
+ {
+  "animeID": 225,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 225,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 225,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 226,
+  "genre": "Action"
+ },
+ {
+  "animeID": 226,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 226,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 226,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 226,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 226,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 226,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 229,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 230,
+  "genre": "Action"
+ },
+ {
+  "animeID": 230,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 230,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 231,
+  "genre": "Action"
+ },
+ {
+  "animeID": 231,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 231,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 231,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 232,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 232,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 232,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 232,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 232,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 233,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 233,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 234,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 234,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 235,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 235,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 235,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 235,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 236,
+  "genre": "Action"
+ },
+ {
+  "animeID": 236,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 236,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 238,
+  "genre": "Action"
+ },
+ {
+  "animeID": 238,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 240,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 240,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 241,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 241,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 241,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 242,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 242,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 242,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 243,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 243,
+  "genre": "Music"
+ },
+ {
+  "animeID": 243,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 245,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 245,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 245,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 246,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 246,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 246,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 246,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 247,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 247,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 248,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 248,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 248,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 249,
+  "genre": "Action"
+ },
+ {
+  "animeID": 249,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 249,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 249,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 249,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 250,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 250,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 250,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 253,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 254,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 255,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 257,
+  "genre": "Action"
+ },
+ {
+  "animeID": 257,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 258,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 258,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 260,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 260,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 260,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 260,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 261,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 261,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 261,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 262,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 262,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 263,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 263,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 263,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 264,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 264,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 265,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 265,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 268,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 268,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 268,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 269,
+  "genre": "Action"
+ },
+ {
+  "animeID": 269,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 269,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 270,
+  "genre": "Action"
+ },
+ {
+  "animeID": 270,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 270,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 276,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 276,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 276,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 276,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 277,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 277,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 277,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 277,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 277,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 280,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 280,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 280,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 282,
+  "genre": "Action"
+ },
+ {
+  "animeID": 282,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 284,
+  "genre": "Action"
+ },
+ {
+  "animeID": 284,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 284,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 286,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 286,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 286,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 287,
+  "genre": "Action"
+ },
+ {
+  "animeID": 287,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 288,
+  "genre": "Action"
+ },
+ {
+  "animeID": 288,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 288,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 288,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 288,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 292,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 292,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 296,
+  "genre": "Action"
+ },
+ {
+  "animeID": 296,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 296,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 296,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 296,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 297,
+  "genre": "Action"
+ },
+ {
+  "animeID": 297,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 297,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 297,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 298,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 298,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 298,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 298,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 300,
+  "genre": "Action"
+ },
+ {
+  "animeID": 300,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 300,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 300,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 301,
+  "genre": "Action"
+ },
+ {
+  "animeID": 301,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 301,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 301,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 303,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 303,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 305,
+  "genre": "Action"
+ },
+ {
+  "animeID": 305,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 311,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 311,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 312,
+  "genre": "Action"
+ },
+ {
+  "animeID": 312,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 313,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 313,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 313,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 314,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 314,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 316,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 316,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 322,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 322,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 322,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 322,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 325,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 325,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 325,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 326,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 326,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 326,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 326,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 329,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 329,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 329,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 329,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 330,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 330,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 330,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 330,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 330,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 330,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 331,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 331,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 331,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 332,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 332,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 334,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 334,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 334,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 334,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 335,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 335,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 335,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 337,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 337,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 337,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 338,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 338,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 338,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 340,
+  "genre": "Action"
+ },
+ {
+  "animeID": 341,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 341,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 341,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 343,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 343,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 343,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 344,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 344,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 344,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 345,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 345,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 345,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 359,
+  "genre": "Action"
+ },
+ {
+  "animeID": 359,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 359,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 364,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 365,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 365,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 365,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 367,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 367,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 371,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 371,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 371,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 372,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 372,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 372,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 372,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 376,
+  "genre": "Action"
+ },
+ {
+  "animeID": 376,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 376,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 376,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 376,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 376,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 376,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 379,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 379,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 380,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 380,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 380,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 380,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 381,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 381,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 381,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 381,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 382,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 382,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 382,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 382,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 384,
+  "genre": "Action"
+ },
+ {
+  "animeID": 384,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 384,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 384,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 384,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 384,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 384,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 385,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 385,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 385,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 386,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 386,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 386,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 388,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 388,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 390,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 390,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 390,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 392,
+  "genre": "Action"
+ },
+ {
+  "animeID": 392,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 392,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 392,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 394,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 394,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 394,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 394,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 395,
+  "genre": "Action"
+ },
+ {
+  "animeID": 395,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 395,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 395,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 395,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 395,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 395,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 400,
+  "genre": "Action"
+ },
+ {
+  "animeID": 400,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 400,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 400,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 401,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 401,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 403,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 403,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 403,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 404,
+  "genre": "Action"
+ },
+ {
+  "animeID": 404,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 404,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 404,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 404,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 406,
+  "genre": "Action"
+ },
+ {
+  "animeID": 406,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 406,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 407,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 407,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 407,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 412,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 412,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 412,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 415,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 415,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 416,
+  "genre": "Action"
+ },
+ {
+  "animeID": 416,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 416,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 416,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 416,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 418,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 418,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 419,
+  "genre": "Action"
+ },
+ {
+  "animeID": 419,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 419,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 419,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 420,
+  "genre": "Action"
+ },
+ {
+  "animeID": 420,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 420,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 425,
+  "genre": "Action"
+ },
+ {
+  "animeID": 425,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 425,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 425,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 425,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 430,
+  "genre": "Action"
+ },
+ {
+  "animeID": 430,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 430,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 430,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 435,
+  "genre": "Action"
+ },
+ {
+  "animeID": 435,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 435,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 435,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 435,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 435,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 435,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 439,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 439,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 439,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 442,
+  "genre": "Action"
+ },
+ {
+  "animeID": 442,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 442,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 442,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 442,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 448,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 448,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 448,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 448,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 449,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 449,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 449,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 449,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 449,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 450,
+  "genre": "Action"
+ },
+ {
+  "animeID": 450,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 450,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 450,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 450,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 451,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 451,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 451,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 451,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 452,
+  "genre": "Action"
+ },
+ {
+  "animeID": 452,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 452,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 452,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 452,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 452,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 457,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 457,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 457,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 457,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 457,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 457,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 458,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 458,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 458,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 466,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 466,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 466,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 467,
+  "genre": "Action"
+ },
+ {
+  "animeID": 467,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 467,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 467,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 468,
+  "genre": "Action"
+ },
+ {
+  "animeID": 468,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 468,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 469,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 469,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 469,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 470,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 470,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 470,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 470,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 477,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 477,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 477,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 479,
+  "genre": "Action"
+ },
+ {
+  "animeID": 479,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 479,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 479,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 479,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 481,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 481,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 484,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 484,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 485,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 485,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 487,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 487,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 487,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 488,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 488,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 490,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 495,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 495,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 495,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 495,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 501,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 501,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 501,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 502,
+  "genre": "Action"
+ },
+ {
+  "animeID": 502,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 502,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 506,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 506,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 507,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 507,
+  "genre": "Music"
+ },
+ {
+  "animeID": 507,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 508,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 508,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 508,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 516,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 516,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 517,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 517,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 519,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 519,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 519,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 520,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 520,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 520,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 520,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 521,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 521,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 521,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 521,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 521,
+  "genre": "Music"
+ },
+ {
+  "animeID": 521,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 522,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 522,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 522,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 522,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 526,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 526,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 526,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 529,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 529,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 529,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 530,
+  "genre": "Action"
+ },
+ {
+  "animeID": 530,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 530,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 530,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 530,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 531,
+  "genre": "Action"
+ },
+ {
+  "animeID": 531,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 531,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 531,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 531,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 532,
+  "genre": "Action"
+ },
+ {
+  "animeID": 532,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 532,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 532,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 532,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 532,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 533,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 533,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 544,
+  "genre": "Action"
+ },
+ {
+  "animeID": 544,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 544,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 550,
+  "genre": "Action"
+ },
+ {
+  "animeID": 550,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 550,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 551,
+  "genre": "Action"
+ },
+ {
+  "animeID": 551,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 553,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 553,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 553,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 553,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 558,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 558,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 558,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 563,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 563,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 563,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 566,
+  "genre": "Action"
+ },
+ {
+  "animeID": 566,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 570,
+  "genre": "Action"
+ },
+ {
+  "animeID": 570,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 570,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 570,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 570,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 572,
+  "genre": "Action"
+ },
+ {
+  "animeID": 572,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 572,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 572,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 572,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 576,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 576,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 576,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 577,
+  "genre": "Action"
+ },
+ {
+  "animeID": 577,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 577,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 577,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 577,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 582,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 585,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 585,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 585,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 585,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 588,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 588,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 588,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 588,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 589,
+  "genre": "Action"
+ },
+ {
+  "animeID": 589,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 589,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 591,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 591,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 591,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 591,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 594,
+  "genre": "Action"
+ },
+ {
+  "animeID": 594,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 594,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 595,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 595,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 595,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 595,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 595,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 596,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 596,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 596,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 597,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 597,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 597,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 597,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 598,
+  "genre": "Action"
+ },
+ {
+  "animeID": 598,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 598,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 598,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 598,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 601,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 601,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 601,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 609,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 609,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 609,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 613,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 613,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 613,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 616,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 616,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 616,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 620,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 620,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 620,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 620,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 623,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 623,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 623,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 624,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 624,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 624,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 626,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 626,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 626,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 627,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 627,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 627,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 630,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 630,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 630,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 631,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 631,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 631,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 633,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 633,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 633,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 633,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 634,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 634,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 634,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 634,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 637,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 637,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 637,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 641,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 641,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 641,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 644,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 644,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 644,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 644,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 645,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 645,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 646,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 646,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 649,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 649,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 649,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 650,
+  "genre": "Action"
+ },
+ {
+  "animeID": 650,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 658,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 658,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 658,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 659,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 659,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 660,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 660,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 664,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 664,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 664,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 664,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 665,
+  "genre": "Action"
+ },
+ {
+  "animeID": 665,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 665,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 665,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 665,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 666,
+  "genre": "Action"
+ },
+ {
+  "animeID": 666,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 666,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 666,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 666,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 667,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 667,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 667,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 667,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 668,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 668,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 668,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 668,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 678,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 678,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 678,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 687,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 687,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 687,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 687,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 687,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 687,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 690,
+  "genre": "Action"
+ },
+ {
+  "animeID": 690,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 690,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 691,
+  "genre": "Action"
+ },
+ {
+  "animeID": 691,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 691,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 691,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 710,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 710,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 710,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 714,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 714,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 715,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 715,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 715,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 715,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 718,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 718,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 718,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 722,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 722,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 723,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 723,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 727,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 729,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 729,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 729,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 730,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 730,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 733,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 733,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 734,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 734,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 736,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 736,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 738,
+  "genre": "Action"
+ },
+ {
+  "animeID": 738,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 738,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 738,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 740,
+  "genre": "Action"
+ },
+ {
+  "animeID": 740,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 740,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 740,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 740,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 741,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 741,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 741,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 741,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 747,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 747,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 750,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 750,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 752,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 752,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 760,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 760,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 760,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 760,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 761,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 761,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 776,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 776,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 776,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 776,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 777,
+  "genre": "Action"
+ },
+ {
+  "animeID": 777,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 777,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 783,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 783,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 786,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 786,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 788,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 788,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 788,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 791,
+  "genre": "Action"
+ },
+ {
+  "animeID": 791,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 791,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 791,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 792,
+  "genre": "Action"
+ },
+ {
+  "animeID": 792,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 792,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 792,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 793,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 793,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 793,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 793,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 793,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 795,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 795,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 796,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 796,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 797,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 797,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 797,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 799,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 799,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 799,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 800,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 800,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 800,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 801,
+  "genre": "Action"
+ },
+ {
+  "animeID": 801,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 801,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 801,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 808,
+  "genre": "Action"
+ },
+ {
+  "animeID": 808,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 808,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 808,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 808,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 810,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 810,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 811,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 811,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 811,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 811,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 813,
+  "genre": "Action"
+ },
+ {
+  "animeID": 813,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 813,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 813,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 813,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 814,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 814,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 815,
+  "genre": "Action"
+ },
+ {
+  "animeID": 815,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 818,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 818,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 818,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 818,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 818,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 819,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 819,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 819,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 821,
+  "genre": "Action"
+ },
+ {
+  "animeID": 821,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 822,
+  "genre": "Action"
+ },
+ {
+  "animeID": 822,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 822,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 823,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 823,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 824,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 824,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 824,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 834,
+  "genre": "Action"
+ },
+ {
+  "animeID": 834,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 834,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 834,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 834,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 837,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 837,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 837,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 838,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 838,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 838,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 840,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 840,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 840,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 841,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 841,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 841,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 842,
+  "genre": "Action"
+ },
+ {
+  "animeID": 842,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 842,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 842,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 846,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 846,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 846,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 848,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 848,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 851,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 852,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 852,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 852,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 852,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 853,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 853,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 853,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 853,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 857,
+  "genre": "Action"
+ },
+ {
+  "animeID": 857,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 857,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 857,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 861,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 861,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 861,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 861,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 861,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 861,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 863,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 863,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 863,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 870,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 870,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 875,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 875,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 875,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 875,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 877,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 877,
+  "genre": "Music"
+ },
+ {
+  "animeID": 877,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 877,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 880,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 880,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 880,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 882,
+  "genre": "Action"
+ },
+ {
+  "animeID": 882,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 882,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 883,
+  "genre": "Action"
+ },
+ {
+  "animeID": 883,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 883,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 884,
+  "genre": "Action"
+ },
+ {
+  "animeID": 884,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 886,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 886,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 886,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 886,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 886,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 888,
+  "genre": "Action"
+ },
+ {
+  "animeID": 888,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 888,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 889,
+  "genre": "Action"
+ },
+ {
+  "animeID": 889,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 889,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 889,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 891,
+  "genre": "Action"
+ },
+ {
+  "animeID": 891,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 891,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 891,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 892,
+  "genre": "Action"
+ },
+ {
+  "animeID": 892,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 892,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 892,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 893,
+  "genre": "Action"
+ },
+ {
+  "animeID": 893,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 893,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 893,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 894,
+  "genre": "Action"
+ },
+ {
+  "animeID": 894,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 894,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 895,
+  "genre": "Action"
+ },
+ {
+  "animeID": 895,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 895,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 896,
+  "genre": "Action"
+ },
+ {
+  "animeID": 896,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 896,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 897,
+  "genre": "Action"
+ },
+ {
+  "animeID": 897,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 897,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 898,
+  "genre": "Action"
+ },
+ {
+  "animeID": 898,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 898,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 899,
+  "genre": "Action"
+ },
+ {
+  "animeID": 899,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 899,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 900,
+  "genre": "Action"
+ },
+ {
+  "animeID": 900,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 900,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 901,
+  "genre": "Action"
+ },
+ {
+  "animeID": 901,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 901,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 902,
+  "genre": "Action"
+ },
+ {
+  "animeID": 902,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 902,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 903,
+  "genre": "Action"
+ },
+ {
+  "animeID": 903,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 903,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 904,
+  "genre": "Action"
+ },
+ {
+  "animeID": 904,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 904,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 905,
+  "genre": "Action"
+ },
+ {
+  "animeID": 905,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 905,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 906,
+  "genre": "Action"
+ },
+ {
+  "animeID": 906,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 906,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 907,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 912,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 913,
+  "genre": "Action"
+ },
+ {
+  "animeID": 913,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 914,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 914,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 914,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 915,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 915,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 916,
+  "genre": "Action"
+ },
+ {
+  "animeID": 916,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 916,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 916,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 916,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 917,
+  "genre": "Action"
+ },
+ {
+  "animeID": 917,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 917,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 918,
+  "genre": "Action"
+ },
+ {
+  "animeID": 918,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 918,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 918,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 919,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 919,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 919,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 932,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 932,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 932,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 933,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 933,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 933,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 936,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 936,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 936,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 936,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 936,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 937,
+  "genre": "Action"
+ },
+ {
+  "animeID": 937,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 937,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 937,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 943,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 943,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 943,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 943,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 951,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 951,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 952,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 952,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 953,
+  "genre": "Action"
+ },
+ {
+  "animeID": 953,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 953,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 953,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 953,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 962,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 962,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 962,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 966,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 966,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 966,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 967,
+  "genre": "Action"
+ },
+ {
+  "animeID": 967,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 967,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 968,
+  "genre": "Action"
+ },
+ {
+  "animeID": 968,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 969,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 969,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 969,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 969,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 969,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 970,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 971,
+  "genre": "Action"
+ },
+ {
+  "animeID": 971,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 971,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 971,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 975,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 975,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 976,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 976,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 976,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 976,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 981,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 981,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 981,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 984,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 984,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 984,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 985,
+  "genre": "Action"
+ },
+ {
+  "animeID": 985,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 985,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 986,
+  "genre": "Action"
+ },
+ {
+  "animeID": 986,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 986,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 987,
+  "genre": "Action"
+ },
+ {
+  "animeID": 987,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 987,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 991,
+  "genre": "Action"
+ },
+ {
+  "animeID": 991,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 991,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 991,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 996,
+  "genre": "Action"
+ },
+ {
+  "animeID": 996,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 996,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 996,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 996,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 996,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 996,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 997,
+  "genre": "Action"
+ },
+ {
+  "animeID": 997,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 997,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 997,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 997,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 997,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 997,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 998,
+  "genre": "Action"
+ },
+ {
+  "animeID": 998,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 998,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 998,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 998,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1000,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1000,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1000,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1000,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1003,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1003,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1003,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1007,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1007,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1008,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1008,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1008,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1011,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1011,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1011,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1015,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1016,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1016,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1016,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1021,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1021,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1021,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1026,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1029,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1029,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1029,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1036,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1036,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1036,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1040,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1040,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1041,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1041,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1041,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1041,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1042,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1042,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1042,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1042,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1043,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1043,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1043,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1045,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1045,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1045,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1045,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1046,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1046,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1046,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1050,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1050,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1050,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1051,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1051,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1051,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1051,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1055,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1055,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1055,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1056,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1056,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1056,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1057,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1057,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1057,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1060,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1060,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1060,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1062,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1062,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1064,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1064,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1064,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1064,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1065,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1065,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1065,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1065,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1078,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1083,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1083,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1084,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1084,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1087,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1087,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1087,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1087,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1087,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1093,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1094,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1094,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1094,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1108,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1108,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1108,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1110,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1115,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1123,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1123,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1123,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1127,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1127,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1127,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1128,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1128,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1128,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1129,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1129,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1129,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1129,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1142,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1142,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1142,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1151,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1151,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1151,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1153,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1153,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1153,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1158,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1158,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1158,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1159,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1159,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1159,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1161,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1161,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1161,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1161,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1162,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1162,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1162,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1162,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1167,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1167,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1177,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1177,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1177,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1177,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1177,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1180,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1180,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1180,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1180,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1181,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1181,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1181,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1181,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1187,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1187,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1187,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1188,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1188,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1189,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1189,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1196,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1199,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1207,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1207,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1207,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1209,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1214,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1214,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1214,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1216,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1216,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1217,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1217,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1217,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1218,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1218,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1218,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1218,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1219,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1219,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1219,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1222,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1222,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1222,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1225,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1225,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1225,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1225,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1225,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1227,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1227,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1227,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1227,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1228,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1228,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1228,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1228,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1228,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1235,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1235,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1235,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1237,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1237,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1237,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1238,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1238,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1238,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1239,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1240,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1240,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1240,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1240,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1240,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1245,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1246,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1246,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1246,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1246,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1250,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1250,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1250,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1250,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1253,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1253,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1253,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1253,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1254,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1254,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1254,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1254,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1257,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1257,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1269,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1269,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1270,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1270,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1270,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1270,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1271,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1271,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1271,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1272,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1273,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1278,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1278,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1278,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1278,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1283,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1283,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1283,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1283,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1293,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1293,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1293,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1293,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1293,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1300,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1301,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1301,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1301,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1301,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1302,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1302,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1314,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1316,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1316,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1316,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1316,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1317,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1324,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1325,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1325,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1325,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1327,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1327,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1327,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1327,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1327,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1328,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1328,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1328,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1331,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1331,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1331,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1331,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1331,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1337,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1337,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1338,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1338,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1338,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1340,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1340,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1340,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1341,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1341,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1341,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1342,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1342,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1342,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1343,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1343,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1343,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1344,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1344,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1344,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1356,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1356,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1368,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1369,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1369,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1369,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1369,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1371,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1371,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1371,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1371,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1372,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1372,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1373,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1374,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1374,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1383,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1390,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1390,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1407,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1407,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1412,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1412,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1413,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1413,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1416,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1416,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1417,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1417,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1422,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1422,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1424,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1424,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1425,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1425,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1425,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1425,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1426,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1426,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1427,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1427,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1427,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1429,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1429,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1430,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1430,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1430,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1430,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1432,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1432,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1433,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1433,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1434,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1434,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1435,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1435,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1435,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1435,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1436,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1436,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1437,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1437,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1437,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1437,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1439,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1439,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1439,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1439,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1445,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1445,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1453,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1453,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1453,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1453,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1462,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1465,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1465,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1465,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1468,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1468,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1470,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1470,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1470,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1471,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1471,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1472,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1472,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1473,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1473,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1473,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1474,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1474,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1477,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1477,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1477,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1481,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1482,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1482,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1482,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1482,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1483,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1483,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1483,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1484,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1484,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1484,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1484,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1485,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1485,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1485,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1486,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1486,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1486,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1488,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1488,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1488,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1488,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1491,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1491,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1491,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1491,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1492,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1492,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1492,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1492,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1492,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1493,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1493,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1493,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1493,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1493,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1494,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1494,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1494,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1494,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1496,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1496,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1496,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1496,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1500,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1500,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1500,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1500,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1500,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1508,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1508,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1508,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1509,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1509,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1509,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1514,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1514,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1514,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1516,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1516,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1516,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1516,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1517,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1517,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1517,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1517,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1517,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1519,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1519,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1519,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1519,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1520,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1520,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1520,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1520,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1520,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1521,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1521,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1533,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1533,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1533,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1533,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1535,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1535,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1535,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1535,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1536,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1536,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1536,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1536,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1537,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1537,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1538,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1538,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1538,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1541,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1547,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1548,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1548,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1548,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1549,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1549,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1549,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1549,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1550,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1550,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1553,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1553,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1553,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1554,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1554,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1554,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1554,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1556,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 1559,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1559,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1562,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1563,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1566,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1566,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1567,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1567,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1567,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1567,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1568,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1568,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1568,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1572,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1573,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1577,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1577,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1580,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1580,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1582,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1583,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1583,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1583,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1589,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1589,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1590,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1590,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1590,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1590,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1592,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1592,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1592,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1592,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1593,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1593,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1599,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1599,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1599,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1604,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1604,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1606,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1606,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1606,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1606,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1606,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1607,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1607,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1607,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1608,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1608,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1608,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1613,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1613,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1614,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1614,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1617,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1617,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1617,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1617,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1620,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1620,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1620,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1626,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1628,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1628,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1628,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1629,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1629,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1629,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1629,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1629,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1637,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1637,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1641,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1641,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1641,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1642,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1647,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1647,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1647,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1647,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1647,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1648,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1648,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1648,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1654,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1654,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1654,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1654,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1658,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1658,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1658,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1658,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1658,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1660,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1660,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1660,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1660,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1661,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1661,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1661,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1661,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1661,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1662,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1664,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1664,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1664,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1664,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1664,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1665,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1665,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1665,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1666,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1666,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1666,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1666,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1667,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1667,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1667,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1668,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1668,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1668,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1668,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1668,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1669,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1669,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1669,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1669,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1669,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1670,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1670,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1670,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1670,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1670,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1674,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1678,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1678,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1678,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1678,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1685,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1685,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1685,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1690,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1690,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1690,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1690,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1696,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1696,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1696,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1698,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1698,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1698,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1698,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1698,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1701,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1701,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1701,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1701,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1703,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1703,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1704,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1704,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1704,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1705,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1705,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1705,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1705,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1705,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1706,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1706,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1706,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1707,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1707,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1707,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1707,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1708,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1708,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1712,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1712,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1713,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1713,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1713,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1719,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1719,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1719,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1721,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1721,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1721,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1722,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1722,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1722,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1722,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1728,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1728,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1735,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1736,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1736,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1738,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1738,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1740,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1740,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1744,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1745,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1745,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1748,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1748,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1760,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1760,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1760,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1761,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1761,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1761,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1763,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1763,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1763,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1763,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 1764,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1764,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1764,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1764,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1768,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1768,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1768,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1768,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1768,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1771,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1771,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1775,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1775,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1775,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1775,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1786,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1786,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1786,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1804,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1804,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1804,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1804,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1804,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1805,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1805,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1805,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1805,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1806,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1806,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1806,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1808,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1808,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1808,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1810,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1810,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1813,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1813,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1817,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1817,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1817,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1817,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1818,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1818,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1818,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1818,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1824,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1825,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1832,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1833,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1833,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1833,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1838,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1838,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1841,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1841,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1842,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1842,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1844,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1844,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1844,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1847,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1847,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1847,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1848,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1848,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1848,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1848,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1852,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1852,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1853,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1857,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1857,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1859,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1859,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1861,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1861,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1861,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1861,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1866,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1866,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1866,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1866,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1873,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1873,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1873,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1873,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 1879,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1879,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1879,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1880,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1880,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1880,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1880,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1883,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1887,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1887,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1888,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1888,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1890,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1890,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1890,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1893,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1893,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1893,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1901,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1909,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1909,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1910,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1910,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1913,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1913,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1919,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1919,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1919,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1920,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1920,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1920,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1920,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1922,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1922,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1922,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1922,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1924,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1924,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1924,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1925,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1936,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1936,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1936,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1940,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1940,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1940,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1940,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1940,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1941,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1941,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1941,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1954,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1954,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1954,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1954,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1954,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1956,
+  "genre": "Action"
+ },
+ {
+  "animeID": 1956,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 1957,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1957,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1957,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1957,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1959,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1965,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1965,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 1965,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 1965,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1966,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 1966,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 1966,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 1966,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 1974,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 1985,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 1994,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 1994,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1994,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1994,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 1996,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 1996,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 1996,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 1996,
+  "genre": "Music"
+ },
+ {
+  "animeID": 1996,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2004,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2004,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2004,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2004,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2006,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2006,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2006,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2008,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2008,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2008,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2008,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2008,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2009,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2009,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2009,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2009,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2009,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2010,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2010,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2011,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2011,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2012,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2012,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2012,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2012,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2013,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2013,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2013,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2014,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2014,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2016,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2016,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2016,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2016,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2017,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2017,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2017,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2017,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2018,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2018,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2018,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2018,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2018,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2019,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2019,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2019,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2019,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2020,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2020,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2020,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2022,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2022,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2026,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2026,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2026,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2034,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2034,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2034,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2035,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2035,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2035,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2036,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2036,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2036,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2036,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2037,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2037,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2037,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2037,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2041,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2041,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2041,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2041,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2041,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2042,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2042,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2042,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2042,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2042,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2043,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2043,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2043,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2043,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2043,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2050,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2050,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2050,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2051,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2051,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2051,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2051,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2051,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2052,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2052,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2053,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2053,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2053,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2053,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2053,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2056,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2056,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2056,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2056,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2059,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2059,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2073,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2074,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2074,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2074,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2075,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2075,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2075,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2076,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2083,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2088,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2088,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2091,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2092,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2092,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2093,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2096,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2096,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2097,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2097,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2098,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2098,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2098,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2098,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2098,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2099,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2099,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2099,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2100,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2100,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2100,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2101,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2102,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2102,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2102,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2102,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2103,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2103,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2104,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2104,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2107,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2107,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2107,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2112,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2116,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2116,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2117,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2117,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2125,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2125,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2125,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2126,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2126,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2126,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2126,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2130,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2130,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2130,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2130,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2137,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2143,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2143,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2143,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2143,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2144,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2144,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2148,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2148,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2154,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2154,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2154,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2158,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2158,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2158,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2159,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2159,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2161,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2161,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2165,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2165,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2165,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2166,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2166,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2172,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2172,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2180,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2180,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2180,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2180,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2198,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2198,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2198,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2204,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2204,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2204,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 2207,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2207,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2207,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2213,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2214,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2214,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2216,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2216,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2216,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2219,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2219,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2219,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2219,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2221,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2221,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2221,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2222,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2222,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2222,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2222,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2224,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2224,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2224,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2227,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2229,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2229,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2229,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2231,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2237,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2237,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2238,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2238,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2243,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2243,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2243,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2252,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2252,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2252,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2252,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2253,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2253,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2253,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2253,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2259,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2259,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2259,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2264,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2264,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2287,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2287,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2287,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2291,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2291,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2291,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2291,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2291,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2311,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2316,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2317,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2317,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2318,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2318,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2321,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2321,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2321,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2326,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2330,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2330,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2330,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2335,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2335,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2335,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2337,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2337,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2337,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2338,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2339,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2340,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2340,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2341,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2341,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2341,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2346,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2346,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2346,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2346,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2354,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2354,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2354,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2354,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2354,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2355,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2355,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2355,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2355,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2355,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2356,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2356,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2356,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2356,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2359,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2359,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2359,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2359,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2365,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2365,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2372,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2372,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2384,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2384,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2384,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2384,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2385,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2385,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2386,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2386,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2386,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2387,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2387,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2400,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2400,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2402,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2402,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2402,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2402,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2403,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2403,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2403,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2404,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2404,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2404,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2405,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2406,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2406,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2407,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2407,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2410,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2410,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2412,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2414,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2414,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2414,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2414,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2415,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2415,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2416,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2416,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2417,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2417,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2417,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2419,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2419,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2419,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2419,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2419,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2422,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2422,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2422,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2422,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2424,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2424,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2424,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2424,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2424,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2427,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2427,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2428,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2428,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2446,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2449,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2449,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2449,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2449,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2449,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2450,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2450,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2451,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2451,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2451,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2452,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2452,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2452,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2454,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2454,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2454,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2454,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2457,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2457,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2458,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2458,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2458,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2460,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2460,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2463,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2463,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2463,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2468,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2468,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2471,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2471,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2486,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2486,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2486,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2486,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2486,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2490,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2490,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2490,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2497,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2500,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2500,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2501,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2501,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2503,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2503,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2508,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2508,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2512,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2512,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2513,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2513,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2514,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2514,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2515,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2515,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2518,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2520,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2520,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2522,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2522,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2522,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2525,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2525,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2526,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2526,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2526,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2526,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2526,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2527,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2530,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2542,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2542,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2552,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2556,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2556,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2560,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2560,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2560,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2562,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2562,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2562,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 2563,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2563,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2563,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2565,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2580,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2580,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2588,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2589,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2589,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2592,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2592,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2592,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2592,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2592,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2594,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2594,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2594,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2594,
+  "genre": "Music"
+ },
+ {
+  "animeID": 2596,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2596,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2596,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2596,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2596,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2597,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2602,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2602,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2602,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2605,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2607,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2608,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2608,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2621,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2621,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2648,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2648,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2655,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2655,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2655,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2665,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2665,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2665,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2670,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2670,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2670,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2674,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2674,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2674,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2676,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2684,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2684,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2684,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2685,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2685,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2685,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2685,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2686,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2686,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2686,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2693,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2693,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2694,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2698,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2698,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2698,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 2702,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2703,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2704,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2704,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2704,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2705,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2705,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2706,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2708,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2708,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2709,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2712,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2712,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2718,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2718,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2723,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2723,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2723,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2723,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2726,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2726,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2726,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2726,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2729,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2730,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2730,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2734,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2734,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2737,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2737,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2737,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2737,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2737,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2740,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2741,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2744,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2747,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2747,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2747,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2747,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2747,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2748,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2748,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2748,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2751,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2751,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2751,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2752,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2752,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2752,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2754,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2754,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2754,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2754,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2762,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2762,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2762,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2768,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2768,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2768,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2768,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2771,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2771,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2772,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2772,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2775,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2775,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2775,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2775,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2775,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2780,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2780,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2780,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2780,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2785,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2785,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2785,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2789,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2789,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2790,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2790,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2791,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2791,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2797,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2797,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2798,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2800,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2800,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2802,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2802,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2811,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2811,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2811,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2811,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2811,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2834,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2834,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2835,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2835,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2835,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2840,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2851,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2851,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2851,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2852,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2861,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2863,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2881,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2883,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2901,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2901,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2903,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2903,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2905,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2906,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2906,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2906,
+  "genre": "Mecha"
+ },
+ {
+  "animeID": 2906,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2907,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2907,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2911,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2911,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2912,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2912,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2920,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2920,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2920,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2920,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2921,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2921,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2921,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2921,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2922,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2922,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2923,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2923,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2923,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2929,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2929,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2929,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2931,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2931,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2931,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2933,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2933,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2933,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2934,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2937,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2937,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "animeID": 2942,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2942,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2951,
+  "genre": "Action"
+ },
+ {
+  "animeID": 2951,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2951,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2956,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2960,
+  "genre": "Hentai"
+ },
+ {
+  "animeID": 2963,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2963,
+  "genre": "Slice of Life"
+ },
+ {
+  "animeID": 2964,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2964,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2965,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2965,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2973,
+  "genre": "Adventure"
+ },
+ {
+  "animeID": 2973,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2973,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2981,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2981,
+  "genre": "Horror"
+ },
+ {
+  "animeID": 2981,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2985,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2985,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2985,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2986,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2986,
+  "genre": "Sports"
+ },
+ {
+  "animeID": 2993,
+  "genre": "Comedy"
+ },
+ {
+  "animeID": 2993,
+  "genre": "Ecchi"
+ },
+ {
+  "animeID": 2993,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2993,
+  "genre": "Romance"
+ },
+ {
+  "animeID": 2994,
+  "genre": "Mystery"
+ },
+ {
+  "animeID": 2994,
+  "genre": "Psychological"
+ },
+ {
+  "animeID": 2994,
+  "genre": "Supernatural"
+ },
+ {
+  "animeID": 2994,
+  "genre": "Thriller"
+ },
+ {
+  "animeID": 2997,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2997,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2998,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 2998,
+  "genre": "Fantasy"
+ },
+ {
+  "animeID": 2998,
+  "genre": "Sci-Fi"
+ },
+ {
+  "animeID": 2999,
+  "genre": "Drama"
+ },
+ {
+  "animeID": 3000,
+  "genre": "Action"
+ },
+ {
+  "animeID": 3000,
+  "genre": "Comedy"
+ }
+]

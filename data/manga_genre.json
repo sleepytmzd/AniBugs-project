@@ -1,0 +1,8486 @@
+[
+ {
+  "mangaID": 30703,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30703,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30703,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30703,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30703,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30704,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30704,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30704,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30704,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30704,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31348,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31348,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31348,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31348,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30043,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30043,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31009,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31009,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31009,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31009,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34147,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34147,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30375,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30375,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30375,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30001,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30001,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30001,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30001,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 30011,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30011,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30011,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30013,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30013,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30013,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30013,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30793,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30793,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30049,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30049,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 44231,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30160,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30160,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30160,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 40016,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40016,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 40016,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40016,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 40016,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30653,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30653,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30653,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30191,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30191,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30191,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30002,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31023,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31023,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31023,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30022,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30022,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30022,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30664,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30664,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30664,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30664,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30446,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30446,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30446,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30448,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30448,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30448,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30448,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30080,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30080,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30080,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30080,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30075,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30075,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30075,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30075,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30668,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30145,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30145,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30145,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30145,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30145,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30107,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30107,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30107,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30107,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30107,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30338,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30338,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30338,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30094,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30094,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30094,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30094,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30094,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30097,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30097,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30097,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30097,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30098,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30098,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30098,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30085,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30085,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30221,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30221,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30221,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30040,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30040,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30040,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30040,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30320,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31248,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31248,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31248,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30055,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30055,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 37270,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37270,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30083,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30083,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30083,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30083,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30083,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30152,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30152,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30152,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30877,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30877,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30394,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30394,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30394,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30394,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30472,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30472,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30472,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30472,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30944,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30944,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 111771,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 111771,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 111771,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30339,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30102,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30102,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30102,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30102,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30102,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30025,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30025,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30025,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30025,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30025,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30008,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30008,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30008,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30008,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30008,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30084,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30084,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30084,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30084,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30084,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30509,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30509,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30509,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30510,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30510,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30510,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30510,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30510,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30019,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30019,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30019,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30019,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30019,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30649,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30649,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30649,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30649,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30020,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30020,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30020,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30020,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30020,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30026,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30026,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30026,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30026,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31850,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31850,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31850,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 31850,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30036,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30969,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30969,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30969,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30969,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30017,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30017,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30017,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30017,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30090,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30090,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 46942,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 46942,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 46942,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30050,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30050,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30050,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30050,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30027,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30027,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30027,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30027,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30015,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30015,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30015,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30015,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30015,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 74881,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 74881,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 74881,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30474,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30474,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30033,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30033,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30033,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30033,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30051,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30051,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30051,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30087,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30087,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30073,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30073,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30073,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30073,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33211,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33211,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33211,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30009,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30009,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30009,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30009,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30009,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30956,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30956,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30956,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30052,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30016,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30016,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30016,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30501,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30501,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30501,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30962,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30962,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30962,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30755,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30755,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30755,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30709,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30709,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30709,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30023,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30023,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30023,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30023,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30042,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30042,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30042,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30042,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30933,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30066,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33533,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33533,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33533,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33730,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33730,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33730,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 33730,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30106,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30106,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30106,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30106,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30106,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31526,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31526,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31526,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31526,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 37200,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37200,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37200,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31061,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31061,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31061,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31061,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31804,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31804,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31804,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 112094,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 112094,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 112094,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31631,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30784,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30784,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30784,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30136,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30136,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30136,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30136,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30136,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30348,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30348,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30348,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30348,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30325,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30325,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30325,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31092,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31092,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31092,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31092,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30332,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30332,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30332,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30332,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30336,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30336,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30336,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30336,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30014,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30014,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30014,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31146,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31146,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31146,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30045,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30045,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30045,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30045,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30676,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30676,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30676,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30676,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30869,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30869,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30869,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30869,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 32777,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30372,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30372,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30372,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 171070,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30405,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30405,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30405,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30405,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31785,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31785,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30007,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30007,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30007,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30007,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31458,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31458,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31458,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31458,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31458,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30012,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30012,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30012,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30267,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30267,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30267,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30111,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30111,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30111,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30111,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30111,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34096,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34096,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31512,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31512,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31512,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31512,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31512,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33965,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33965,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33965,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30132,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30132,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30132,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 41425,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 41425,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30852,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30852,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 97486,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 97486,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31294,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31294,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30935,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30935,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30935,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30935,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30328,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30328,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30328,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30328,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30117,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30117,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30117,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30117,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30662,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30662,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30662,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30662,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30662,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 32700,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32700,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 37756,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37756,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37756,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37948,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 37948,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 37948,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 157195,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 157195,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 30029,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30029,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30475,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30475,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30128,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30128,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30128,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30128,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30128,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30481,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30481,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30481,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30481,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30572,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30572,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30572,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30572,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34080,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30091,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30091,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30091,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30659,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30659,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30659,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30659,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30489,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30489,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30489,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30489,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30660,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30660,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41854,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30534,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30534,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30534,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 30457,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30457,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30457,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30457,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 33097,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33097,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 33097,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33097,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33097,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30729,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30729,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31293,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31293,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31293,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 47026,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 47026,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 47026,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 47026,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30314,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30314,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30695,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30695,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30695,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30695,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30318,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30318,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30318,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30318,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30564,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 52897,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 52897,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 52897,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31014,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31014,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31014,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31014,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 39546,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39546,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 39546,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30430,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30430,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30430,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30430,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30430,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30053,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30053,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30053,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30053,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30053,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 37438,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37438,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37438,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37438,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 37438,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33826,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33826,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33826,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30611,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30611,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30611,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30611,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30611,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31221,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31221,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31675,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31448,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31448,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31448,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 84273,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 54979,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 54979,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 54979,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30513,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30513,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30513,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31705,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31705,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31705,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31705,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 32180,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 32180,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30119,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30119,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30119,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30119,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30119,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30500,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30500,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30500,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30418,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30418,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30418,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30418,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30418,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38404,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38404,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 38404,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 61935,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 61935,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 61935,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 93023,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 93023,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 93023,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 93023,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 93023,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30387,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30387,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30387,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30387,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30604,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30604,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30604,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30604,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30081,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30124,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30124,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30124,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30124,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30124,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30326,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30326,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30054,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 34828,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34828,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30371,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30371,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33002,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30140,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30140,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30140,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31032,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31032,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31032,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31469,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31469,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41696,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 41696,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30390,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30390,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30390,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30744,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30744,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30744,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30744,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30423,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30423,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30423,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30423,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30423,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31436,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31436,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31436,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30655,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30655,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30655,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30655,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30773,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30773,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30773,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30092,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30092,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30092,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30092,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 48083,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48083,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 40725,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40725,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30918,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30918,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30918,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30918,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 40978,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40978,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 40978,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30683,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30683,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30683,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40909,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40909,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40909,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34619,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30651,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30651,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30651,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30651,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30651,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31728,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31728,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31728,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31728,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33498,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 38590,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38590,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35228,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 35228,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34945,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34945,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 34945,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35724,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35724,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31372,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31485,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31485,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31485,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31485,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34750,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34750,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34750,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 48753,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48753,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31212,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31212,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31212,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 35626,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 35626,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 35626,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30199,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30199,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30199,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 33648,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33648,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 37660,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37660,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37660,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31499,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31499,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31499,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 39806,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39806,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 39806,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 39806,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30974,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30974,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30974,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30974,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30974,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31331,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31331,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33829,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33829,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33829,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 42646,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 42646,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42646,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31319,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31319,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31319,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31218,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31218,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31218,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30872,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30872,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30872,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30872,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30779,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30779,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30779,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 36330,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36330,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 36330,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40220,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40220,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 40220,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30554,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30554,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30554,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30554,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30554,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31223,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31223,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31223,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31223,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30853,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30853,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30853,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30663,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30663,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30663,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 37634,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30815,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30815,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30815,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30815,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30815,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30833,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30833,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31388,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31388,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 49563,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 49563,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 33168,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33168,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33168,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33168,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31578,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31578,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31578,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31579,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31579,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30134,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30134,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30134,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31507,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31507,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30775,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30775,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30775,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30775,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 35098,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35098,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33249,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33249,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34084,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34084,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34084,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 45088,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 45088,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33080,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32585,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32585,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 53777,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 53777,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 53777,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 53777,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 53777,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31419,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31419,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 32702,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32702,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34342,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34342,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34342,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 36865,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 36865,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36865,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 36865,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30818,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30818,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30818,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30818,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31603,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31603,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31603,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31603,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33127,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33127,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33433,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 33433,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 39848,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31722,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31722,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31153,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31153,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31153,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31153,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31153,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 34844,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34844,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34844,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34844,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 45162,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 45162,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37747,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37747,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 36812,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31216,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31216,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31216,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31216,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30030,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30030,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30030,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30030,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30074,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30074,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30074,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30074,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30074,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30010,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30010,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30010,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30010,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31667,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31667,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31667,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33239,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33239,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33239,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33239,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 98138,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 98138,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 98138,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 98138,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 98138,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30028,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30028,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30028,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30028,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30736,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30736,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30736,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30736,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30736,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 128882,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 128882,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 128882,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 128882,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 128882,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 30093,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30093,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30093,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30093,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30735,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30735,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30735,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30735,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30246,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30246,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 41361,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 41361,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37577,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37577,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37577,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 34010,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34010,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 34010,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34227,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34227,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 34227,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 66611,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 66611,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 30044,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30044,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30044,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30044,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 32913,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 32913,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 32913,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 32913,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 36566,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36566,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 36566,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 39987,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39987,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 35682,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 35682,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 35682,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 35682,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 45530,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 45530,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 41189,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 41189,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41189,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30382,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30382,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30382,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 32435,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32435,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31149,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31149,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31149,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33483,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33483,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33483,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30728,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30728,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30728,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33010,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33010,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33010,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 33010,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30004,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30004,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 137393,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 137393,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 137393,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 137393,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38552,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 38552,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 38552,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 38552,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 38552,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31540,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31540,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31540,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31540,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 35115,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35115,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35115,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 35115,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30895,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30895,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30895,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30768,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30768,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30678,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30678,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30678,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30678,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31707,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31707,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31707,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 48010,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 40134,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 40134,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 40134,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 33886,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33886,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31536,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31536,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 31536,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31536,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31537,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31537,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 31537,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31537,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30133,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30133,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30133,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30133,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 44772,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 44772,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31910,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31910,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31910,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31910,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31910,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31505,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31505,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31505,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 139250,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 73515,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30149,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30149,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30149,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30149,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30149,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31242,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31242,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 37661,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38772,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38772,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 38772,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31013,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31013,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31013,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31013,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31013,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 57953,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 57953,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31407,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31407,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31407,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31407,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38820,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 38820,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30922,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30922,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30922,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30922,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30922,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30949,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30949,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 40049,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40049,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 40049,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 40049,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 40049,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33395,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33395,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33395,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31449,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31449,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31449,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31449,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 41215,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 41416,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 41416,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 41416,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41416,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 41416,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 53414,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 53414,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30889,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30889,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30889,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30889,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30367,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30367,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30367,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30367,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 79633,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 48084,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48084,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 34610,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 38584,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41127,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39280,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 39280,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 39280,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31245,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34846,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 33714,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31569,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31569,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33695,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33695,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31717,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31717,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31717,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30176,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30176,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30176,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30176,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31031,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31031,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31031,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 39074,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 39074,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 39074,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 39074,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38900,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38900,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 38900,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 38900,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 38900,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 35907,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35907,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35907,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35907,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30114,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30114,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30114,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30114,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31045,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31045,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 142777,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 72643,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 72643,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 72643,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 72643,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 72643,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 33396,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33396,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33396,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 32998,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32998,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 42565,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 42565,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42565,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 42565,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 42565,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31723,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31723,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31723,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30304,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 33932,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33932,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 39705,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 39705,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 39705,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 39705,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 39705,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 96058,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 96058,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 96058,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 136259,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 136259,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30753,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30753,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30706,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30706,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30706,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30706,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 34222,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30844,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30844,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30844,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 47813,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 47813,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 47813,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 47813,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 47813,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 37700,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37700,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37700,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 37700,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 35375,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35375,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 35375,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 35375,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 78247,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 78247,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 31442,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31325,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31325,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31325,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31325,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31292,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31292,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31600,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31608,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31608,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31608,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33437,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 33437,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 37608,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 37608,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 37608,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30438,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30438,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30438,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30438,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30438,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 116975,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 116975,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 116975,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 35733,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35733,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35733,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 37546,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37546,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30688,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30688,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30688,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30688,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 102011,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 102011,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 56157,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 56157,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 56157,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31515,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31515,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30792,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30792,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30792,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30792,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30792,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 47226,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 47226,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 47226,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30024,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30024,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30024,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30848,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30848,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30848,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 49696,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 49696,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 49696,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30076,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30076,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30076,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30018,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30018,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30018,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30018,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31503,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31503,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31503,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30340,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30340,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30340,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30452,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30452,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30452,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31347,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 48924,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 48924,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 48924,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 48924,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 162355,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 162355,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 162355,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30414,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30414,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30414,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33474,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33474,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 33474,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30228,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30228,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30228,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30228,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31228,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30021,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30021,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30021,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30021,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30021,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 30041,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30041,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30041,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30041,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 50021,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 50021,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 50021,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30426,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30426,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31148,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 55187,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 112189,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 112189,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 112189,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 112189,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 40199,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 40199,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 40199,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 56486,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 56486,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 56486,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31643,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31643,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31643,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 37703,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 37703,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 37703,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30988,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30988,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30988,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30988,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30422,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30422,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30422,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30697,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30697,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30697,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30697,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30697,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30508,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30508,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30508,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30508,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30508,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34328,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34328,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 34328,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31771,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31771,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31771,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31771,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 146952,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 146952,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35625,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34035,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 34035,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 77174,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 77174,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 46738,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 46738,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 46738,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33713,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33713,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34607,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 33068,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33068,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31800,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31800,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31800,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31800,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31800,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30047,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30047,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30105,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30105,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30105,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30105,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30105,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31465,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31465,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31465,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31465,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31465,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 40611,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40611,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30086,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30086,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30086,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30086,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31791,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31791,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 78775,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 78775,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33818,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33818,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 131550,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 131550,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 131550,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 131550,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 37666,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 37666,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 37666,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 129525,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 129525,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 129525,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31475,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31475,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31475,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31475,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31475,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31365,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31365,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 38560,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38560,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38560,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30429,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30429,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30429,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30429,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30429,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31001,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31001,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31001,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31001,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 95565,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 95565,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 95565,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 33174,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 33174,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33174,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 33174,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 86168,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 109212,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 109212,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30067,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30067,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 71437,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 71437,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 71437,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 65835,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 65835,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31639,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31639,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31639,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 48269,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48269,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 48269,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30670,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30670,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30670,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30670,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30954,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30954,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30419,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30419,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30419,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30419,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 40224,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40224,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 40224,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 40224,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31140,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31140,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 47224,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 47224,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 47224,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 47224,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 47224,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 35451,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35451,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35451,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 95856,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 95856,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 60935,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 60935,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 60935,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 52786,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 52786,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 52786,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 31876,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31876,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31086,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30089,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30089,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30089,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30089,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 33063,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 95888,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 95888,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35362,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 35362,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35362,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35362,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 35362,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41136,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31298,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31298,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31298,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31298,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31298,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 31765,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31765,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31765,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 35850,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35850,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 93859,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 93859,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 93859,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30921,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30921,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 39757,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 39757,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 39757,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39757,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30035,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30035,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30035,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30035,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30035,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33238,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33238,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 33238,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 33238,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33238,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30583,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30583,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30583,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30583,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 33281,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 35192,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35192,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 35192,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 35192,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 117932,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30629,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30130,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30130,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30552,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30552,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30307,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30307,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30307,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 37172,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37172,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31362,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31362,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 55592,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 55592,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 55592,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 55592,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33224,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33224,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33224,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 45058,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 36093,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 36093,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 36093,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 36093,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 36093,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 115700,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 115700,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 115700,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30587,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30587,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30113,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 36986,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 48752,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 48752,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 48752,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33359,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33359,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30444,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30445,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30445,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30445,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30445,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30445,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 93823,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 93823,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 93823,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34281,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30681,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30681,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30681,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 33752,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33752,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31665,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31665,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31665,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 90549,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 90549,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 90549,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 90549,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38558,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 38558,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 35505,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35505,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31044,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31044,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 145565,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 145565,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 145565,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 40810,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 40810,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40810,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40810,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30696,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30696,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30031,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30031,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30031,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 141313,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 141313,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 34998,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34998,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 34998,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 34998,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 42643,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 42643,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31659,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 31659,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 31932,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31932,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31932,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31932,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31932,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 48388,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 48388,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48388,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 38740,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38740,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 38740,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 38740,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 38740,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 46963,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 46963,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 48554,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 42934,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 42934,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 75175,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 75175,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 111479,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 111479,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 111479,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 111479,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 39798,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 39798,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 39798,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 39798,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30393,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30393,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30393,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30393,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 47111,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 47149,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 67909,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 114914,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 114914,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 114914,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 34693,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41339,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41339,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 94450,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 94450,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31426,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31426,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 78801,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 78801,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 58683,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 58683,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 58683,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 54531,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 54531,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 30759,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30759,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30759,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30759,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 32720,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32720,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 32720,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31789,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31789,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30424,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30424,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30424,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30424,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 63819,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 31213,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31213,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31213,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31213,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30442,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30442,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30442,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30442,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31207,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31207,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31207,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30994,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30994,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30528,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30528,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30528,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30528,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 30528,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40499,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 40499,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 40499,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30973,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30973,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31203,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31203,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31203,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 31462,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 31462,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 31462,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 33868,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33868,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 33868,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 50769,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 50769,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 50769,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 50769,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 50769,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 37949,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 37949,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 37949,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 37949,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30796,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30796,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30796,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30796,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 41021,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41021,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 41021,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 39393,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 39393,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30871,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30871,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30871,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31015,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31015,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31015,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 44573,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 44573,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31474,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31474,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31474,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31474,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 31474,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 115068,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 115068,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 151564,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 151564,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 38773,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 38773,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38773,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 38773,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 129528,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 129528,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 170754,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 170754,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 170754,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 35917,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 93544,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 93544,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 93544,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 93544,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 93544,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 139280,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 139280,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 32950,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 32950,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 32950,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 98230,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 98230,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 98230,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 98230,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 70437,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 70437,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 34538,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34538,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34538,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 34538,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 150265,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 150265,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 150265,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 153902,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 153902,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 153902,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 46529,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 46529,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 76486,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 76486,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 76486,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40574,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 40574,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 42566,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 42566,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 42566,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 42566,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 41821,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41821,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 41821,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 41821,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30932,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30932,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 34592,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 34592,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 34592,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 42206,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 42206,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 42206,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 137091,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 137091,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 137091,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 42034,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 42034,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 111008,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 111008,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 111008,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 111008,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 92269,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33822,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33822,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33822,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 33822,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31303,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31303,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31303,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30582,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30582,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30582,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30582,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30582,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 30099,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30099,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30099,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30099,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30099,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 43192,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 43192,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 64621,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 64621,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 58975,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 58975,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 58975,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 105134,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 105134,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30234,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30234,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30234,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30864,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30864,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 41673,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41673,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 41673,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 47240,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 47240,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 47240,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 47240,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 111712,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 31062,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31062,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 31062,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31062,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 52943,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 52943,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 52944,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 52944,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 66133,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 66133,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 45676,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 45676,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 91928,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 91928,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 91928,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 35405,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 35405,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 118288,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 45690,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 43276,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 43276,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42709,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42709,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31680,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31680,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31680,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31680,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 37746,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 37746,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 37746,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 115287,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 32685,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 32685,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 57571,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 57571,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30920,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30920,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 163044,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 163044,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 47037,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 47037,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 32895,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 32895,
+  "genre": "Music"
+ },
+ {
+  "mangaID": 40743,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 40743,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40743,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 31302,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31302,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 31302,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 31302,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30661,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Psychological"
+ },
+ {
+  "mangaID": 148373,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 40354,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40354,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 40354,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 34056,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34056,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 42471,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 42471,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42471,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 42471,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 95429,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 95429,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 44689,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 44689,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31461,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 31461,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31461,
+  "genre": "Thriller"
+ },
+ {
+  "mangaID": 72137,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30243,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30243,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 30243,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 38298,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 38298,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38298,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 125334,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36990,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36990,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 49490,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 49490,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 49490,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 159139,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 159139,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 159139,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 159139,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 45892,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 45892,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 45892,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 45892,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 88556,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 88556,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 88556,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 88556,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 142342,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 57137,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 33399,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33399,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33399,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 105746,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 105746,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41214,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41214,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 50776,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 50776,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 50776,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 63623,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 63623,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31747,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 31747,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30526,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30526,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30112,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30112,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 30112,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30112,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30112,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30538,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 30538,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 62037,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 62037,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 57819,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 57819,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 57819,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 57819,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 32033,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 32033,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32033,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 40004,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 40004,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 140193,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 140193,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 140193,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 89789,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 89789,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 89789,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 50087,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 50087,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 50087,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 50087,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 38717,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33286,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 33286,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 33300,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 33300,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 33300,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 113015,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 113015,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 113015,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 113015,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 113015,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 30449,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30449,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30449,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 36045,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 36045,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 36045,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 42374,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 42374,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 42374,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 42374,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 33870,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 48071,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 48071,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 55399,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 55399,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 35254,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 35254,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38095,
+  "genre": "Mecha"
+ },
+ {
+  "mangaID": 38095,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 38344,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 38344,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 38344,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 30101,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30101,
+  "genre": "Mahou Shoujo"
+ },
+ {
+  "mangaID": 30101,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 34561,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34561,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 34561,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34561,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 150787,
+  "genre": "Adventure"
+ },
+ {
+  "mangaID": 150787,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 118242,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 118242,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 34576,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 34576,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 41264,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 41264,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 42218,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 42218,
+  "genre": "Hentai"
+ },
+ {
+  "mangaID": 42218,
+  "genre": "Romance"
+ },
+ {
+  "mangaID": 32629,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 32629,
+  "genre": "Slice of Life"
+ },
+ {
+  "mangaID": 31324,
+  "genre": "Drama"
+ },
+ {
+  "mangaID": 31324,
+  "genre": "Sci-Fi"
+ },
+ {
+  "mangaID": 46766,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 46766,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 39057,
+  "genre": "Horror"
+ },
+ {
+  "mangaID": 30674,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30674,
+  "genre": "Mystery"
+ },
+ {
+  "mangaID": 30674,
+  "genre": "Supernatural"
+ },
+ {
+  "mangaID": 30720,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30720,
+  "genre": "Sports"
+ },
+ {
+  "mangaID": 30894,
+  "genre": "Action"
+ },
+ {
+  "mangaID": 30894,
+  "genre": "Comedy"
+ },
+ {
+  "mangaID": 30894,
+  "genre": "Ecchi"
+ },
+ {
+  "mangaID": 30894,
+  "genre": "Fantasy"
+ },
+ {
+  "mangaID": 30894,
+  "genre": "Romance"
+ }
+]
