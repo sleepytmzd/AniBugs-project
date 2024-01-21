@@ -1,0 +1,78 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add user</title>
+    <style>
+      body {
+          font-family: 'Arial', sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #f9f9f9;
+      }
+
+      .content {
+          max-width: 400px;
+          margin: 50px auto;
+          background-color: #fff;
+          padding: 30px;
+          border-radius: 10px;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      form {
+          display: grid;
+          gap: 20px;
+      }
+
+      label {
+          font-size: 16px;
+          color: #333;
+      }
+
+      input {
+          padding: 12px;
+          width: 100%;
+          box-sizing: border-box;
+          border: 1px solid #ddd;
+          border-radius: 6px;
+          font-size: 14px;
+      }
+
+      button {
+          background-color: #007bff;
+          color: #fff;
+          padding: 14px;
+          border: none;
+          border-radius: 8px;
+          cursor: pointer;
+          font-size: 16px;
+          transition: background-color 0.3s ease;
+      }
+
+      button:hover {
+          background-color: #0056b3;
+      }
+  </style>
+</head>
+
+<body>
+
+  <div class="create-blog content">
+    <form action="/add" method="POST">
+      <label for="first_name">First Name:</label>
+      <input type="text" id="first_name" name="first_name" required>
+      <label for="last_name">Last Name:</label>
+      <input type="text" id="last_name" name="last_name" required>
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" required>
+      <label for="gender">Gender:</label>
+      <input type="text" id="gender" name="gender" required>
+      <label for="joined">Joining date:</label>
+      <input type="text" id="joined" name="joined" required>
+      <button>Submit</button>
+    </form>
+  </div>
+
+</body>
+</html>

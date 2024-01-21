@@ -10,8 +10,12 @@ CREATE TABLE anime(
     episodes INTEGER,
     duration INTEGER,
     start_date DATE,
-    end_date DATE
+    end_date DATE,
+    visibility INTEGER
 );
+
+ALTER TABLE anime 
+ADD COLUMN imagelink VARCHAR(1000);
 
 CREATE TABLE manga(
     id INTEGER PRIMARY KEY,
@@ -37,12 +41,14 @@ CREATE TABLE studio(
     name VARCHAR(50)
 );
 
+CREATE SEQUENCE user_id_seq START 1001;
+
 CREATE TABLE "user"(
-    id SERIAL PRIMARY KEY,
+    id INTEGER DEFAULT nextval('user_id_seq') PRIMARY KEY,
     first_name VARCHAR(50),
     last_name VARCHAR(50),
     email VARCHAR(100),
-    gender VARCHAR(30),
+    gender VARCHAR(15),
     joined DATE
 );
 
@@ -73,4 +79,17 @@ CREATE TABLE anime_genre(
     anime_id INTEGER REFERENCES anime(id),
     genre VARCHAR(20),
     PRIMARY KEY (anime_id, genre)
+);
+
+CREATE TABLE purchase(
+    user_id INTEGER REFERENCES "user"(id),
+    anime_id INTEGER REFERENCES anime(id),
+    watched BOOLEAN,
+    PRIMARY KEY (user_id, anime_id)
+);
+
+CREATE TABLE bookmarks(
+    user_id INTEGER REFERENCES "user"(id),
+    anime_id INTEGER REFERENCES anime(id),
+    PRIMARY KEY (user_id, anime_id)
 );

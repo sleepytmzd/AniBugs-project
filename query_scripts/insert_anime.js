@@ -5,7 +5,7 @@ const readFileAsync = promisify(fs.readFile);
 const pool = require('./db_connection');
 
 async function hehe(){
-    try {
+    /*try {
         const temp = await readFileAsync('../data/anime_data_2.json');
         const jsondata = JSON.parse(temp);
         const animelist = jsondata.animes;
@@ -42,11 +42,34 @@ async function hehe(){
         }
     } catch (error) {
         console.log(error);
-    }
+    }*/
 
     //const description = 'database kortesi'
     //const newtodo = await pool.query('INSERT INTO list (description) VALUES ($1)', [description]);
     //console.log(newtodo);
+
+    try {
+        const temp = await readFileAsync('../data/anime_data_2.json');
+        const jsondata = JSON.parse(temp);
+        const animelist = jsondata.animes;
+
+        for(var i = 0; i < animelist.length; i++){
+            const id = animelist[i].data.Media.id;
+            const link = animelist[i].data.Media.coverImage.large;
+
+            const q = await pool.query(
+                `
+                UPDATE anime
+                SET imagelink = $1
+                WHERE id = $2
+                `,[link, id]
+            );
+
+            
+        }
+    } catch (error) {
+        console.log(error);
+    }
 }
 
 hehe();

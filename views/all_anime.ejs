@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            margin-top: 40px;
+        }
+
+        img {
+            border-radius: 8px;
+            max-width: 100%;
+            height: auto;
+            transition: transform 0.2s ease-in-out;
+        }
+
+        .card:hover img {
+            transform: scale(1.1);
+        }
+
+        .btn-details {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <%- include('./partials/navbar.ejs') %>
+
+    <div class="container">
+        <div class="row">
+            <% for(var i = 0; i < animelist.length; i++){ %>
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="<%= animelist[i].imagelink %>" alt="Anime Image" class="card-img-top">
+                        <div class="card-body">
+                            <form action="/individual_anime/<%= animelist[i].id %>" method="get">
+                                <button type="submit" class="btn btn-primary btn-details">View Details</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
