@@ -15,13 +15,14 @@ async function hehe(){
             const email = userlist[i].email;
             const gender = userlist[i].gender;
             const joined = userlist[i].joined;
+            const avatar = userlist[i].avatar;
 
             //console.log(joined);
 
             const q = await pool.query(
-                `INSERT INTO "user" (id, first_name, last_name, email, gender, joined)
-                    VALUES ($1, $2, $3, $4, $5, $6)
-                `, [id, first_name, last_name, email, gender, joined]
+                `INSERT INTO "user" (id, first_name, last_name, email, gender, joined, avatarlink)
+                    VALUES ($1, $2, $3, $4, $5, $6, $7)
+                `, [id, first_name, last_name, email, gender, joined, avatar]
             );
 
             //console.log(q);

@@ -20,6 +20,7 @@ async function hehe(){
             const chapters = mangalist[i].data.Media.chapters;
             const startDate = mangalist[i].data.Media.startDate;
             const endDate = mangalist[i].data.Media.endDate;
+            const imagelink = mangalist[i].data.Media.coverImage.large;
             var sd = startDate.year + '-' + startDate.month + '-' + startDate.day;
             if(startDate.year == null || startDate.month == null || startDate.day == null){
                 sd = null;
@@ -32,9 +33,9 @@ async function hehe(){
             //console.log(sd + '\n' + ed);
 
             const q = await pool.query(
-                `INSERT INTO manga (id, romaji_title, english_title, description, status, volumes, chapters, start_date, end_date)
-                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
-                `, [id, romaji_title, english_title, description, status, volumes, chapters, sd, ed]
+                `INSERT INTO manga (id, romaji_title, english_title, description, status, volumes, chapters, start_date, end_date, imagelink)
+                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+                `, [id, romaji_title, english_title, description, status, volumes, chapters, sd, ed, imagelink]
             );
 
             //console.log(q);
@@ -43,9 +44,6 @@ async function hehe(){
         console.log(error);
     }
 
-    //const description = 'database kortesi'
-    //const newtodo = await pool.query('INSERT INTO list (description) VALUES ($1)', [description]);
-    //console.log(newtodo);
 }
 
 hehe();

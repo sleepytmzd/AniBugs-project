@@ -20,7 +20,7 @@ async function hehe(){
         );
 
         const animelist = result.rows;
-        console.log(animelist);
+        //console.log(animelist);
         
         for(var i = 0; i < userlist.length; i++){
             const limit = randomNumber(10, 100);
