@@ -1,0 +1,115 @@
+<!-- views/template.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purchase List</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        h2 {
+            color: #007bff;
+        }
+
+        table {
+            width: 100%;
+            max-height: 300px; /* Set your desired height */
+            overflow-y: auto;
+        }
+
+        th, td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #007bff;
+            color: #ffffff;
+        }
+
+        tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+
+<%- include('./partials/navbar.ejs') %>
+
+<div class="container mt-5">
+    <h2>Anime List</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Studio</th>
+                <th scope="col">Romaji Title</th>
+                <th scope="col">English Title</th>
+                <th scope="col">Price ($)</th>
+                <!-- Add more columns as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            <% for(let i = 1; i <= list.length; i++) { %>
+                <tr>
+                    <th scope="row"><%= i %></th>
+                    <td><%= list[i-1].name %></td>
+                    <td><%= list[i-1].romaji_title %></td>
+                    <td><%= list[i-1].english_title %></td>
+                    <td><%= list[i-1].price %></td>
+                    <!-- Add more cells with dynamic data as needed -->
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
+</div>
+
+<div class="container mt-5">
+    <h2>Sales List</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Studio</th>
+                <th scope="col">Romaji Title</th>
+                <th scope="col">English Title</th>
+                <th scope="col">Total revenue ($)</th>
+                <th scope="col">Total buyers</th>
+                <!-- Add more columns as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            <% for(let i = 1; i <= sales.length; i++) { %>
+                <tr>
+                    <th scope="row"><%= i %></th>
+                    <td><%= sales[i-1].name %></td>
+                    <td><%= sales[i-1].romaji_title %></td>
+                    <td><%= sales[i-1].english_title %></td>
+                    <td><%= sales[i-1].sum %></td>
+                    <td><%= sales[i-1].count %></td>
+                    <!-- Add more cells with dynamic data as needed -->
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
+</div>
+
+<!-- Bootstrap JS and Popper.js (required for Bootstrap) -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>

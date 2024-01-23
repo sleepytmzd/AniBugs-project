@@ -5,7 +5,7 @@ const readFileAsync = promisify(fs.readFile);
 const pool = require('./db_connection');
 
 async function hehe(){
-    try {
+    /*try {
         const temp = await readFileAsync('../data/anime_data_2.json');
         const jsondata = JSON.parse(temp);
         const animelist = jsondata.animes;
@@ -21,8 +21,6 @@ async function hehe(){
             const duration = animelist[i].data.Media.duration;
             const startDate = animelist[i].data.Media.startDate;
             const endDate = animelist[i].data.Media.endDate;
-            const visibility = animelist[i].data.Media.popularity;
-            const imagelink = animelist[i].data.Media.coverImage.large;
             var sd = startDate.year + '-' + startDate.month + '-' + startDate.day;
             if(startDate.year == null || startDate.month == null || startDate.day == null){
                 sd = null;
@@ -35,17 +33,43 @@ async function hehe(){
             //console.log(sd + '\n' + ed);
 
             const q = await pool.query(
-                `INSERT INTO anime (id, romaji_title, english_title, description, status, season, episodes, duration, start_date, end_date, visibility, imagelink)
-                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
-                `, [id, romaji_title, english_title, description, status, season, episodes, duration, sd, ed, visibility, imagelink]
+                `INSERT INTO anime (id, romaji_title, english_title, description, status, season, episodes, duration, start_date, end_date)
+                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+                `, [id, romaji_title, english_title, description, status, season, episodes, duration, sd, ed]
             );
 
             //console.log(q);
         }
     } catch (error) {
         console.log(error);
-    }
+    }*/
 
+    //const description = 'database kortesi'
+    //const newtodo = await pool.query('INSERT INTO list (description) VALUES ($1)', [description]);
+    //console.log(newtodo);
+
+    try {
+        const temp = await readFileAsync('../data/anime_data_2.json');
+        const jsondata = JSON.parse(temp);
+        const animelist = jsondata.animes;
+
+        for(var i = 0; i < animelist.length; i++){
+            const id = animelist[i].data.Media.id;
+            const link = animelist[i].data.Media.coverImage.large;
+
+            const q = await pool.query(
+                `
+                UPDATE anime
+                SET imagelink = $1
+                WHERE id = $2
+                `,[link, id]
+            );
+
+            
+        }
+    } catch (error) {
+        console.log(error);
+    }
 }
 
 hehe();

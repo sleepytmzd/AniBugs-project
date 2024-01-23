@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Names Collection</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <%- include('./partials/navbar.ejs') %>
+
+    <div class="container mt-4">
+        <h2 class="mb-4">Names Collection</h2>
+
+        <div class="row">
+            <% for(var i = 0; i < list.length; i++){ %>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title"><%= list[i].name %></h2>
+                        <form action="/studio/<%= list[i].id %>" method="get">
+                            <button type="submit" class="btn btn-primary">Details</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <% } %>
+            <!-- Add more cards as needed -->
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

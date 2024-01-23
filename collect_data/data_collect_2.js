@@ -3,10 +3,10 @@ const fs = require('fs');
 const appendFileAsync = promisify(fs.appendFile);
 
 async function fetchData(limit) {
-    await appendFileAsync('../data/anime_data_2.json', '{"animes": [\n');
-    for (let i = 1; i < limit+1; i++) {
+    //await appendFileAsync('../data/anime_data_2.json', '{"animes": [\n');
+    for (let i = 2472; i < limit+1; i++) {
         // Introduce a delay between requests
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        await new Promise(resolve => setTimeout(resolve, 1600));
 
         // Fetch data for the current iteration
         await hehe(i, limit);
@@ -17,7 +17,7 @@ async function fetchData(limit) {
 async function hehe(n, limit) {
     var query = `
     query ($id: Int) {
-        Media(id: $id, type: ANIME, source: MANGA) {
+        Media(id: $id, type: ANIME, source: MANGA, isAdult: false) {
           id
           title {
             romaji

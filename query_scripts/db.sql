@@ -1,8 +1,7 @@
 CREATE DATABASE anime_test;
 
-CREATE SEQUENCE anime_id_seq START 3001;
 CREATE TABLE anime(
-    id INTEGER DEFAULT nextval('anime_id_seq') PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     romaji_title VARCHAR(100),
     english_title VARCHAR(100),
     description VARCHAR(3000),
@@ -12,13 +11,14 @@ CREATE TABLE anime(
     duration INTEGER,
     start_date DATE,
     end_date DATE,
-    visibility INTEGER,
-    imagelink VARCHAR(1000)
+    visibility INTEGER
 );
 
-CREATE SEQUENCE manga_id_seq START 172000;
+ALTER TABLE anime 
+ADD COLUMN imagelink VARCHAR(1000);
+
 CREATE TABLE manga(
-    id INTEGER DEFAULT nextval('manga_id_seq') PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     romaji_title VARCHAR(100),
     english_title VARCHAR(100),
     description VARCHAR(3000),
@@ -26,38 +26,37 @@ CREATE TABLE manga(
     volumes INTEGER,
     chapters INTEGER,
     start_date DATE,
-    end_date DATE,
-    imagelink VARCHAR(1000)
+    end_date DATE
 );
 
-CREATE SEQUENCE character_id_seq START 330000;
 CREATE TABLE "character"(
-    id INTEGER DEFAULT nextval('character_id_seq') PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     name VARCHAR(80),
     gender VARCHAR(10),
-    description VARCHAR(9200),
-    imagelink VARCHAR(1000)
+    description VARCHAR(9200)
 );
 
-CREATE SEQUENCE studio_id_seq START 7500;
 CREATE TABLE studio(
-    id INTEGER DEFAULT nextval('studio_id_seq') PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     name VARCHAR(50)
 );
 
 CREATE SEQUENCE user_id_seq START 1001;
+
 CREATE TABLE "user"(
     id INTEGER DEFAULT nextval('user_id_seq') PRIMARY KEY,
     first_name VARCHAR(50),
     last_name VARCHAR(50),
     email VARCHAR(100),
     gender VARCHAR(15),
-    joined DATE,
-    avatarlink VARCHAR(500)
+    joined DATE
 );
 
+ALTER TABLE "user"
+ADD COLUMN avatarlink VARCHAR(500);
 
-----------------------------------------------------------------------------------------------------------------
+
+
 
 
 CREATE TABLE anime_manga(
@@ -68,7 +67,7 @@ CREATE TABLE anime_manga(
 
 CREATE TABLE anime_character(
     anime_id INTEGER REFERENCES anime(id),
-    character_id INTEGER REFERENCES "character"(id),
+    character_id INTEGER REFERENCES character(id),
     PRIMARY KEY (anime_id, character_id)
 );
 
@@ -97,3 +96,25 @@ CREATE TABLE bookmarks(
     anime_id INTEGER REFERENCES anime(id),
     PRIMARY KEY (user_id, anime_id)
 );
+
+
+
+
+SELECT S.id, S."name", A.id, A.romaji_title, A.english_title, SUM(SA.price), COUNT(P.user_id)
+FROM studio S JOIN anime_studio SA
+ON S.id = SA.studio_id
+JOIN anime A
+ON SA.anime_id = A.id
+JOIN purchase P
+ON SA.anime_id = P.anime_id
+WHERE S.id = 1
+GROUP BY S.id, S."name", A.id, A.romaji_title, A.english_title
+ORDER BY A.visibility DESC;
+
+SELECT S."name", A.romaji_title, A.english_title, SA.price
+FROM studio S JOIN anime_studio SA
+ON S.id = SA.studio_id
+JOIN anime A
+ON SA.anime_id = A.id
+WHERE S.id = 1
+ORDER BY A.visibility DESC;

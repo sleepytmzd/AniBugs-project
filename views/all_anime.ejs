@@ -44,6 +44,9 @@
                     <div class="card">
                         <img src="<%= animelist[i].imagelink %>" alt="Anime Image" class="card-img-top">
                         <div class="card-body">
+                            <% var name = animelist[i].english_title; %>
+                            <% if(animelist[i].english_title == null ){name = animelist[i].romaji_title} %>
+                            <h3><%= name %></h3>
                             <form action="/individual_anime/<%= animelist[i].id %>" method="get">
                                 <button type="submit" class="btn btn-primary btn-details">View Details</button>
                             </form>
