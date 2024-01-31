@@ -49,6 +49,21 @@
 <%- include('./partials/navbar.ejs') %>
 
 <div class="container mt-5">
+<div class="profile-section">
+    <!-- User Profile Image -->
+    <img src="<%= user.avatarlink %>" alt="Profile Image" class="profile-image">
+    <!-- User Profile Information -->
+    <div>
+        <h4>User Name: </h4>
+        <h6><%= user.first_name + ' ' + user.last_name %></h6>
+        <p>Email: <%= user.email %></p>
+        <p>Gender: <%= user.gender %></p>
+        <p>Joined: <%= user.joined %></p>
+        <!-- Add more profile information as needed -->
+    </div>
+</div>
+</div>
+<div class="container mt-5">
     <h2>Purchase List</h2>
     <table class="table table-bordered">
         <thead>
@@ -73,6 +88,38 @@
         </tbody>
     </table>
     <h3>Total cost: <%= total %></h3>
+</div>
+
+<div class="container mt-5">
+    <h2>Bookmarks</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Romaji Title</th>
+                <th scope="col">English Title</th>
+                <th scope="col">Price ($)</th>
+                <th scope="col">Purchase</th>
+                <!-- Add more columns as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            <% for(let i = 1; i <= bookmarks.length; i++) { %>
+                <tr>
+                    <th scope="row"><%= i %></th>
+                    <td><%= bookmarks[i-1].romaji_title %></td>
+                    <td><%= bookmarks[i-1].english_title %></td>
+                    <td><%= bookmarks[i-1].sum %></td>
+                    <td>
+                        <form action="/purchase_anime/<%= bookmarks[i-1].id %>" method="GET">
+                            <button type="submit" class="btn btn-danger">Purchase</button>
+                        </form>
+                    </td>
+                    <!-- Add more cells with dynamic data as needed -->
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
 </div>
 
 <!-- Bootstrap JS and Popper.js (required for Bootstrap) -->

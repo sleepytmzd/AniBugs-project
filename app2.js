@@ -21,13 +21,25 @@ app.get('/', (req, res) => {
     console.log('1 ' + user_id);
 })
 
-//Display user purchase history
-app.get('/user_info', async (req, res) => {
+//Get all anime list
+app.get('/all_anime', async(req, res) => {
     if(user_id == null){
         user_id = req.query.user_id;
     }
-    console.log('2 ' + user_id);
-
+    var animelist;
+    
+    try {
+        const q1 = await pool.query(
+            `
+            SELECT * FROM anime ORDER BY visibility DESC
+            `,[]
+        );
+        animelist = q1.rows;
+    } catch (error) {
+        console.error('error executing query: ', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+    
     try {
         const q1 = await pool.query(
             `
@@ -37,6 +49,24 @@ app.get('/user_info', async (req, res) => {
         username = q1.rows[0].name;
         console.log(username);
 
+    } catch (error) {
+        console.error('error executing query: ', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+    
+    res.render('all_anime', {animelist: animelist, username: username});
+})
+
+//Display user purchase history
+app.get('/user_info', async (req, res) => {
+    var user;
+    try {
+        const q = await pool.query(
+            `
+            SELECT * FROM "user" WHERE id = $1
+            `, [user_id]
+        );
+        user = q.rows[0];
     } catch (error) {
         console.error('error executing query: ', error);
         res.status(500).json({ error: 'Internal Server Error' });
@@ -81,8 +111,30 @@ app.get('/user_info', async (req, res) => {
         console.error('error executing query: ', error);
         res.status(500).json({ error: 'Internal Server Error' });
     }
+
+    var bookmarks;
+    try {
+        const q4 = await pool.query(
+            `
+            SELECT A.id, A.romaji_title,  A.english_title, SUM(SA.price)
+            FROM bookmarks B JOIN anime A
+            ON B.anime_id = A.id
+            JOIN anime_studio SA
+            ON A.id = SA.anime_id
+            WHERE B.user_id = $1
+            GROUP BY A.id, A.romaji_title,  A.english_title
+            ORDER BY A.visibility;
+            `, [user_id]
+        );
+
+        bookmarks = q4.rows;
+        console.log(bookmarks);
+    } catch (error) {
+        console.error('error executing query: ', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
     
-    res.render('user_info', {list: purchaseList, total: total, username: username});
+    res.render('user_info', {user: user, list: purchaseList, total: total, bookmarks: bookmarks, username: username});
 
 })
 
@@ -112,7 +164,7 @@ app.get('/studio/names', async (req, res) => {
 })
 
 //Display Studio sales history
-app.get('/studio/:id', async (req, res) => {
+app.get('/studio/individual/:id', async (req, res) => {
     const studio_id = req.params.id;
     console.log(studio_id)
 
@@ -187,7 +239,14 @@ app.get('/individual_anime/:id', async (req, res) => {
 
     const anime = await pool.query(
         `
-        SELECT * FROM anime WHERE id = $1
+        SELECT *,
+        (
+        SELECT SUM(SA.price)
+        FROM anime_studio SA
+        WHERE SA.anime_id = A.id
+        ) AS price
+        FROM anime A
+        WHERE id = $1;
         `, [id]
     );
 
@@ -201,9 +260,52 @@ app.get('/individual_anime/:id', async (req, res) => {
     if(status.rows != 0){
         isPurchased = true;
     }
-    console.log('isPurchased: ' + isPurchased)
+    console.log('isPurchased: ' + isPurchased);
 
-    res.render('anime_info', {anime: anime.rows[0], isPurchased: isPurchased, username: username})
+    var isBookmarked = false;
+    try {
+        const q = await pool.query(
+            `
+            SELECT * FROM bookmarks
+            WHERE user_id = $1 AND anime_id = $2;
+            `, [user_id, id]
+        );
+        if(q.rows.length != 0){
+            isBookmarked = true;
+        }
+    } catch (error) {
+        console.error('error executing query: ', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+
+    const studios = await pool.query(
+        `
+        SELECT S."id", S."name"
+        FROM anime_studio SA JOIN studio S
+        ON SA.studio_id = S."id" 
+        WHERE anime_id = $1;
+        `, [id]
+    );
+
+    res.render('anime_info', {anime: anime.rows[0], studiolist: studios.rows, isPurchased: isPurchased, isBookmarked: isBookmarked, username: username})
+})
+
+// Bookmark a particular anime
+app.get('/bookmark_anime/:id', (req, res) => {
+    const anime_id = req.params.id;
+
+    pool.query(
+        `
+        INSERT INTO bookmarks (user_id, anime_id) VALUES ($1, $2)
+        `,[user_id, anime_id]
+    )
+    .then(result => {
+        res.redirect('/individual_anime/' + anime_id);
+    })
+    .catch(error => {
+        console.error('error executing query: ', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    })
 })
 
 // Purchase a particular anime
@@ -216,7 +318,19 @@ app.get('/purchase_anime/:id', (req, res) => {
         `,[user_id, anime_id, 'f']
     )
     .then(result => {
-        res.redirect('/individual_anime/' + anime_id);
+        pool.query(
+            `
+            DELETE FROM bookmarks
+            WHERE user_id = $1 AND anime_id = $2
+            `, [user_id, anime_id]
+        )
+        .then(result => {
+            res.redirect('/individual_anime/' + anime_id);
+        })
+        .catch(error => {
+            console.error('error executing query: ', error);
+            res.status(500).json({ error: 'Internal Server Error' });
+        })
     })
     .catch(error => {
         console.error('error executing query: ', error);

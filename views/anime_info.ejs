@@ -85,13 +85,21 @@
                 <li><strong>Duration per episode:</strong> <%= anime.duration %></li>
                 <li><strong>Start date:</strong> <%= anime.start_date %></li>
                 <li><strong>End date:</strong> <%= anime.end_date %></li>
+                <li><strong>Price: </strong> <%= anime.price %></li>
+                <li><strong>Studios:</strong></li>
+
+                <% for(var i = 0; i < studiolist.length; i++){ %>
+                <a href="/studio/individual/<%= studiolist[i].id %>" class="btn btn-primary"><%= studiolist[i].name %></a>
+                <% } %>
             </ul>
             
-            <% if (isPurchased == false) { %>
-                <form action="/purchase_anime/<%= anime.id %>" method="GET">
-                    <button type="submit" class="btn btn-primary">Purchase</button>
+            <% if (isBookmarked == false && isPurchased == false) { %>
+                <form action="/bookmark_anime/<%= anime.id %>" method="GET">
+                    <button type="submit" class="btn btn-danger">Bookmark</button>
                 </form>
-            <% } else { %>
+            <% } else if(isBookmarked == true && isPurchased == false){ %>
+                <label class="text-primary">Bookmarked</label>
+            <% } else if(isBookmarked == false && isPurchased == true){%>
                 <label class="text-success">Purchased</label>
             <% } %>
         </div>
