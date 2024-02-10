@@ -14,7 +14,7 @@ fs.readFile('../data/anime_data_2.json', (err, data) => {
     const anime_list = an.animes;
     console.log(anime_list.length);
     for(var i = 0; i < anime_list.length; i++){
-        //console.log(anime_list[i].data.Media.relations.nodes.length);
+        //console.log(anime_list[i].data.Media.relations.nodes.length + "    " + anime_list[i].data.Media.id);
         const relation_nodes = anime_list[i].data.Media.relations.nodes;
         for(var j = 0; j < relation_nodes.length; j++){
             if(relation_nodes[j].format == "MANGA"){
@@ -35,4 +35,7 @@ fs.readFile('../data/anime_data_2.json', (err, data) => {
     fs.writeFile('../data/anime_manga_pair.json', pair_json, () => {
         console.log('done');
     });
+    fs.writeFile('../data/mangalist.json', JSON.stringify(manga_list, null, 1), () => {
+        console.log('done2');
+    })
 })

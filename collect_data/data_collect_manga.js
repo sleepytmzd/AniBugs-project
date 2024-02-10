@@ -1,20 +1,20 @@
 const { promisify } = require('util');
 const fs = require('fs');
 const appendFileAsync = promisify(fs.appendFile);
+const writeFileAsync = promisify(fs.writeFile);
 const readFileAsync = promisify(fs.readFile);
 
-const manga_list = [];
+let manga_list = [];
 var count = 1;
 
 async function fetchData() {
     try {
             // get the mangalist from anime_manga_pair, then make query for all items in the list and save the manga data
         
-        const temp = await readFileAsync('../data/anime_manga_pair.json');
-        const pairs = JSON.parse(temp);
-        console.log(pairs.length);
-
-        for(var i = 0; i < pairs.length; i++){
+        const temp = await readFileAsync('../data/remaining_mangas.json');
+        manga_list = JSON.parse(temp);
+        
+        /*for(var i = 0; i < pairs.length; i++){
             if(manga_list.find(ele => ele == pairs[i].mangaID)){
                 continue;
             }
@@ -22,14 +22,16 @@ async function fetchData() {
         }
     
         console.log(manga_list);
+
+        await writeFileAsync('../data/emni.json', JSON.stringify(manga_list, null, 1));*/
     } catch (error) {
         console.error('Error reading file:', error);
     }
 
-    await appendFileAsync('../data/manga_data.json', '{"mangas": [\n');
+    //await appendFileAsync('../data/manga_data.json', '{"mangas": [\n');
     for (let i = 0; i < manga_list.length; i++) {
         // Introduce a delay between requests
-        await new Promise(resolve => setTimeout(resolve, 670));
+        await new Promise(resolve => setTimeout(resolve, 1900));
 
         // Fetch data for the current iteration
         await hehe(manga_list[i], manga_list.length);
@@ -69,6 +71,7 @@ async function hehe(n, limit) {
             medium
             color
           }
+          bannerImage
           genres
           popularity
           favourites
@@ -97,9 +100,10 @@ async function hehe(n, limit) {
         const response = await fetch(url, options);
         const data = await response.json();
 
+        console.log(data);
         if(data.errors == null){
             // Append each JSON object to the file
-            console.log(count + ' ' + limit);
+            console.log(count);
             await appendFileAsync('../data/manga_data.json', JSON.stringify(data) + (count < limit ? ',\n' : '\n'));
             count++;
         }

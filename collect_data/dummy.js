@@ -1,31 +1,43 @@
 const { promisify } = require('util');
 const fs = require('fs');
 const appendFileAsync = promisify(fs.appendFile);
+const readFileAsync = promisify(fs.readFile);
+
+const animelist = [];
 
 async function fetchData(limit) {
-    await appendFileAsync('../data/dummy_data.json', '{"animes": [\n');
-    for (let i = 1; i < limit+1; i++) {
+    try {
+        const temp = await readFileAsync('../data/emni.json');
+        const list = JSON.parse(temp);
+
+        for(let z = 0; z < list.length; z++){
+            animelist.push(list[z]);
+        }
+    } catch (error) {
+        console.error('Error reading file:', error);
+    }
+    //await appendFileAsync('../data/dummy_data.json', '[\n');
+    for (let i = 0; i < animelist.length; i++) {
         // Introduce a delay between requests
-        await new Promise(resolve => setTimeout(resolve, 670));
+        await new Promise(resolve => setTimeout(resolve, 1700));
 
         // Fetch data for the current iteration
-        await hehe(i, limit);
+        await hehe(animelist[i], animelist[animelist.length-1]);
     }
-    await appendFileAsync('../data/dummy_data.json', ']}');
+    await appendFileAsync('../data/dummy_data.json', ']');
 }
 
 async function hehe(n, limit) {
     var query = `
-    query ($id: Int) {
-        Media(id: $id, type: ANIME, source: MANGA, isAdult: false) {
+    query ($id: Int) { # Define which variables will be used in the query (id)
+        Media (id: $id, type: ANIME, source: MANGA, isAdult: false) { # Insert our variables into the query arguments (id) (type: ANIME is hard-coded in the query)
           id
           title {
             romaji
             english
             native
           }
-          popularity
-          favourites
+          bannerImage
         }
       }
     `;
@@ -51,6 +63,7 @@ async function hehe(n, limit) {
         const response = await fetch(url, options);
         const data = await response.json();
 
+        console.log(data);
         if(data.errors == null){
             // Append each JSON object to the file
             await appendFileAsync('../data/dummy_data.json', JSON.stringify(data, null, 1) + (n < limit-2 ? ',\n' : '\n'));
@@ -61,4 +74,4 @@ async function hehe(n, limit) {
 }
 
 // Start fetching data
-fetchData(5000);
+fetchData(3800);

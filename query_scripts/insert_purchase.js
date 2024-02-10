@@ -22,21 +22,23 @@ async function hehe(){
         const animelist = result.rows;
         console.log(animelist);
         
-        for(var i = 0; i < userlist.length; i++){
-            const limit = randomNumber(10, 100);
-            for(var j = 0; j < limit; j++){
+        for(var i = 0; i < 1000; i++){
+            //const limit = randomNumber(10, 100);
+            for(var j = i; j < userlist.length; j++){
                 var watched = false;
-                if(j <= limit/2){
+                if(randomNumber(1,10) % 2 == 0){
                     watched = true;
                 }
                 const q = await pool.query(
                     `
                     INSERT INTO purchase (user_id, anime_id, watched) VALUES ($1, $2, $3)
-                    `, [userlist[i].id, animelist[j].id, watched]
+                    `, [userlist[j].id, animelist[i].id, watched]
                 );
             }
+        }
 
-            for(var j = limit + 1; j < limit + 6; j++){
+        for(let i = 0; i < userlist.length; i++){
+            for(let j = i+1; j <= i+5; j++){
                 const q = await pool.query(
                     `
                     INSERT INTO bookmarks (user_id, anime_id) VALUES ($1, $2)

@@ -2,9 +2,9 @@ const { promisify } = require('util');
 const fs = require('fs');
 const appendFileAsync = promisify(fs.appendFile);
 
-async function fetchData(limit) {
-    //await appendFileAsync('../data/anime_data_2.json', '{"animes": [\n');
-    for (let i = 2472; i < limit+1; i++) {
+async function fetchData(start, limit) {
+    await appendFileAsync('../data/anime_data_2.json', '{"animes": [\n');
+    for (let i = start; i < limit+1; i++) {
         // Introduce a delay between requests
         await new Promise(resolve => setTimeout(resolve, 1600));
 
@@ -129,4 +129,4 @@ async function hehe(n, limit) {
 }
 
 // Start fetching data
-fetchData(5000);
+fetchData(1, 5000);

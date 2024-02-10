@@ -3,25 +3,25 @@
   "id": 11,
   "name": "MADHOUSE",
   "isAnimationStudio": true,
-  "favourites": 15359
+  "favourites": 15468
  },
  {
   "id": 18,
   "name": "Toei Animation",
   "isAnimationStudio": true,
-  "favourites": 2953
+  "favourites": 2971
  },
  {
   "id": 36,
   "name": "Studio Gallop",
   "isAnimationStudio": true,
-  "favourites": 69
+  "favourites": 70
  },
  {
   "id": 7,
   "name": "J.C. Staff",
   "isAnimationStudio": true,
-  "favourites": 3476
+  "favourites": 3482
  },
  {
   "id": 70,
@@ -33,13 +33,13 @@
   "id": 22,
   "name": "Nippon Animation",
   "isAnimationStudio": true,
-  "favourites": 223
+  "favourites": 222
  },
  {
   "id": 179,
   "name": "A.C.G.T.",
   "isAnimationStudio": true,
-  "favourites": 29
+  "favourites": 32
  },
  {
   "id": 829,
@@ -51,7 +51,7 @@
   "id": 1,
   "name": "Studio Pierrot",
   "isAnimationStudio": true,
-  "favourites": 2609
+  "favourites": 2617
  },
  {
   "id": 416,
@@ -69,7 +69,7 @@
   "id": 68,
   "name": "Mushi Production",
   "isAnimationStudio": true,
-  "favourites": 60
+  "favourites": 61
  },
  {
   "id": 6291,
@@ -81,13 +81,13 @@
   "id": 406,
   "name": "Asahi Production",
   "isAnimationStudio": true,
-  "favourites": 23
+  "favourites": 25
  },
  {
   "id": 10,
   "name": "Production I.G",
   "isAnimationStudio": true,
-  "favourites": 5413
+  "favourites": 5442
  },
  {
   "id": 80,
@@ -99,31 +99,31 @@
   "id": 126,
   "name": "Studio Comet",
   "isAnimationStudio": true,
-  "favourites": 27
+  "favourites": 28
  },
  {
   "id": 3,
   "name": "GONZO",
   "isAnimationStudio": true,
-  "favourites": 303
+  "favourites": 307
  },
  {
   "id": 14,
   "name": "Sunrise",
   "isAnimationStudio": true,
-  "favourites": 3200
+  "favourites": 3214
  },
  {
   "id": 37,
   "name": "Studio DEEN",
   "isAnimationStudio": true,
-  "favourites": 881
+  "favourites": 884
  },
  {
   "id": 28,
   "name": "OLM",
   "isAnimationStudio": true,
-  "favourites": 617
+  "favourites": 623
  },
  {
   "id": 65,
@@ -147,7 +147,7 @@
   "id": 4,
   "name": "bones",
   "isAnimationStudio": true,
-  "favourites": 12358
+  "favourites": 12423
  },
  {
   "id": 486,
@@ -159,7 +159,7 @@
   "id": 27,
   "name": "Xebec",
   "isAnimationStudio": true,
-  "favourites": 283
+  "favourites": 280
  },
  {
   "id": 39,
@@ -177,7 +177,7 @@
   "id": 73,
   "name": "TMS Entertainment",
   "isAnimationStudio": true,
-  "favourites": 1168
+  "favourites": 1178
  },
  {
   "id": 761,
@@ -201,7 +201,7 @@
   "id": 91,
   "name": "feel.",
   "isAnimationStudio": true,
-  "favourites": 629
+  "favourites": 628
  },
  {
   "id": 24,
@@ -219,13 +219,13 @@
   "id": 120,
   "name": "TNK",
   "isAnimationStudio": true,
-  "favourites": 223
+  "favourites": 225
  },
  {
   "id": 6,
   "name": "Gainax",
   "isAnimationStudio": true,
-  "favourites": 3090
+  "favourites": 3111
  },
  {
   "id": 117,
@@ -237,7 +237,7 @@
   "id": 5,
   "name": "Bee Train",
   "isAnimationStudio": true,
-  "favourites": 53
+  "favourites": 54
  },
  {
   "id": 196,
@@ -255,7 +255,7 @@
   "id": 413,
   "name": "Pastel",
   "isAnimationStudio": true,
-  "favourites": 11
+  "favourites": 12
  },
  {
   "id": 75,
@@ -267,7 +267,7 @@
   "id": 38,
   "name": "Arms",
   "isAnimationStudio": true,
-  "favourites": 94
+  "favourites": 95
  },
  {
   "id": 171,
@@ -279,7 +279,7 @@
   "id": 43,
   "name": "ufotable",
   "isAnimationStudio": true,
-  "favourites": 12975
+  "favourites": 13033
  },
  {
   "id": 462,
@@ -315,13 +315,13 @@
   "id": 2,
   "name": "Kyoto Animation",
   "isAnimationStudio": true,
-  "favourites": 19351
+  "favourites": 19449
  },
  {
   "id": 247,
   "name": "Shin-Ei Animation",
   "isAnimationStudio": true,
-  "favourites": 148
+  "favourites": 151
  },
  {
   "id": 101,
@@ -339,7 +339,7 @@
   "id": 44,
   "name": "Shaft",
   "isAnimationStudio": true,
-  "favourites": 10040
+  "favourites": 10135
  },
  {
   "id": 367,
@@ -366,12 +366,6 @@
   "favourites": 1
  },
  {
-  "id": 45,
-  "name": "Pink Pineapple",
-  "isAnimationStudio": true,
-  "favourites": 528
- },
- {
   "id": 154,
   "name": "E&G Films",
   "isAnimationStudio": true,
@@ -393,19 +387,25 @@
   "id": 21,
   "name": "Studio Ghibli",
   "isAnimationStudio": true,
-  "favourites": 10091
+  "favourites": 10186
  },
  {
   "id": 13,
   "name": "Studio 4°C",
   "isAnimationStudio": true,
-  "favourites": 414
+  "favourites": 416
  },
  {
   "id": 8,
   "name": "Artland",
   "isAnimationStudio": true,
-  "favourites": 138
+  "favourites": 140
+ },
+ {
+  "id": 45,
+  "name": "Pink Pineapple",
+  "isAnimationStudio": true,
+  "favourites": 527
  },
  {
   "id": 178,
@@ -435,19 +435,19 @@
   "id": 118,
   "name": "SynergySP",
   "isAnimationStudio": true,
-  "favourites": 36
+  "favourites": 40
  },
  {
   "id": 60,
   "name": "Actas",
   "isAnimationStudio": true,
-  "favourites": 61
+  "favourites": 62
  },
  {
   "id": 95,
   "name": "Doga Kobo",
   "isAnimationStudio": true,
-  "favourites": 1936
+  "favourites": 1948
  },
  {
   "id": 110,
@@ -486,12 +486,6 @@
   "favourites": 1
  },
  {
-  "id": 390,
-  "name": "Tsuchida Productions",
-  "isAnimationStudio": true,
-  "favourites": 1
- },
- {
   "id": 7120,
   "name": "SIDO",
   "isAnimationStudio": true,
@@ -502,18 +496,6 @@
   "name": "ZEXCS",
   "isAnimationStudio": true,
   "favourites": 52
- },
- {
-  "id": 25,
-  "name": "Milky Animation Label",
-  "isAnimationStudio": true,
-  "favourites": 87
- },
- {
-  "id": 329,
-  "name": "Phoenix Entertainment",
-  "isAnimationStudio": true,
-  "favourites": 2
  },
  {
   "id": 258,
@@ -549,13 +531,7 @@
   "id": 200,
   "name": "Tezuka Productions",
   "isAnimationStudio": true,
-  "favourites": 133
- },
- {
-  "id": 152,
-  "name": "Green Bunny",
-  "isAnimationStudio": true,
-  "favourites": 28
+  "favourites": 132
  },
  {
   "id": 175,
@@ -591,19 +567,19 @@
   "id": 51,
   "name": "diomedéa",
   "isAnimationStudio": true,
-  "favourites": 179
+  "favourites": 182
  },
  {
   "id": 30,
   "name": "Ajiado",
   "isAnimationStudio": true,
-  "favourites": 81
+  "favourites": 86
  },
  {
   "id": 112,
   "name": "Brain's Base",
   "isAnimationStudio": true,
-  "favourites": 785
+  "favourites": 790
  },
  {
   "id": 322,
@@ -630,36 +606,6 @@
   "favourites": 0
  },
  {
-  "id": 94,
-  "name": "Telecom Animation Film",
-  "isAnimationStudio": true,
-  "favourites": 99
- },
- {
-  "id": 234,
-  "name": "Oh! Production",
-  "isAnimationStudio": true,
-  "favourites": 6
- },
- {
-  "id": 280,
-  "name": "Studio Junio",
-  "isAnimationStudio": true,
-  "favourites": 4
- },
- {
-  "id": 438,
-  "name": "Studio Signal",
-  "isAnimationStudio": true,
-  "favourites": 0
- },
- {
-  "id": 6565,
-  "name": "T-UP",
-  "isAnimationStudio": true,
-  "favourites": 0
- },
- {
   "id": 131,
   "name": "G&G Entertainment",
   "isAnimationStudio": true,
@@ -681,7 +627,7 @@
   "id": 103,
   "name": "Tatsunoko Production",
   "isAnimationStudio": true,
-  "favourites": 163
+  "favourites": 165
  },
  {
   "id": 7108,
@@ -702,22 +648,22 @@
   "favourites": 0
  },
  {
+  "id": 6565,
+  "name": "T-UP",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
   "id": 7468,
   "name": "Seoul Animation",
   "isAnimationStudio": true,
   "favourites": 0
  },
  {
-  "id": 6279,
-  "name": "Zero G Room",
+  "id": 94,
+  "name": "Telecom Animation Film",
   "isAnimationStudio": true,
-  "favourites": 3
- },
- {
-  "id": 6090,
-  "name": "Aubec",
-  "isAnimationStudio": true,
-  "favourites": 0
+  "favourites": 99
  },
  {
   "id": 288,
@@ -732,6 +678,18 @@
   "favourites": 18
  },
  {
+  "id": 6090,
+  "name": "Aubec",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 390,
+  "name": "Tsuchida Productions",
+  "isAnimationStudio": true,
+  "favourites": 1
+ },
+ {
   "id": 442,
   "name": "Minami Machi Bugyousho",
   "isAnimationStudio": true,
@@ -741,7 +699,7 @@
   "id": 561,
   "name": "A-1 Pictures",
   "isAnimationStudio": true,
-  "favourites": 9664
+  "favourites": 9740
  },
  {
   "id": 457,
@@ -750,22 +708,28 @@
   "favourites": 1
  },
  {
-  "id": 479,
-  "name": "DOGA Productions",
+  "id": 234,
+  "name": "Oh! Production",
   "isAnimationStudio": true,
-  "favourites": 0
- },
- {
-  "id": 7040,
-  "name": "Mu Animation Studio",
-  "isAnimationStudio": true,
-  "favourites": 0
+  "favourites": 6
  },
  {
   "id": 971,
   "name": "Anime R",
   "isAnimationStudio": true,
   "favourites": 2
+ },
+ {
+  "id": 329,
+  "name": "Phoenix Entertainment",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 438,
+  "name": "Studio Signal",
+  "isAnimationStudio": true,
+  "favourites": 0
  },
  {
   "id": 6410,
@@ -801,19 +765,13 @@
   "id": 291,
   "name": "CoMix Wave",
   "isAnimationStudio": true,
-  "favourites": 2030
+  "favourites": 2040
  },
  {
   "id": 6865,
   "name": "Japan Taps",
   "isAnimationStudio": true,
   "favourites": 0
- },
- {
-  "id": 395,
-  "name": "OZ Inc.",
-  "isAnimationStudio": true,
-  "favourites": 7
  },
  {
   "id": 338,
@@ -844,5 +802,275 @@
   "name": "Project Team Argos",
   "isAnimationStudio": true,
   "favourites": 0
+ },
+ {
+  "id": 235,
+  "name": "Shirogumi",
+  "isAnimationStudio": true,
+  "favourites": 8
+ },
+ {
+  "id": 6279,
+  "name": "Zero G Room",
+  "isAnimationStudio": true,
+  "favourites": 3
+ },
+ {
+  "id": 163,
+  "name": "Asread",
+  "isAnimationStudio": true,
+  "favourites": 73
+ },
+ {
+  "id": 194,
+  "name": "ANIK",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 347,
+  "name": "PrimeTime",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 521,
+  "name": "Anpro",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 7258,
+  "name": "Circus Production",
+  "isAnimationStudio": true,
+  "favourites": 1
+ },
+ {
+  "id": 325,
+  "name": "Code",
+  "isAnimationStudio": true,
+  "favourites": 1
+ },
+ {
+  "id": 917,
+  "name": "Takahashi Studio",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 753,
+  "name": "PRA",
+  "isAnimationStudio": true,
+  "favourites": 7
+ },
+ {
+  "id": 765,
+  "name": "Sakura Create",
+  "isAnimationStudio": true,
+  "favourites": 24
+ },
+ {
+  "id": 456,
+  "name": "Lerche",
+  "isAnimationStudio": true,
+  "favourites": 1186
+ },
+ {
+  "id": 6404,
+  "name": "Creative Bridge",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 346,
+  "name": "Hoods Entertainment",
+  "isAnimationStudio": true,
+  "favourites": 56
+ },
+ {
+  "id": 32,
+  "name": "Manglobe",
+  "isAnimationStudio": true,
+  "favourites": 314
+ },
+ {
+  "id": 309,
+  "name": "GoHands",
+  "isAnimationStudio": true,
+  "favourites": 176
+ },
+ {
+  "id": 929,
+  "name": "Animation Do",
+  "isAnimationStudio": true,
+  "favourites": 113
+ },
+ {
+  "id": 6624,
+  "name": "MooGoo",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 276,
+  "name": "DLE",
+  "isAnimationStudio": true,
+  "favourites": 6
+ },
+ {
+  "id": 354,
+  "name": "Encourage Films",
+  "isAnimationStudio": true,
+  "favourites": 16
+ },
+ {
+  "id": 443,
+  "name": "Studio PuYUKAI",
+  "isAnimationStudio": true,
+  "favourites": 26
+ },
+ {
+  "id": 497,
+  "name": "Studio Gram",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 755,
+  "name": "Jumondou",
+  "isAnimationStudio": true,
+  "favourites": 8
+ },
+ {
+  "id": 299,
+  "name": "Studio Pastoral",
+  "isAnimationStudio": true,
+  "favourites": 1
+ },
+ {
+  "id": 541,
+  "name": "Seven",
+  "isAnimationStudio": true,
+  "favourites": 154
+ },
+ {
+  "id": 333,
+  "name": "TYO Animations",
+  "isAnimationStudio": true,
+  "favourites": 25
+ },
+ {
+  "id": 418,
+  "name": "Studio Gokumi",
+  "isAnimationStudio": true,
+  "favourites": 114
+ },
+ {
+  "id": 300,
+  "name": "SILVER LINK.",
+  "isAnimationStudio": true,
+  "favourites": 1328
+ },
+ {
+  "id": 292,
+  "name": "AIC Plus+",
+  "isAnimationStudio": true,
+  "favourites": 41
+ },
+ {
+  "id": 287,
+  "name": "David Production",
+  "isAnimationStudio": true,
+  "favourites": 3849
+ },
+ {
+  "id": 290,
+  "name": "Kinema Citrus",
+  "isAnimationStudio": true,
+  "favourites": 808
+ },
+ {
+  "id": 637,
+  "name": "Möbius Tone",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 6052,
+  "name": "C2C",
+  "isAnimationStudio": true,
+  "favourites": 197
+ },
+ {
+  "id": 392,
+  "name": "Enterbrain",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 553,
+  "name": "Marvy Jack",
+  "isAnimationStudio": true,
+  "favourites": 10
+ },
+ {
+  "id": 314,
+  "name": "White Fox",
+  "isAnimationStudio": true,
+  "favourites": 3794
+ },
+ {
+  "id": 569,
+  "name": "MAPPA",
+  "isAnimationStudio": true,
+  "favourites": 15210
+ },
+ {
+  "id": 4420,
+  "name": "Production IMS",
+  "isAnimationStudio": true,
+  "favourites": 49
+ },
+ {
+  "id": 723,
+  "name": "Hotline",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 6966,
+  "name": "Lifework",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 6111,
+  "name": "Animation 21",
+  "isAnimationStudio": true,
+  "favourites": 2
+ },
+ {
+  "id": 785,
+  "name": "Advance Syakujii",
+  "isAnimationStudio": true,
+  "favourites": 0
+ },
+ {
+  "id": 6072,
+  "name": "Creators in Pack",
+  "isAnimationStudio": true,
+  "favourites": 8
+ },
+ {
+  "id": 858,
+  "name": "Wit Studio",
+  "isAnimationStudio": true,
+  "favourites": 10695
+ },
+ {
+  "id": 803,
+  "name": "Trigger",
+  "isAnimationStudio": true,
+  "favourites": 7256
  }
 ]

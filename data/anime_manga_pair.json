@@ -604,10 +604,6 @@
   "mangaID": 37948
  },
  {
-  "animeID": 316,
-  "mangaID": 157195
- },
- {
   "animeID": 322,
   "mangaID": 30029
  },
@@ -706,10 +702,6 @@
  {
   "animeID": 381,
   "mangaID": 30084
- },
- {
-  "animeID": 382,
-  "mangaID": 30318
  },
  {
   "animeID": 384,
@@ -1100,38 +1092,6 @@
   "mangaID": 30853
  },
  {
-  "animeID": 710,
-  "mangaID": 30663
- },
- {
-  "animeID": 714,
-  "mangaID": 37634
- },
- {
-  "animeID": 715,
-  "mangaID": 30815
- },
- {
-  "animeID": 718,
-  "mangaID": 30815
- },
- {
-  "animeID": 722,
-  "mangaID": 30833
- },
- {
-  "animeID": 723,
-  "mangaID": 31388
- },
- {
-  "animeID": 727,
-  "mangaID": 49563
- },
- {
-  "animeID": 729,
-  "mangaID": 33168
- },
- {
   "animeID": 733,
   "mangaID": 31578
  },
@@ -1140,20 +1100,12 @@
   "mangaID": 31578
  },
  {
-  "animeID": 736,
-  "mangaID": 31579
- },
- {
   "animeID": 738,
   "mangaID": 30134
  },
  {
   "animeID": 740,
   "mangaID": 30092
- },
- {
-  "animeID": 741,
-  "mangaID": 31507
  },
  {
   "animeID": 747,
@@ -1230,10 +1182,6 @@
  {
   "animeID": 821,
   "mangaID": 30375
- },
- {
-  "animeID": 823,
-  "mangaID": 33433
  },
  {
   "animeID": 824,
@@ -1524,10 +1472,6 @@
   "mangaID": 31242
  },
  {
-  "animeID": 1060,
-  "mangaID": 37661
- },
- {
   "animeID": 1062,
   "mangaID": 48753
  },
@@ -1632,54 +1576,6 @@
   "mangaID": 34610
  },
  {
-  "animeID": 1196,
-  "mangaID": 38584
- },
- {
-  "animeID": 1199,
-  "mangaID": 41127
- },
- {
-  "animeID": 1207,
-  "mangaID": 39280
- },
- {
-  "animeID": 1209,
-  "mangaID": 31245
- },
- {
-  "animeID": 1209,
-  "mangaID": 34846
- },
- {
-  "animeID": 1214,
-  "mangaID": 33714
- },
- {
-  "animeID": 1216,
-  "mangaID": 31569
- },
- {
-  "animeID": 1217,
-  "mangaID": 33695
- },
- {
-  "animeID": 1218,
-  "mangaID": 31717
- },
- {
-  "animeID": 1219,
-  "mangaID": 30176
- },
- {
-  "animeID": 1222,
-  "mangaID": 31031
- },
- {
-  "animeID": 1227,
-  "mangaID": 39074
- },
- {
   "animeID": 1235,
   "mangaID": 30818
  },
@@ -1728,14 +1624,6 @@
   "mangaID": 32998
  },
  {
-  "animeID": 1272,
-  "mangaID": 42565
- },
- {
-  "animeID": 1273,
-  "mangaID": 42565
- },
- {
   "animeID": 1278,
   "mangaID": 38552
  },
@@ -1746,42 +1634,6 @@
  {
   "animeID": 1293,
   "mangaID": 30304
- },
- {
-  "animeID": 1300,
-  "mangaID": 33932
- },
- {
-  "animeID": 1301,
-  "mangaID": 39705
- },
- {
-  "animeID": 1314,
-  "mangaID": 96058
- },
- {
-  "animeID": 1316,
-  "mangaID": 136259
- },
- {
-  "animeID": 1324,
-  "mangaID": 30753
- },
- {
-  "animeID": 1325,
-  "mangaID": 30706
- },
- {
-  "animeID": 1327,
-  "mangaID": 34222
- },
- {
-  "animeID": 1328,
-  "mangaID": 30844
- },
- {
-  "animeID": 1331,
-  "mangaID": 47813
  },
  {
   "animeID": 1337,
@@ -1828,14 +1680,6 @@
   "mangaID": 31608
  },
  {
-  "animeID": 1383,
-  "mangaID": 33437
- },
- {
-  "animeID": 1407,
-  "mangaID": 37608
- },
- {
   "animeID": 1412,
   "mangaID": 30438
  },
@@ -1858,66 +1702,6 @@
  {
   "animeID": 1462,
   "mangaID": 102011
- },
- {
-  "animeID": 1465,
-  "mangaID": 56157
- },
- {
-  "animeID": 1468,
-  "mangaID": 31515
- },
- {
-  "animeID": 1470,
-  "mangaID": 30792
- },
- {
-  "animeID": 1477,
-  "mangaID": 47226
- },
- {
-  "animeID": 1482,
-  "mangaID": 30024
- },
- {
-  "animeID": 1483,
-  "mangaID": 30848
- },
- {
-  "animeID": 1484,
-  "mangaID": 49696
- },
- {
-  "animeID": 1485,
-  "mangaID": 30076
- },
- {
-  "animeID": 1486,
-  "mangaID": 30018
- },
- {
-  "animeID": 1488,
-  "mangaID": 33965
- },
- {
-  "animeID": 1491,
-  "mangaID": 39705
- },
- {
-  "animeID": 1492,
-  "mangaID": 31503
- },
- {
-  "animeID": 1493,
-  "mangaID": 31503
- },
- {
-  "animeID": 1494,
-  "mangaID": 30340
- },
- {
-  "animeID": 1496,
-  "mangaID": 30452
  },
  {
   "animeID": 1500,
@@ -2268,16 +2052,16 @@
   "mangaID": 41136
  },
  {
+  "animeID": 1759,
+  "mangaID": 72785
+ },
+ {
   "animeID": 1760,
   "mangaID": 31298
  },
  {
   "animeID": 1761,
   "mangaID": 31298
- },
- {
-  "animeID": 1763,
-  "mangaID": 31765
  },
  {
   "animeID": 1768,
@@ -2290,50 +2074,6 @@
  {
   "animeID": 1775,
   "mangaID": 35850
- },
- {
-  "animeID": 1786,
-  "mangaID": 93859
- },
- {
-  "animeID": 1804,
-  "mangaID": 30921
- },
- {
-  "animeID": 1805,
-  "mangaID": 39757
- },
- {
-  "animeID": 1806,
-  "mangaID": 39757
- },
- {
-  "animeID": 1808,
-  "mangaID": 30035
- },
- {
-  "animeID": 1810,
-  "mangaID": 33238
- },
- {
-  "animeID": 1813,
-  "mangaID": 30348
- },
- {
-  "animeID": 1818,
-  "mangaID": 30583
- },
- {
-  "animeID": 1824,
-  "mangaID": 33281
- },
- {
-  "animeID": 1832,
-  "mangaID": 35192
- },
- {
-  "animeID": 1833,
-  "mangaID": 117932
  },
  {
   "animeID": 1838,
@@ -2410,42 +2150,6 @@
  {
   "animeID": 1901,
   "mangaID": 48752
- },
- {
-  "animeID": 1909,
-  "mangaID": 33359
- },
- {
-  "animeID": 1910,
-  "mangaID": 30848
- },
- {
-  "animeID": 1913,
-  "mangaID": 30444
- },
- {
-  "animeID": 1913,
-  "mangaID": 30445
- },
- {
-  "animeID": 1919,
-  "mangaID": 30304
- },
- {
-  "animeID": 1924,
-  "mangaID": 30304
- },
- {
-  "animeID": 1936,
-  "mangaID": 93823
- },
- {
-  "animeID": 1940,
-  "mangaID": 34281
- },
- {
-  "animeID": 1941,
-  "mangaID": 30681
  },
  {
   "animeID": 1957,
@@ -2584,54 +2288,6 @@
   "mangaID": 75175
  },
  {
-  "animeID": 2073,
-  "mangaID": 111479
- },
- {
-  "animeID": 2074,
-  "mangaID": 39798
- },
- {
-  "animeID": 2076,
-  "mangaID": 30393
- },
- {
-  "animeID": 2076,
-  "mangaID": 47111
- },
- {
-  "animeID": 2076,
-  "mangaID": 47149
- },
- {
-  "animeID": 2083,
-  "mangaID": 67909
- },
- {
-  "animeID": 2088,
-  "mangaID": 114914
- },
- {
-  "animeID": 2091,
-  "mangaID": 34693
- },
- {
-  "animeID": 2092,
-  "mangaID": 41339
- },
- {
-  "animeID": 2093,
-  "mangaID": 94450
- },
- {
-  "animeID": 2097,
-  "mangaID": 31426
- },
- {
-  "animeID": 2098,
-  "mangaID": 31407
- },
- {
   "animeID": 2099,
   "mangaID": 30228
  },
@@ -2676,16 +2332,8 @@
   "mangaID": 30424
  },
  {
-  "animeID": 2137,
-  "mangaID": 63819
- },
- {
   "animeID": 2143,
   "mangaID": 30510
- },
- {
-  "animeID": 2148,
-  "mangaID": 31213
  },
  {
   "animeID": 2154,
@@ -2812,38 +2460,6 @@
   "mangaID": 35917
  },
  {
-  "animeID": 2291,
-  "mangaID": 93544
- },
- {
-  "animeID": 2316,
-  "mangaID": 139280
- },
- {
-  "animeID": 2317,
-  "mangaID": 32950
- },
- {
-  "animeID": 2318,
-  "mangaID": 98230
- },
- {
-  "animeID": 2321,
-  "mangaID": 70437
- },
- {
-  "animeID": 2321,
-  "mangaID": 34538
- },
- {
-  "animeID": 2321,
-  "mangaID": 150265
- },
- {
-  "animeID": 2326,
-  "mangaID": 153902
- },
- {
   "animeID": 2330,
   "mangaID": 46529
  },
@@ -2854,22 +2470,6 @@
  {
   "animeID": 2337,
   "mangaID": 76486
- },
- {
-  "animeID": 2338,
-  "mangaID": 40574
- },
- {
-  "animeID": 2339,
-  "mangaID": 40574
- },
- {
-  "animeID": 2340,
-  "mangaID": 42566
- },
- {
-  "animeID": 2341,
-  "mangaID": 41821
  },
  {
   "animeID": 2346,
@@ -2888,20 +2488,12 @@
   "mangaID": 34592
  },
  {
-  "animeID": 2359,
-  "mangaID": 41821
- },
- {
   "animeID": 2365,
   "mangaID": 42206
  },
  {
   "animeID": 2365,
   "mangaID": 137091
- },
- {
-  "animeID": 2372,
-  "mangaID": 42034
  },
  {
   "animeID": 2384,
@@ -2932,14 +2524,6 @@
   "mangaID": 43192
  },
  {
-  "animeID": 2410,
-  "mangaID": 64621
- },
- {
-  "animeID": 2412,
-  "mangaID": 58975
- },
- {
   "animeID": 2414,
   "mangaID": 105134
  },
@@ -2966,10 +2550,6 @@
  {
   "animeID": 2428,
   "mangaID": 47240
- },
- {
-  "animeID": 2446,
-  "mangaID": 111712
  },
  {
   "animeID": 2449,
@@ -3052,10 +2632,6 @@
   "mangaID": 37746
  },
  {
-  "animeID": 2530,
-  "mangaID": 115287
- },
- {
   "animeID": 2542,
   "mangaID": 32685
  },
@@ -3078,10 +2654,6 @@
  {
   "animeID": 2563,
   "mangaID": 30081
- },
- {
-  "animeID": 2588,
-  "mangaID": 163044
  },
  {
   "animeID": 2592,
@@ -3288,10 +2860,6 @@
   "mangaID": 33286
  },
  {
-  "animeID": 2798,
-  "mangaID": 33300
- },
- {
   "animeID": 2800,
   "mangaID": 31388
  },
@@ -3320,16 +2888,8 @@
   "mangaID": 41361
  },
  {
-  "animeID": 2852,
-  "mangaID": 33870
- },
- {
   "animeID": 2881,
   "mangaID": 48071
- },
- {
-  "animeID": 2883,
-  "mangaID": 55399
  },
  {
   "animeID": 2903,
@@ -3388,10 +2948,6 @@
   "mangaID": 30044
  },
  {
-  "animeID": 2960,
-  "mangaID": 42218
- },
- {
   "animeID": 2963,
   "mangaID": 32629
  },
@@ -3406,10 +2962,6 @@
  {
   "animeID": 2973,
   "mangaID": 40810
- },
- {
-  "animeID": 2981,
-  "mangaID": 39057
  },
  {
   "animeID": 2985,
@@ -3442,5 +2994,1233 @@
  {
   "animeID": 3000,
   "mangaID": 31292
+ },
+ {
+  "animeID": 3001,
+  "mangaID": 32970
+ },
+ {
+  "animeID": 3002,
+  "mangaID": 33572
+ },
+ {
+  "animeID": 3005,
+  "mangaID": 40220
+ },
+ {
+  "animeID": 3006,
+  "mangaID": 46621
+ },
+ {
+  "animeID": 3007,
+  "mangaID": 31536
+ },
+ {
+  "animeID": 3009,
+  "mangaID": 60575
+ },
+ {
+  "animeID": 3020,
+  "mangaID": 141232
+ },
+ {
+  "animeID": 3021,
+  "mangaID": 33390
+ },
+ {
+  "animeID": 3022,
+  "mangaID": 117995
+ },
+ {
+  "animeID": 3023,
+  "mangaID": 48046
+ },
+ {
+  "animeID": 3024,
+  "mangaID": 31676
+ },
+ {
+  "animeID": 3026,
+  "mangaID": 32952
+ },
+ {
+  "animeID": 3044,
+  "mangaID": 30728
+ },
+ {
+  "animeID": 3053,
+  "mangaID": 79993
+ },
+ {
+  "animeID": 3064,
+  "mangaID": 33978
+ },
+ {
+  "animeID": 3065,
+  "mangaID": 30596
+ },
+ {
+  "animeID": 3077,
+  "mangaID": 93662
+ },
+ {
+  "animeID": 3085,
+  "mangaID": 33602
+ },
+ {
+  "animeID": 3090,
+  "mangaID": 30446
+ },
+ {
+  "animeID": 3091,
+  "mangaID": 30010
+ },
+ {
+  "animeID": 3092,
+  "mangaID": 30765
+ },
+ {
+  "animeID": 3092,
+  "mangaID": 36404
+ },
+ {
+  "animeID": 3095,
+  "mangaID": 107280
+ },
+ {
+  "animeID": 3111,
+  "mangaID": 31245
+ },
+ {
+  "animeID": 3116,
+  "mangaID": 136105
+ },
+ {
+  "animeID": 3121,
+  "mangaID": 30582
+ },
+ {
+  "animeID": 3125,
+  "mangaID": 31748
+ },
+ {
+  "animeID": 3129,
+  "mangaID": 40076
+ },
+ {
+  "animeID": 3130,
+  "mangaID": 40076
+ },
+ {
+  "animeID": 3131,
+  "mangaID": 111891
+ },
+ {
+  "animeID": 3136,
+  "mangaID": 54022
+ },
+ {
+  "animeID": 3137,
+  "mangaID": 40054
+ },
+ {
+  "animeID": 3147,
+  "mangaID": 35711
+ },
+ {
+  "animeID": 3157,
+  "mangaID": 39848
+ },
+ {
+  "animeID": 3159,
+  "mangaID": 49545
+ },
+ {
+  "animeID": 3165,
+  "mangaID": 31362
+ },
+ {
+  "animeID": 3178,
+  "mangaID": 111479
+ },
+ {
+  "animeID": 3182,
+  "mangaID": 78775
+ },
+ {
+  "animeID": 3183,
+  "mangaID": 33818
+ },
+ {
+  "animeID": 3193,
+  "mangaID": 42651
+ },
+ {
+  "animeID": 3213,
+  "mangaID": 53774
+ },
+ {
+  "animeID": 3225,
+  "mangaID": 32629
+ },
+ {
+  "animeID": 3226,
+  "mangaID": 40978
+ },
+ {
+  "animeID": 3228,
+  "mangaID": 30661
+ },
+ {
+  "animeID": 3235,
+  "mangaID": 52260
+ },
+ {
+  "animeID": 3245,
+  "mangaID": 30393
+ },
+ {
+  "animeID": 3245,
+  "mangaID": 51307
+ },
+ {
+  "animeID": 3266,
+  "mangaID": 30075
+ },
+ {
+  "animeID": 3272,
+  "mangaID": 32845
+ },
+ {
+  "animeID": 3281,
+  "mangaID": 32845
+ },
+ {
+  "animeID": 3285,
+  "mangaID": 51406
+ },
+ {
+  "animeID": 3297,
+  "mangaID": 30081
+ },
+ {
+  "animeID": 3298,
+  "mangaID": 30356
+ },
+ {
+  "animeID": 3306,
+  "mangaID": 52883
+ },
+ {
+  "animeID": 3312,
+  "mangaID": 30796
+ },
+ {
+  "animeID": 3332,
+  "mangaID": 70981
+ },
+ {
+  "animeID": 3335,
+  "mangaID": 31567
+ },
+ {
+  "animeID": 3345,
+  "mangaID": 95419
+ },
+ {
+  "animeID": 3354,
+  "mangaID": 30099
+ },
+ {
+  "animeID": 3359,
+  "mangaID": 31299
+ },
+ {
+  "animeID": 3369,
+  "mangaID": 43168
+ },
+ {
+  "animeID": 3375,
+  "mangaID": 31997
+ },
+ {
+  "animeID": 3389,
+  "mangaID": 30162
+ },
+ {
+  "animeID": 3389,
+  "mangaID": 37223
+ },
+ {
+  "animeID": 3391,
+  "mangaID": 97575
+ },
+ {
+  "animeID": 3394,
+  "mangaID": 31407
+ },
+ {
+  "animeID": 3399,
+  "mangaID": 60935
+ },
+ {
+  "animeID": 3417,
+  "mangaID": 45109
+ },
+ {
+  "animeID": 3418,
+  "mangaID": 53279
+ },
+ {
+  "animeID": 3421,
+  "mangaID": 30018
+ },
+ {
+  "animeID": 3429,
+  "mangaID": 30149
+ },
+ {
+  "animeID": 3430,
+  "mangaID": 30149
+ },
+ {
+  "animeID": 3437,
+  "mangaID": 39797
+ },
+ {
+  "animeID": 3448,
+  "mangaID": 34167
+ },
+ {
+  "animeID": 3455,
+  "mangaID": 30671
+ },
+ {
+  "animeID": 3457,
+  "mangaID": 30618
+ },
+ {
+  "animeID": 3464,
+  "mangaID": 34153
+ },
+ {
+  "animeID": 3470,
+  "mangaID": 31271
+ },
+ {
+  "animeID": 3480,
+  "mangaID": 95928
+ },
+ {
+  "animeID": 3482,
+  "mangaID": 51932
+ },
+ {
+  "animeID": 3512,
+  "mangaID": 31496
+ },
+ {
+  "animeID": 3514,
+  "mangaID": 31713
+ },
+ {
+  "animeID": 3515,
+  "mangaID": 31045
+ },
+ {
+  "animeID": 3522,
+  "mangaID": 35393
+ },
+ {
+  "animeID": 3535,
+  "mangaID": 38078
+ },
+ {
+  "animeID": 3545,
+  "mangaID": 30733
+ },
+ {
+  "animeID": 3550,
+  "mangaID": 56125
+ },
+ {
+  "animeID": 3568,
+  "mangaID": 63131
+ },
+ {
+  "animeID": 3571,
+  "mangaID": 37546
+ },
+ {
+  "animeID": 3574,
+  "mangaID": 31351
+ },
+ {
+  "animeID": 3579,
+  "mangaID": 31551
+ },
+ {
+  "animeID": 3579,
+  "mangaID": 129525
+ },
+ {
+  "animeID": 3579,
+  "mangaID": 169943
+ },
+ {
+  "animeID": 3588,
+  "mangaID": 30908
+ },
+ {
+  "animeID": 3595,
+  "mangaID": 48375
+ },
+ {
+  "animeID": 3597,
+  "mangaID": 130032
+ },
+ {
+  "animeID": 3602,
+  "mangaID": 30776
+ },
+ {
+  "animeID": 3603,
+  "mangaID": 31517
+ },
+ {
+  "animeID": 3604,
+  "mangaID": 31362
+ },
+ {
+  "animeID": 3605,
+  "mangaID": 35672
+ },
+ {
+  "animeID": 3616,
+  "mangaID": 33047
+ },
+ {
+  "animeID": 3619,
+  "mangaID": 41910
+ },
+ {
+  "animeID": 3641,
+  "mangaID": 31122
+ },
+ {
+  "animeID": 3642,
+  "mangaID": 34780
+ },
+ {
+  "animeID": 3653,
+  "mangaID": 33638
+ },
+ {
+  "animeID": 3655,
+  "mangaID": 31721
+ },
+ {
+  "animeID": 3656,
+  "mangaID": 30456
+ },
+ {
+  "animeID": 3672,
+  "mangaID": 38930
+ },
+ {
+  "animeID": 3673,
+  "mangaID": 38597
+ },
+ {
+  "animeID": 3675,
+  "mangaID": 32104
+ },
+ {
+  "animeID": 3702,
+  "mangaID": 31735
+ },
+ {
+  "animeID": 3710,
+  "mangaID": 52355
+ },
+ {
+  "animeID": 3727,
+  "mangaID": 42471
+ },
+ {
+  "animeID": 3731,
+  "mangaID": 33523
+ },
+ {
+  "animeID": 3734,
+  "mangaID": 31469
+ },
+ {
+  "animeID": 3765,
+  "mangaID": 37448
+ },
+ {
+  "animeID": 3768,
+  "mangaID": 91570
+ },
+ {
+  "animeID": 3778,
+  "mangaID": 34244
+ },
+ {
+  "animeID": 3787,
+  "mangaID": 40810
+ },
+ {
+  "animeID": 10005,
+  "mangaID": 76486
+ },
+ {
+  "animeID": 10012,
+  "mangaID": 30780
+ },
+ {
+  "animeID": 10012,
+  "mangaID": 30707
+ },
+ {
+  "animeID": 10015,
+  "mangaID": 54915
+ },
+ {
+  "animeID": 10029,
+  "mangaID": 53614
+ },
+ {
+  "animeID": 10030,
+  "mangaID": 39711
+ },
+ {
+  "animeID": 10033,
+  "mangaID": 37887
+ },
+ {
+  "animeID": 10045,
+  "mangaID": 147148
+ },
+ {
+  "animeID": 10048,
+  "mangaID": 30775
+ },
+ {
+  "animeID": 10049,
+  "mangaID": 35664
+ },
+ {
+  "animeID": 10073,
+  "mangaID": 33317
+ },
+ {
+  "animeID": 10080,
+  "mangaID": 37519
+ },
+ {
+  "animeID": 10092,
+  "mangaID": 34608
+ },
+ {
+  "animeID": 10109,
+  "mangaID": 47989
+ },
+ {
+  "animeID": 10113,
+  "mangaID": 167889
+ },
+ {
+  "animeID": 10119,
+  "mangaID": 44110
+ },
+ {
+  "animeID": 10162,
+  "mangaID": 33468
+ },
+ {
+  "animeID": 10165,
+  "mangaID": 33082
+ },
+ {
+  "animeID": 10165,
+  "mangaID": 56973
+ },
+ {
+  "animeID": 10177,
+  "mangaID": 55880
+ },
+ {
+  "animeID": 10187,
+  "mangaID": 51157
+ },
+ {
+  "animeID": 10189,
+  "mangaID": 30026
+ },
+ {
+  "animeID": 10191,
+  "mangaID": 31428
+ },
+ {
+  "animeID": 10216,
+  "mangaID": 52114
+ },
+ {
+  "animeID": 10218,
+  "mangaID": 30002
+ },
+ {
+  "animeID": 10219,
+  "mangaID": 41793
+ },
+ {
+  "animeID": 10258,
+  "mangaID": 52597
+ },
+ {
+  "animeID": 10262,
+  "mangaID": 38584
+ },
+ {
+  "animeID": 10271,
+  "mangaID": 33573
+ },
+ {
+  "animeID": 10324,
+  "mangaID": 135723
+ },
+ {
+  "animeID": 10338,
+  "mangaID": 51529
+ },
+ {
+  "animeID": 10346,
+  "mangaID": 44231
+ },
+ {
+  "animeID": 10353,
+  "mangaID": 36292
+ },
+ {
+  "animeID": 10372,
+  "mangaID": 41118
+ },
+ {
+  "animeID": 10378,
+  "mangaID": 42671
+ },
+ {
+  "animeID": 10379,
+  "mangaID": 31859
+ },
+ {
+  "animeID": 10408,
+  "mangaID": 33282
+ },
+ {
+  "animeID": 10417,
+  "mangaID": 30909
+ },
+ {
+  "animeID": 10435,
+  "mangaID": 35846
+ },
+ {
+  "animeID": 10459,
+  "mangaID": 60131
+ },
+ {
+  "animeID": 10460,
+  "mangaID": 38557
+ },
+ {
+  "animeID": 10465,
+  "mangaID": 36784
+ },
+ {
+  "animeID": 10469,
+  "mangaID": 30661
+ },
+ {
+  "animeID": 10481,
+  "mangaID": 48495
+ },
+ {
+  "animeID": 10490,
+  "mangaID": 56182
+ },
+ {
+  "animeID": 10495,
+  "mangaID": 41593
+ },
+ {
+  "animeID": 10497,
+  "mangaID": 38878
+ },
+ {
+  "animeID": 10521,
+  "mangaID": 33044
+ },
+ {
+  "animeID": 10540,
+  "mangaID": 72237
+ },
+ {
+  "animeID": 10541,
+  "mangaID": 47204
+ },
+ {
+  "animeID": 10554,
+  "mangaID": 93252
+ },
+ {
+  "animeID": 10564,
+  "mangaID": 59455
+ },
+ {
+  "animeID": 10582,
+  "mangaID": 36778
+ },
+ {
+  "animeID": 10607,
+  "mangaID": 53322
+ },
+ {
+  "animeID": 10620,
+  "mangaID": 30584
+ },
+ {
+  "animeID": 10671,
+  "mangaID": 52962
+ },
+ {
+  "animeID": 10687,
+  "mangaID": 31045
+ },
+ {
+  "animeID": 10709,
+  "mangaID": 62715
+ },
+ {
+  "animeID": 10711,
+  "mangaID": 55675
+ },
+ {
+  "animeID": 10741,
+  "mangaID": 58407
+ },
+ {
+  "animeID": 10800,
+  "mangaID": 43245
+ },
+ {
+  "animeID": 10800,
+  "mangaID": 108635
+ },
+ {
+  "animeID": 10801,
+  "mangaID": 89571
+ },
+ {
+  "animeID": 10805,
+  "mangaID": 37519
+ },
+ {
+  "animeID": 10834,
+  "mangaID": 55637
+ },
+ {
+  "animeID": 10838,
+  "mangaID": 45006
+ },
+ {
+  "animeID": 10847,
+  "mangaID": 40105
+ },
+ {
+  "animeID": 10884,
+  "mangaID": 59859
+ },
+ {
+  "animeID": 10887,
+  "mangaID": 115780
+ },
+ {
+  "animeID": 10889,
+  "mangaID": 140172
+ },
+ {
+  "animeID": 10908,
+  "mangaID": 52972
+ },
+ {
+  "animeID": 10918,
+  "mangaID": 56531
+ },
+ {
+  "animeID": 10935,
+  "mangaID": 30585
+ },
+ {
+  "animeID": 10936,
+  "mangaID": 40617
+ },
+ {
+  "animeID": 10937,
+  "mangaID": 30214
+ },
+ {
+  "animeID": 10937,
+  "mangaID": 84123
+ },
+ {
+  "animeID": 10958,
+  "mangaID": 45099
+ },
+ {
+  "animeID": 10964,
+  "mangaID": 131467
+ },
+ {
+  "animeID": 10967,
+  "mangaID": 134938
+ },
+ {
+  "animeID": 10987,
+  "mangaID": 135644
+ },
+ {
+  "animeID": 11005,
+  "mangaID": 58133
+ },
+ {
+  "animeID": 11013,
+  "mangaID": 47207
+ },
+ {
+  "animeID": 11061,
+  "mangaID": 30026
+ },
+ {
+  "animeID": 11077,
+  "mangaID": 30751
+ },
+ {
+  "animeID": 11079,
+  "mangaID": 48472
+ },
+ {
+  "animeID": 11123,
+  "mangaID": 40573
+ },
+ {
+  "animeID": 11135,
+  "mangaID": 30257
+ },
+ {
+  "animeID": 11203,
+  "mangaID": 130931
+ },
+ {
+  "animeID": 11209,
+  "mangaID": 37186
+ },
+ {
+  "animeID": 11237,
+  "mangaID": 31362
+ },
+ {
+  "animeID": 11239,
+  "mangaID": 31362
+ },
+ {
+  "animeID": 11241,
+  "mangaID": 38850
+ },
+ {
+  "animeID": 11241,
+  "mangaID": 57419
+ },
+ {
+  "animeID": 11313,
+  "mangaID": 38483
+ },
+ {
+  "animeID": 11339,
+  "mangaID": 50855
+ },
+ {
+  "animeID": 11371,
+  "mangaID": 42965
+ },
+ {
+  "animeID": 11457,
+  "mangaID": 39131
+ },
+ {
+  "animeID": 11471,
+  "mangaID": 31658
+ },
+ {
+  "animeID": 11491,
+  "mangaID": 59117
+ },
+ {
+  "animeID": 11499,
+  "mangaID": 48597
+ },
+ {
+  "animeID": 11609,
+  "mangaID": 47204
+ },
+ {
+  "animeID": 11615,
+  "mangaID": 52962
+ },
+ {
+  "animeID": 11633,
+  "mangaID": 51614
+ },
+ {
+  "animeID": 11659,
+  "mangaID": 46038
+ },
+ {
+  "animeID": 11665,
+  "mangaID": 31859
+ },
+ {
+  "animeID": 11697,
+  "mangaID": 38795
+ },
+ {
+  "animeID": 11703,
+  "mangaID": 38341
+ },
+ {
+  "animeID": 11737,
+  "mangaID": 43492
+ },
+ {
+  "animeID": 11739,
+  "mangaID": 38557
+ },
+ {
+  "animeID": 11761,
+  "mangaID": 43949
+ },
+ {
+  "animeID": 11763,
+  "mangaID": 72231
+ },
+ {
+  "animeID": 11769,
+  "mangaID": 43951
+ },
+ {
+  "animeID": 11771,
+  "mangaID": 41652
+ },
+ {
+  "animeID": 11799,
+  "mangaID": 57743
+ },
+ {
+  "animeID": 11813,
+  "mangaID": 30988
+ },
+ {
+  "animeID": 11837,
+  "mangaID": 31534
+ },
+ {
+  "animeID": 11843,
+  "mangaID": 56144
+ },
+ {
+  "animeID": 11867,
+  "mangaID": 30624
+ },
+ {
+  "animeID": 11917,
+  "mangaID": 40978
+ },
+ {
+  "animeID": 11959,
+  "mangaID": 116623
+ },
+ {
+  "animeID": 12005,
+  "mangaID": 33160
+ },
+ {
+  "animeID": 12021,
+  "mangaID": 66015
+ },
+ {
+  "animeID": 12031,
+  "mangaID": 46765
+ },
+ {
+  "animeID": 12037,
+  "mangaID": 33160
+ },
+ {
+  "animeID": 12039,
+  "mangaID": 33160
+ },
+ {
+  "animeID": 12067,
+  "mangaID": 30022
+ },
+ {
+  "animeID": 12069,
+  "mangaID": 30007
+ },
+ {
+  "animeID": 12113,
+  "mangaID": 30002
+ },
+ {
+  "animeID": 12115,
+  "mangaID": 30002
+ },
+ {
+  "animeID": 12123,
+  "mangaID": 42960
+ },
+ {
+  "animeID": 12157,
+  "mangaID": 92636
+ },
+ {
+  "animeID": 12231,
+  "mangaID": 56373
+ },
+ {
+  "animeID": 12283,
+  "mangaID": 78471
+ },
+ {
+  "animeID": 12291,
+  "mangaID": 47775
+ },
+ {
+  "animeID": 12317,
+  "mangaID": 46542
+ },
+ {
+  "animeID": 12321,
+  "mangaID": 50647
+ },
+ {
+  "animeID": 12365,
+  "mangaID": 39711
+ },
+ {
+  "animeID": 12391,
+  "mangaID": 110172
+ },
+ {
+  "animeID": 12413,
+  "mangaID": 34611
+ },
+ {
+  "animeID": 12431,
+  "mangaID": 44483
+ },
+ {
+  "animeID": 12437,
+  "mangaID": 52454
+ },
+ {
+  "animeID": 12445,
+  "mangaID": 45805
+ },
+ {
+  "animeID": 12467,
+  "mangaID": 31926
+ },
+ {
+  "animeID": 12471,
+  "mangaID": 63125
+ },
+ {
+  "animeID": 12521,
+  "mangaID": 106534
+ },
+ {
+  "animeID": 12531,
+  "mangaID": 58393
+ },
+ {
+  "animeID": 12599,
+  "mangaID": 44021
+ },
+ {
+  "animeID": 12679,
+  "mangaID": 46104
+ },
+ {
+  "animeID": 12695,
+  "mangaID": 43381
+ },
+ {
+  "animeID": 12725,
+  "mangaID": 30375
+ },
+ {
+  "animeID": 12745,
+  "mangaID": 39855
+ },
+ {
+  "animeID": 12765,
+  "mangaID": 130489
+ },
+ {
+  "animeID": 12795,
+  "mangaID": 129746
+ },
+ {
+  "animeID": 12815,
+  "mangaID": 65695
+ },
+ {
+  "animeID": 12833,
+  "mangaID": 151183
+ },
+ {
+  "animeID": 12899,
+  "mangaID": 91455
+ },
+ {
+  "animeID": 12907,
+  "mangaID": 64497
+ },
+ {
+  "animeID": 12921,
+  "mangaID": 52962
+ },
+ {
+  "animeID": 12929,
+  "mangaID": 79551
+ },
+ {
+  "animeID": 12979,
+  "mangaID": 53208
+ },
+ {
+  "animeID": 12991,
+  "mangaID": 31428
+ },
+ {
+  "animeID": 13141,
+  "mangaID": 64747
+ },
+ {
+  "animeID": 13231,
+  "mangaID": 153443
+ },
+ {
+  "animeID": 13267,
+  "mangaID": 42671
+ },
+ {
+  "animeID": 13271,
+  "mangaID": 75996
+ },
+ {
+  "animeID": 13303,
+  "mangaID": 39982
+ },
+ {
+  "animeID": 13331,
+  "mangaID": 34611
+ },
+ {
+  "animeID": 13349,
+  "mangaID": 65813
+ },
+ {
+  "animeID": 13377,
+  "mangaID": 59117
+ },
+ {
+  "animeID": 13409,
+  "mangaID": 32970
+ },
+ {
+  "animeID": 13535,
+  "mangaID": 50242
+ },
+ {
+  "animeID": 13553,
+  "mangaID": 165700
+ },
+ {
+  "animeID": 13585,
+  "mangaID": 50453
+ },
+ {
+  "animeID": 13663,
+  "mangaID": 52519
+ },
+ {
+  "animeID": 13715,
+  "mangaID": 124977
+ },
+ {
+  "animeID": 13833,
+  "mangaID": 54877
+ },
+ {
+  "animeID": 13835,
+  "mangaID": 66577
+ },
+ {
+  "animeID": 13843,
+  "mangaID": 30573
+ },
+ {
+  "animeID": 13851,
+  "mangaID": 52519
+ },
+ {
+  "animeID": 13859,
+  "mangaID": 71867
+ },
+ {
+  "animeID": 16498,
+  "mangaID": 53390
+ },
+ {
+  "animeID": 113415,
+  "mangaID": 101517
+ },
+ {
+  "animeID": 101922,
+  "mangaID": 87216
+ },
+ {
+  "animeID": 21459,
+  "mangaID": 85486
+ },
+ {
+  "animeID": 21366,
+  "mangaID": 31224
+ },
+ {
+  "animeID": 98478,
+  "mangaID": 31224
+ },
+ {
+  "animeID": 127230,
+  "mangaID": 105778
+ },
+ {
+  "animeID": 20605,
+  "mangaID": 63327
  }
 ]

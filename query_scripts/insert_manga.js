@@ -20,6 +20,8 @@ async function hehe(){
             const chapters = mangalist[i].data.Media.chapters;
             const startDate = mangalist[i].data.Media.startDate;
             const endDate = mangalist[i].data.Media.endDate;
+            const imagelink = mangalist[i].data.Media.coverImage.large;
+            const bannerlink = mangalist[i].data.Media.bannerImage;
             var sd = startDate.year + '-' + startDate.month + '-' + startDate.day;
             if(startDate.year == null || startDate.month == null || startDate.day == null){
                 sd = null;
@@ -32,9 +34,9 @@ async function hehe(){
             //console.log(sd + '\n' + ed);
 
             const q = await pool.query(
-                `INSERT INTO manga (id, romaji_title, english_title, description, status, volumes, chapters, start_date, end_date)
-                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
-                `, [id, romaji_title, english_title, description, status, volumes, chapters, sd, ed]
+                `INSERT INTO manga (id, romaji_title, english_title, description, status, volumes, chapters, start_date, end_date, imagelink, bannerlink)
+                    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
+                `, [id, romaji_title, english_title, description, status, volumes, chapters, sd, ed, imagelink, bannerlink]
             );
 
             //console.log(q);

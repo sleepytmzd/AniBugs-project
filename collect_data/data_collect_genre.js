@@ -43,7 +43,7 @@ async function fetchdata(){
 }
 
 async function hehe(){
-    try {
+    /*try {
         const temp = await readFileAsync('../data/anime_data_2.json');
         const jsondata = JSON.parse(temp);
         const animelist = jsondata.animes;
@@ -58,7 +58,7 @@ async function hehe(){
         await writeFileAsync('../data/anime_genre.json', JSON.stringify(anime_genre_pair, null, 1));
     } catch (error) {
         console.log(error);
-    }
+    }*/
 
     try {
         const temp = await readFileAsync('../data/manga_data.json');

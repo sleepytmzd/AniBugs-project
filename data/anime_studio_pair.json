@@ -2,42 +2,42 @@
  {
   "animeID": 6,
   "studioID": 11,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 8,
   "studioID": 18,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 15,
   "studioID": 36,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 16,
   "studioID": 7,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 16,
   "studioID": 70,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 17,
   "studioID": 22,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 18,
   "studioID": 179,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 18,
   "studioID": 829,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 19,
@@ -47,12 +47,12 @@
  {
   "animeID": 20,
   "studioID": 1,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 21,
   "studioID": 18,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 21,
@@ -62,47 +62,47 @@
  {
   "animeID": 21,
   "studioID": 207,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 21,
   "studioID": 68,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 21,
   "studioID": 6291,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 21,
   "studioID": 406,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 22,
   "studioID": 7,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 22,
   "studioID": 10,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 22,
   "studioID": 80,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 23,
   "studioID": 18,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 24,
   "studioID": 126,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 24,
@@ -112,22 +112,22 @@
  {
   "animeID": 25,
   "studioID": 3,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 28,
   "studioID": 14,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 29,
   "studioID": 37,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 33,
   "studioID": 28,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 43,
@@ -137,27 +137,27 @@
  {
   "animeID": 44,
   "studioID": 37,
+  "price": 6
+ },
+ {
+  "animeID": 45,
+  "studioID": 36,
+  "price": 2
+ },
+ {
+  "animeID": 45,
+  "studioID": 37,
   "price": 8
  },
  {
-  "animeID": 45,
-  "studioID": 36,
-  "price": 4
- },
- {
-  "animeID": 45,
-  "studioID": 37,
-  "price": 6
- },
- {
   "animeID": 46,
   "studioID": 37,
-  "price": 6
- },
- {
-  "animeID": 46,
-  "studioID": 36,
   "price": 2
+ },
+ {
+  "animeID": 46,
+  "studioID": 36,
+  "price": 6
  },
  {
   "animeID": 47,
@@ -167,52 +167,52 @@
  {
   "animeID": 49,
   "studioID": 48,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 50,
   "studioID": 48,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 51,
   "studioID": 34,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 51,
   "studioID": 48,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 52,
   "studioID": 4,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 53,
   "studioID": 7,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 54,
   "studioID": 486,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 57,
   "studioID": 11,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 59,
   "studioID": 11,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 60,
   "studioID": 3,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 61,
@@ -222,202 +222,202 @@
  {
   "animeID": 63,
   "studioID": 34,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 63,
   "studioID": 39,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 64,
   "studioID": 70,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 64,
   "studioID": 829,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 65,
   "studioID": 70,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 66,
   "studioID": 7,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 67,
   "studioID": 3,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 68,
   "studioID": 3,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 74,
   "studioID": 86,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 100,
   "studioID": 34,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 102,
   "studioID": 73,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 102,
   "studioID": 761,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 103,
   "studioID": 36,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 104,
   "studioID": 1,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 105,
   "studioID": 34,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 106,
   "studioID": 18,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 107,
   "studioID": 37,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 108,
   "studioID": 37,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 110,
   "studioID": 22,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 114,
   "studioID": 10,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 120,
   "studioID": 37,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 121,
   "studioID": 4,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 122,
   "studioID": 37,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 123,
   "studioID": 1,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 124,
   "studioID": 1,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 129,
   "studioID": 86,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 129,
   "studioID": 1,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 130,
   "studioID": 1,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 131,
   "studioID": 1,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 132,
   "studioID": 37,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 134,
   "studioID": 11,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 135,
   "studioID": 1,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 135,
   "studioID": 399,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 136,
   "studioID": 22,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 137,
   "studioID": 22,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 138,
   "studioID": 22,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 139,
   "studioID": 22,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 139,
   "studioID": 114,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 141,
   "studioID": 91,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 142,
   "studioID": 18,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 143,
@@ -427,42 +427,42 @@
  {
   "animeID": 143,
   "studioID": 69,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 143,
   "studioID": 120,
-  "price": 2
- },
- {
-  "animeID": 145,
-  "studioID": 6,
   "price": 4
  },
  {
   "animeID": 145,
-  "studioID": 7,
-  "price": 7
- },
- {
-  "animeID": 149,
-  "studioID": 7,
-  "price": 3
- },
- {
-  "animeID": 151,
   "studioID": 6,
   "price": 7
  },
  {
+  "animeID": 145,
+  "studioID": 7,
+  "price": 1
+ },
+ {
+  "animeID": 149,
+  "studioID": 7,
+  "price": 8
+ },
+ {
+  "animeID": 151,
+  "studioID": 6,
+  "price": 8
+ },
+ {
   "animeID": 151,
   "studioID": 18,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 154,
   "studioID": 27,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 155,
@@ -472,32 +472,32 @@
  {
   "animeID": 156,
   "studioID": 11,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 157,
   "studioID": 27,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 159,
   "studioID": 6,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 159,
   "studioID": 7,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 161,
   "studioID": 3,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 162,
   "studioID": 11,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 162,
@@ -507,107 +507,107 @@
  {
   "animeID": 170,
   "studioID": 18,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 173,
   "studioID": 37,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 173,
   "studioID": 117,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 174,
   "studioID": 11,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 175,
   "studioID": 1,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 177,
   "studioID": 5,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 178,
   "studioID": 196,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 178,
   "studioID": 318,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 178,
   "studioID": 829,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 179,
   "studioID": 196,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 183,
   "studioID": 126,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 183,
   "studioID": 829,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 185,
   "studioID": 126,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 185,
   "studioID": 36,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 185,
   "studioID": 413,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 186,
   "studioID": 413,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 187,
   "studioID": 37,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 187,
   "studioID": 413,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 189,
   "studioID": 27,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 190,
   "studioID": 27,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 191,
   "studioID": 27,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 192,
@@ -617,47 +617,47 @@
  {
   "animeID": 197,
   "studioID": 11,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 197,
   "studioID": 75,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 200,
   "studioID": 73,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 201,
   "studioID": 10,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 209,
   "studioID": 7,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 210,
   "studioID": 37,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 223,
   "studioID": 18,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 225,
   "studioID": 18,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 226,
   "studioID": 38,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 226,
@@ -667,7 +667,7 @@
  {
   "animeID": 229,
   "studioID": 43,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 230,
@@ -677,87 +677,87 @@
  {
   "animeID": 231,
   "studioID": 462,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 232,
   "studioID": 11,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 233,
   "studioID": 7,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 234,
   "studioID": 122,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 235,
   "studioID": 73,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 236,
   "studioID": 1,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 238,
   "studioID": 1,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 240,
   "studioID": 455,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 241,
   "studioID": 83,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 241,
   "studioID": 829,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 242,
   "studioID": 11,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 242,
   "studioID": 829,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 243,
   "studioID": 37,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 243,
   "studioID": 196,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 245,
   "studioID": 1,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 246,
   "studioID": 37,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 247,
   "studioID": 96,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 248,
@@ -767,97 +767,97 @@
  {
   "animeID": 249,
   "studioID": 2,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 249,
   "studioID": 14,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 250,
   "studioID": 18,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 253,
   "studioID": 247,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 254,
   "studioID": 247,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 255,
   "studioID": 247,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 257,
   "studioID": 7,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 258,
   "studioID": 11,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 258,
   "studioID": 86,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 261,
   "studioID": 829,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 262,
   "studioID": 101,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 263,
   "studioID": 11,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 264,
   "studioID": 11,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 265,
   "studioID": 11,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 268,
   "studioID": 77,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 269,
   "studioID": 1,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 270,
   "studioID": 3,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 276,
   "studioID": 6,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 276,
   "studioID": 44,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 277,
@@ -867,12 +867,12 @@
  {
   "animeID": 277,
   "studioID": 44,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 280,
   "studioID": 36,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 282,
@@ -882,12 +882,12 @@
  {
   "animeID": 284,
   "studioID": 86,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 286,
   "studioID": 65,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 287,
@@ -897,77 +897,77 @@
  {
   "animeID": 288,
   "studioID": 11,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 288,
   "studioID": 367,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 288,
   "studioID": 114,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 292,
   "studioID": 179,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 296,
   "studioID": 11,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 297,
   "studioID": 86,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 297,
   "studioID": 6460,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 298,
   "studioID": 5,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 300,
   "studioID": 18,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 301,
   "studioID": 207,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 303,
   "studioID": 28,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 305,
   "studioID": 1,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 305,
   "studioID": 122,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 311,
   "studioID": 11,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 311,
   "studioID": 65,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 311,
@@ -977,7 +977,7 @@
  {
   "animeID": 311,
   "studioID": 629,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 313,
@@ -987,107 +987,97 @@
  {
   "animeID": 313,
   "studioID": 65,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 314,
   "studioID": 65,
-  "price": 2
- },
- {
-  "animeID": 316,
-  "studioID": 45,
   "price": 8
- },
- {
-  "animeID": 316,
-  "studioID": 48,
-  "price": 3
  },
  {
   "animeID": 322,
   "studioID": 11,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 325,
   "studioID": 70,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 325,
   "studioID": 126,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 325,
   "studioID": 829,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 326,
   "studioID": 11,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 326,
   "studioID": 80,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 329,
   "studioID": 14,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 330,
   "studioID": 1,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 331,
   "studioID": 22,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 332,
   "studioID": 22,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 334,
   "studioID": 18,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 335,
   "studioID": 37,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 337,
   "studioID": 154,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 338,
   "studioID": 65,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 340,
   "studioID": 126,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 341,
   "studioID": 7,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 343,
   "studioID": 44,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 344,
@@ -1097,12 +1087,12 @@
  {
   "animeID": 345,
   "studioID": 1,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 359,
   "studioID": 463,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 364,
@@ -1112,57 +1102,52 @@
  {
   "animeID": 364,
   "studioID": 122,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 365,
   "studioID": 7,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 367,
   "studioID": 367,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 371,
   "studioID": 11,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 372,
   "studioID": 11,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 376,
   "studioID": 38,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 379,
   "studioID": 7,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 380,
   "studioID": 1,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 381,
   "studioID": 1,
-  "price": 9
- },
- {
-  "animeID": 382,
-  "studioID": 462,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 384,
   "studioID": 3,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 385,
@@ -1172,7 +1157,7 @@
  {
   "animeID": 386,
   "studioID": 196,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 388,
@@ -1197,22 +1182,22 @@
  {
   "animeID": 394,
   "studioID": 7,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 395,
   "studioID": 3,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 400,
   "studioID": 14,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 401,
   "studioID": 37,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 403,
@@ -1222,47 +1207,47 @@
  {
   "animeID": 404,
   "studioID": 48,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 406,
   "studioID": 73,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 407,
   "studioID": 1,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 407,
   "studioID": 86,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 412,
   "studioID": 6,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 412,
   "studioID": 44,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 415,
   "studioID": 21,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 416,
   "studioID": 21,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 418,
   "studioID": 37,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 419,
@@ -1272,7 +1257,7 @@
  {
   "animeID": 420,
   "studioID": 13,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 425,
@@ -1282,62 +1267,62 @@
  {
   "animeID": 430,
   "studioID": 4,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 435,
   "studioID": 65,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 442,
   "studioID": 1,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 448,
   "studioID": 11,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 449,
   "studioID": 14,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 450,
   "studioID": 2,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 450,
   "studioID": 196,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 450,
   "studioID": 14,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 451,
   "studioID": 2,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 451,
   "studioID": 14,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 452,
   "studioID": 14,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 457,
   "studioID": 8,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 458,
@@ -1347,27 +1332,27 @@
  {
   "animeID": 458,
   "studioID": 829,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 458,
   "studioID": 45,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 466,
-  "studioID": 10,
-  "price": 4
- },
- {
-  "animeID": 467,
   "studioID": 10,
   "price": 7
  },
  {
   "animeID": 467,
+  "studioID": 10,
+  "price": 9
+ },
+ {
+  "animeID": 467,
   "studioID": 178,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 468,
@@ -1377,12 +1362,12 @@
  {
   "animeID": 469,
   "studioID": 7,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 470,
   "studioID": 11,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 477,
@@ -1392,27 +1377,27 @@
  {
   "animeID": 479,
   "studioID": 37,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 479,
   "studioID": 117,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 479,
   "studioID": 210,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 481,
   "studioID": 36,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 484,
   "studioID": 1,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 485,
@@ -1422,92 +1407,92 @@
  {
   "animeID": 487,
   "studioID": 83,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 487,
   "studioID": 829,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 488,
   "studioID": 39,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 488,
   "studioID": 196,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 490,
   "studioID": 44,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 495,
   "studioID": 27,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 501,
   "studioID": 65,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 502,
   "studioID": 18,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 506,
   "studioID": 829,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 507,
   "studioID": 107,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 507,
   "studioID": 6896,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 508,
   "studioID": 73,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 516,
   "studioID": 14,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 517,
   "studioID": 126,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 517,
   "studioID": 829,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 519,
   "studioID": 7,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 520,
   "studioID": 18,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 521,
   "studioID": 118,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 521,
@@ -1517,7 +1502,7 @@
  {
   "animeID": 522,
   "studioID": 11,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 526,
@@ -1527,32 +1512,32 @@
  {
   "animeID": 529,
   "studioID": 3,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 529,
   "studioID": 95,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 530,
   "studioID": 18,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 531,
   "studioID": 18,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 532,
   "studioID": 18,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 533,
   "studioID": 7,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 533,
@@ -1562,87 +1547,87 @@
  {
   "animeID": 533,
   "studioID": 6291,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 544,
   "studioID": 110,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 550,
   "studioID": 18,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 551,
   "studioID": 86,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 553,
   "studioID": 7,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 558,
   "studioID": 101,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 563,
   "studioID": 11,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 563,
   "studioID": 37,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 566,
   "studioID": 11,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 570,
   "studioID": 10,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 572,
   "studioID": 101,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 572,
   "studioID": 363,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 576,
   "studioID": 122,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 577,
   "studioID": 78,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 582,
   "studioID": 11,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 582,
   "studioID": 207,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 585,
   "studioID": 21,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 588,
@@ -1652,32 +1637,32 @@
  {
   "animeID": 589,
   "studioID": 18,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 591,
   "studioID": 37,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 594,
   "studioID": 1,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 595,
   "studioID": 11,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 596,
   "studioID": 11,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 597,
   "studioID": 21,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 598,
@@ -1687,42 +1672,42 @@
  {
   "animeID": 598,
   "studioID": 6949,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 601,
   "studioID": 7,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 609,
   "studioID": 24,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 613,
   "studioID": 14,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 616,
   "studioID": 36,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 620,
   "studioID": 73,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 620,
   "studioID": 13,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 623,
   "studioID": 34,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 623,
@@ -1732,237 +1717,177 @@
  {
   "animeID": 623,
   "studioID": 179,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 624,
   "studioID": 196,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 624,
   "studioID": 37,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 626,
   "studioID": 18,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 627,
   "studioID": 101,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 630,
   "studioID": 11,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 630,
   "studioID": 196,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 630,
   "studioID": 110,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 631,
   "studioID": 6,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 631,
   "studioID": 44,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 634,
   "studioID": 179,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 637,
   "studioID": 7,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 644,
   "studioID": 7,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 645,
   "studioID": 1,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 646,
   "studioID": 37,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 649,
   "studioID": 39,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 650,
   "studioID": 28,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 658,
   "studioID": 11,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 659,
   "studioID": 7,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 660,
   "studioID": 18,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 664,
   "studioID": 4,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 665,
   "studioID": 77,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 666,
   "studioID": 77,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 667,
   "studioID": 101,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 668,
   "studioID": 93,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 678,
   "studioID": 37,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 687,
   "studioID": 1,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 690,
   "studioID": 48,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 691,
   "studioID": 11,
-  "price": 4
- },
- {
-  "animeID": 710,
-  "studioID": 44,
-  "price": 8
- },
- {
-  "animeID": 714,
-  "studioID": 126,
-  "price": 3
- },
- {
-  "animeID": 714,
-  "studioID": 390,
-  "price": 3
- },
- {
-  "animeID": 715,
-  "studioID": 7,
   "price": 7
- },
- {
-  "animeID": 718,
-  "studioID": 7,
-  "price": 6
- },
- {
-  "animeID": 722,
-  "studioID": 126,
-  "price": 5
- },
- {
-  "animeID": 723,
-  "studioID": 18,
-  "price": 5
- },
- {
-  "animeID": 727,
-  "studioID": 18,
-  "price": 2
- },
- {
-  "animeID": 729,
-  "studioID": 86,
-  "price": 4
  },
  {
   "animeID": 733,
   "studioID": 7120,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 734,
   "studioID": 218,
-  "price": 6
- },
- {
-  "animeID": 736,
-  "studioID": 7,
-  "price": 5
- },
- {
-  "animeID": 736,
-  "studioID": 25,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 738,
   "studioID": 118,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 738,
   "studioID": 171,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 740,
   "studioID": 18,
-  "price": 8
- },
- {
-  "animeID": 741,
-  "studioID": 329,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 750,
   "studioID": 37,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 752,
@@ -1972,62 +1897,62 @@
  {
   "animeID": 752,
   "studioID": 7,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 760,
   "studioID": 11,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 761,
   "studioID": 1,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 776,
   "studioID": 7,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 777,
   "studioID": 11,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 777,
   "studioID": 41,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 777,
   "studioID": 549,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 777,
   "studioID": 894,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 783,
   "studioID": 86,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 786,
   "studioID": 6613,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 788,
   "studioID": 7,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 791,
   "studioID": 14,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 793,
@@ -2037,57 +1962,57 @@
  {
   "animeID": 795,
   "studioID": 200,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 796,
   "studioID": 22,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 797,
   "studioID": 39,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 799,
   "studioID": 37,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 800,
   "studioID": 110,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 800,
   "studioID": 118,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 801,
   "studioID": 10,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 808,
   "studioID": 27,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 810,
   "studioID": 86,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 810,
   "studioID": 6896,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 811,
   "studioID": 1,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 811,
@@ -2102,42 +2027,37 @@
  {
   "animeID": 815,
   "studioID": 10,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 818,
   "studioID": 44,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 818,
   "studioID": 210,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 821,
   "studioID": 413,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 822,
   "studioID": 413,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 822,
   "studioID": 44,
-  "price": 2
- },
- {
-  "animeID": 823,
-  "studioID": 152,
   "price": 5
  },
  {
   "animeID": 834,
   "studioID": 1,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 838,
@@ -2147,12 +2067,12 @@
  {
   "animeID": 840,
   "studioID": 6460,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 841,
   "studioID": 110,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 842,
@@ -2162,72 +2082,72 @@
  {
   "animeID": 846,
   "studioID": 126,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 846,
   "studioID": 829,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 851,
   "studioID": 1,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 852,
   "studioID": 18,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 853,
   "studioID": 4,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 853,
   "studioID": 70,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 857,
   "studioID": 18,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 861,
   "studioID": 10,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 863,
   "studioID": 38,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 863,
   "studioID": 6291,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 863,
   "studioID": 909,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 870,
   "studioID": 10,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 875,
   "studioID": 13,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 877,
   "studioID": 11,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 880,
@@ -2242,47 +2162,47 @@
  {
   "animeID": 883,
   "studioID": 1,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 883,
   "studioID": 171,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 884,
   "studioID": 28,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 884,
   "studioID": 7112,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 886,
   "studioID": 37,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 888,
   "studioID": 27,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 889,
   "studioID": 11,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 891,
   "studioID": 18,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 892,
   "studioID": 18,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 893,
@@ -2292,112 +2212,112 @@
  {
   "animeID": 894,
   "studioID": 18,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 895,
   "studioID": 18,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 896,
   "studioID": 18,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 897,
   "studioID": 18,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 898,
   "studioID": 18,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 899,
   "studioID": 18,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 900,
   "studioID": 18,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 901,
   "studioID": 18,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 902,
   "studioID": 18,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 903,
   "studioID": 18,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 904,
   "studioID": 18,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 905,
   "studioID": 18,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 905,
   "studioID": 494,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 906,
   "studioID": 18,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 907,
   "studioID": 37,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 912,
   "studioID": 1,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 913,
   "studioID": 73,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 914,
   "studioID": 80,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 914,
   "studioID": 101,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 914,
   "studioID": 391,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 914,
   "studioID": 829,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 915,
   "studioID": 37,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 916,
@@ -2407,12 +2327,12 @@
  {
   "animeID": 917,
   "studioID": 48,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 918,
   "studioID": 14,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 919,
@@ -2422,32 +2342,32 @@
  {
   "animeID": 932,
   "studioID": 39,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 933,
   "studioID": 51,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 936,
   "studioID": 1,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 937,
   "studioID": 6,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 943,
   "studioID": 11,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 951,
   "studioID": 22,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 952,
@@ -2457,27 +2377,27 @@
  {
   "animeID": 952,
   "studioID": 120,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 953,
   "studioID": 4,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 962,
   "studioID": 34,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 966,
   "studioID": 247,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 967,
   "studioID": 18,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 968,
@@ -2487,27 +2407,27 @@
  {
   "animeID": 969,
   "studioID": 5,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 971,
   "studioID": 200,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 975,
   "studioID": 30,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 976,
   "studioID": 30,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 981,
   "studioID": 11,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 984,
@@ -2517,47 +2437,47 @@
  {
   "animeID": 985,
   "studioID": 18,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 986,
   "studioID": 18,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 987,
   "studioID": 18,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 991,
   "studioID": 45,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 991,
   "studioID": 462,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 996,
   "studioID": 18,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 997,
   "studioID": 18,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 997,
   "studioID": 196,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 998,
   "studioID": 10,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 998,
@@ -2567,82 +2487,82 @@
  {
   "animeID": 1000,
   "studioID": 18,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 1003,
   "studioID": 48,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 1007,
   "studioID": 6,
-  "price": 1
- },
- {
-  "animeID": 1007,
-  "studioID": 37,
   "price": 5
  },
  {
+  "animeID": 1007,
+  "studioID": 37,
+  "price": 6
+ },
+ {
   "animeID": 1008,
   "studioID": 6,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 1008,
   "studioID": 37,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1011,
   "studioID": 14,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 1015,
   "studioID": 2,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1016,
   "studioID": 11,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1021,
   "studioID": 101,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 1026,
   "studioID": 1,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 1029,
   "studioID": 21,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 1036,
   "studioID": 122,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 1040,
   "studioID": 126,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 1041,
   "studioID": 11,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 1042,
   "studioID": 10,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 1042,
@@ -2652,32 +2572,32 @@
  {
   "animeID": 1043,
   "studioID": 11,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 1045,
   "studioID": 86,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 1046,
   "studioID": 86,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 1050,
   "studioID": 18,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 1051,
   "studioID": 3,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 1055,
   "studioID": 86,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 1056,
@@ -2687,42 +2607,32 @@
  {
   "animeID": 1057,
   "studioID": 86,
-  "price": 4
- },
- {
-  "animeID": 1060,
-  "studioID": 6,
-  "price": 3
- },
- {
-  "animeID": 1060,
-  "studioID": 86,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 1064,
   "studioID": 112,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 1064,
   "studioID": 322,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 1065,
   "studioID": 86,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 1078,
   "studioID": 11,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 1083,
   "studioID": 179,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 1084,
@@ -2732,12 +2642,12 @@
  {
   "animeID": 1087,
   "studioID": 1,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 1093,
   "studioID": 247,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 1094,
@@ -2747,42 +2657,42 @@
  {
   "animeID": 1108,
   "studioID": 37,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 1110,
   "studioID": 60,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 1110,
   "studioID": 434,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 1110,
   "studioID": 118,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 1115,
   "studioID": 7,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 1123,
   "studioID": 18,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 1127,
   "studioID": 120,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1128,
   "studioID": 120,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 1129,
@@ -2792,27 +2702,27 @@
  {
   "animeID": 1142,
   "studioID": 7,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 1151,
   "studioID": 6703,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 1153,
   "studioID": 18,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 1158,
   "studioID": 462,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 1159,
   "studioID": 462,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 1161,
@@ -2822,162 +2732,82 @@
  {
   "animeID": 1162,
   "studioID": 7,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 1167,
   "studioID": 409,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 1177,
   "studioID": 7,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 1180,
   "studioID": 1,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 1181,
   "studioID": 6896,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 1187,
   "studioID": 11,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 1187,
   "studioID": 37,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 1188,
   "studioID": 37,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 1189,
   "studioID": 37,
-  "price": 5
- },
- {
-  "animeID": 1196,
-  "studioID": 8,
-  "price": 5
- },
- {
-  "animeID": 1199,
-  "studioID": 30,
-  "price": 9
- },
- {
-  "animeID": 1207,
-  "studioID": 68,
-  "price": 1
- },
- {
-  "animeID": 1209,
-  "studioID": 11,
-  "price": 9
- },
- {
-  "animeID": 1209,
-  "studioID": 94,
-  "price": 7
- },
- {
-  "animeID": 1209,
-  "studioID": 234,
-  "price": 4
- },
- {
-  "animeID": 1214,
-  "studioID": 18,
-  "price": 1
- },
- {
-  "animeID": 1216,
-  "studioID": 7,
   "price": 2
- },
- {
-  "animeID": 1219,
-  "studioID": 51,
-  "price": 6
- },
- {
-  "animeID": 1219,
-  "studioID": 70,
-  "price": 1
- },
- {
-  "animeID": 1222,
-  "studioID": 8,
-  "price": 4
- },
- {
-  "animeID": 1225,
-  "studioID": 280,
-  "price": 2
- },
- {
-  "animeID": 1225,
-  "studioID": 18,
-  "price": 6
- },
- {
-  "animeID": 1227,
-  "studioID": 438,
-  "price": 8
- },
- {
-  "animeID": 1228,
-  "studioID": 39,
-  "price": 3
- },
- {
-  "animeID": 1228,
-  "studioID": 6565,
-  "price": 4
  },
  {
   "animeID": 1237,
   "studioID": 18,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 1238,
   "studioID": 18,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 1239,
   "studioID": 18,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 1240,
   "studioID": 18,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 1240,
   "studioID": 196,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 1245,
   "studioID": 11,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 1245,
   "studioID": 196,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 1246,
@@ -2987,37 +2817,37 @@
  {
   "animeID": 1246,
   "studioID": 131,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 1250,
   "studioID": 27,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 1253,
   "studioID": 18,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 1254,
   "studioID": 18,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 1257,
   "studioID": 18,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 1269,
   "studioID": 11,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 1270,
   "studioID": 48,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 1270,
@@ -3027,157 +2857,77 @@
  {
   "animeID": 1271,
   "studioID": 48,
-  "price": 5
- },
- {
-  "animeID": 1272,
-  "studioID": 38,
-  "price": 3
- },
- {
-  "animeID": 1273,
-  "studioID": 38,
   "price": 6
  },
  {
   "animeID": 1278,
   "studioID": 18,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 1293,
   "studioID": 1,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 1293,
   "studioID": 37,
-  "price": 6
- },
- {
-  "animeID": 1300,
-  "studioID": 77,
-  "price": 5
- },
- {
-  "animeID": 1301,
-  "studioID": 18,
-  "price": 6
- },
- {
-  "animeID": 1302,
-  "studioID": 18,
-  "price": 9
- },
- {
-  "animeID": 1314,
-  "studioID": 14,
-  "price": 5
- },
- {
-  "animeID": 1316,
-  "studioID": 10,
-  "price": 9
- },
- {
-  "animeID": 1316,
-  "studioID": 80,
-  "price": 2
- },
- {
-  "animeID": 1317,
-  "studioID": 10,
-  "price": 6
- },
- {
-  "animeID": 1324,
-  "studioID": 7,
-  "price": 6
- },
- {
-  "animeID": 1324,
-  "studioID": 196,
-  "price": 4
- },
- {
-  "animeID": 1325,
-  "studioID": 37,
-  "price": 8
- },
- {
-  "animeID": 1327,
-  "studioID": 18,
-  "price": 7
- },
- {
-  "animeID": 1328,
-  "studioID": 36,
-  "price": 6
- },
- {
-  "animeID": 1331,
-  "studioID": 45,
-  "price": 2
- },
- {
-  "animeID": 1331,
-  "studioID": 48,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 1337,
   "studioID": 18,
-  "price": 6
- },
- {
-  "animeID": 1338,
-  "studioID": 7,
   "price": 4
  },
  {
   "animeID": 1338,
+  "studioID": 7,
+  "price": 5
+ },
+ {
+  "animeID": 1338,
   "studioID": 6958,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1341,
   "studioID": 196,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1344,
   "studioID": 7,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 1344,
   "studioID": 477,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1344,
   "studioID": 6958,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 1356,
   "studioID": 18,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 1368,
   "studioID": 73,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 1368,
   "studioID": 6361,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 1369,
   "studioID": 73,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 1371,
@@ -3187,7 +2937,7 @@
  {
   "animeID": 1372,
   "studioID": 37,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 1372,
@@ -3197,107 +2947,87 @@
  {
   "animeID": 1373,
   "studioID": 200,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 1374,
   "studioID": 28,
-  "price": 4
- },
- {
-  "animeID": 1383,
-  "studioID": 45,
   "price": 3
- },
- {
-  "animeID": 1390,
-  "studioID": 48,
-  "price": 8
- },
- {
-  "animeID": 1407,
-  "studioID": 45,
-  "price": 9
- },
- {
-  "animeID": 1407,
-  "studioID": 28,
-  "price": 4
  },
  {
   "animeID": 1412,
   "studioID": 65,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 1413,
   "studioID": 73,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 1413,
   "studioID": 6361,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 1416,
   "studioID": 65,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 1417,
   "studioID": 65,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 1422,
   "studioID": 73,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 1424,
   "studioID": 73,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 1424,
   "studioID": 6361,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 1425,
   "studioID": 65,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 1425,
   "studioID": 829,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 1426,
   "studioID": 65,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1427,
   "studioID": 73,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 1427,
   "studioID": 6361,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 1429,
   "studioID": 73,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 1430,
   "studioID": 65,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 1432,
@@ -3307,7 +3037,7 @@
  {
   "animeID": 1433,
   "studioID": 65,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 1435,
@@ -3317,12 +3047,12 @@
  {
   "animeID": 1436,
   "studioID": 65,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 1437,
   "studioID": 65,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 1439,
@@ -3332,167 +3062,47 @@
  {
   "animeID": 1445,
   "studioID": 103,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 1453,
   "studioID": 37,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 1462,
   "studioID": 11,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 1462,
   "studioID": 13,
-  "price": 1
- },
- {
-  "animeID": 1465,
-  "studioID": 37,
-  "price": 2
- },
- {
-  "animeID": 1468,
-  "studioID": 1,
   "price": 8
- },
- {
-  "animeID": 1470,
-  "studioID": 14,
-  "price": 4
- },
- {
-  "animeID": 1471,
-  "studioID": 14,
-  "price": 8
- },
- {
-  "animeID": 1472,
-  "studioID": 14,
-  "price": 7
- },
- {
-  "animeID": 1473,
-  "studioID": 14,
-  "price": 3
- },
- {
-  "animeID": 1474,
-  "studioID": 14,
-  "price": 5
- },
- {
-  "animeID": 1474,
-  "studioID": 196,
-  "price": 7
- },
- {
-  "animeID": 1477,
-  "studioID": 14,
-  "price": 8
- },
- {
-  "animeID": 1481,
-  "studioID": 1,
-  "price": 5
- },
- {
-  "animeID": 1482,
-  "studioID": 73,
-  "price": 5
- },
- {
-  "animeID": 1482,
-  "studioID": 829,
-  "price": 1
- },
- {
-  "animeID": 1483,
-  "studioID": 11,
-  "price": 7
- },
- {
-  "animeID": 1484,
-  "studioID": 7,
-  "price": 1
- },
- {
-  "animeID": 1484,
-  "studioID": 6896,
-  "price": 6
- },
- {
-  "animeID": 1485,
-  "studioID": 1,
-  "price": 8
- },
- {
-  "animeID": 1486,
-  "studioID": 36,
-  "price": 1
- },
- {
-  "animeID": 1488,
-  "studioID": 1,
-  "price": 4
- },
- {
-  "animeID": 1491,
-  "studioID": 18,
-  "price": 7
- },
- {
-  "animeID": 1492,
-  "studioID": 73,
-  "price": 7
- },
- {
-  "animeID": 1493,
-  "studioID": 73,
-  "price": 9
- },
- {
-  "animeID": 1494,
-  "studioID": 7,
-  "price": 2
- },
- {
-  "animeID": 1496,
-  "studioID": 6896,
-  "price": 6
- },
- {
-  "animeID": 1496,
-  "studioID": 11,
-  "price": 2
  },
  {
   "animeID": 1500,
   "studioID": 34,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 1508,
   "studioID": 77,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 1509,
   "studioID": 7108,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 1516,
   "studioID": 118,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 1516,
   "studioID": 131,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 1517,
@@ -3507,67 +3117,67 @@
  {
   "animeID": 1519,
   "studioID": 69,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 1520,
   "studioID": 200,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 1521,
   "studioID": 200,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 1533,
   "studioID": 28,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 1533,
   "studioID": 829,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 1535,
   "studioID": 11,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 1535,
   "studioID": 196,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1536,
   "studioID": 27,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 1537,
   "studioID": 18,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 1538,
   "studioID": 3,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 1538,
   "studioID": 70,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 1541,
   "studioID": 455,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1541,
   "studioID": 77,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 1547,
@@ -3577,7 +3187,7 @@
  {
   "animeID": 1547,
   "studioID": 65,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 1548,
@@ -3587,27 +3197,27 @@
  {
   "animeID": 1549,
   "studioID": 18,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 1550,
   "studioID": 65,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 1553,
   "studioID": 28,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 1554,
   "studioID": 7,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 1556,
   "studioID": 112,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 1559,
@@ -3617,102 +3227,102 @@
  {
   "animeID": 1559,
   "studioID": 73,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 1562,
   "studioID": 22,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 1563,
   "studioID": 73,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 1566,
   "studioID": 10,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 1567,
   "studioID": 65,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 1568,
   "studioID": 101,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 1572,
   "studioID": 68,
-  "price": 9
+  "price": 8
  },
  {
   "animeID": 1573,
   "studioID": 37,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 1577,
   "studioID": 37,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1580,
   "studioID": 24,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 1582,
   "studioID": 86,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 1582,
   "studioID": 196,
-  "price": 9
+  "price": 1
  },
  {
   "animeID": 1583,
   "studioID": 6296,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 1589,
   "studioID": 455,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 1590,
   "studioID": 36,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 1592,
   "studioID": 36,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 1593,
   "studioID": 7,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 1599,
   "studioID": 37,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 1604,
   "studioID": 8,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 1606,
   "studioID": 14,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 1607,
@@ -3722,7 +3332,7 @@
  {
   "animeID": 1608,
   "studioID": 6465,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 1608,
@@ -3732,7 +3342,7 @@
  {
   "animeID": 1613,
   "studioID": 10,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1613,
@@ -3742,12 +3352,12 @@
  {
   "animeID": 1614,
   "studioID": 11,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 1617,
   "studioID": 96,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 1620,
@@ -3757,52 +3367,52 @@
  {
   "animeID": 1626,
   "studioID": 11,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 1628,
   "studioID": 207,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 1629,
   "studioID": 18,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 1629,
   "studioID": 73,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 1637,
   "studioID": 110,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 1642,
   "studioID": 1,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 1647,
   "studioID": 196,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 1654,
   "studioID": 101,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 1658,
   "studioID": 73,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 1660,
   "studioID": 77,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 1661,
@@ -3812,82 +3422,82 @@
  {
   "animeID": 1662,
   "studioID": 73,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 1665,
   "studioID": 7,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 1665,
   "studioID": 6565,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 1666,
   "studioID": 18,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1667,
   "studioID": 154,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 1668,
   "studioID": 11,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 1668,
   "studioID": 22,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 1669,
   "studioID": 367,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 1669,
   "studioID": 22,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 1669,
   "studioID": 434,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1669,
   "studioID": 7468,
-  "price": 5
- },
- {
-  "animeID": 1670,
-  "studioID": 22,
   "price": 6
  },
  {
   "animeID": 1670,
+  "studioID": 22,
+  "price": 1
+ },
+ {
+  "animeID": 1670,
   "studioID": 434,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 1674,
   "studioID": 829,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1674,
   "studioID": 126,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 1685,
   "studioID": 101,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 1685,
@@ -3902,32 +3512,32 @@
  {
   "animeID": 1690,
   "studioID": 3,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 1690,
   "studioID": 51,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 1696,
   "studioID": 5,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 1698,
   "studioID": 7,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 1698,
   "studioID": 178,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 1701,
   "studioID": 1,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 1703,
@@ -3937,72 +3547,72 @@
  {
   "animeID": 1704,
   "studioID": 37,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 1705,
   "studioID": 154,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 1707,
   "studioID": 18,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1708,
   "studioID": 207,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 1712,
   "studioID": 107,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 1712,
   "studioID": 6291,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 1719,
   "studioID": 70,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 1721,
   "studioID": 27,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 1722,
   "studioID": 91,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 1728,
   "studioID": 1,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 1735,
   "studioID": 1,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 1738,
   "studioID": 94,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 1740,
   "studioID": 80,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 1744,
   "studioID": 101,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 1745,
@@ -4012,127 +3622,42 @@
  {
   "animeID": 1748,
   "studioID": 11,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 1760,
   "studioID": 65,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 1761,
   "studioID": 200,
-  "price": 6
- },
- {
-  "animeID": 1763,
-  "studioID": 152,
-  "price": 6
- },
- {
-  "animeID": 1763,
-  "studioID": 38,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 1764,
   "studioID": 18,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 1768,
   "studioID": 44,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 1768,
   "studioID": 81,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 1771,
   "studioID": 18,
-  "price": 9
+  "price": 6
  },
  {
   "animeID": 1775,
   "studioID": 81,
-  "price": 9
- },
- {
-  "animeID": 1786,
-  "studioID": 7,
-  "price": 7
- },
- {
-  "animeID": 1804,
-  "studioID": 1,
-  "price": 9
- },
- {
-  "animeID": 1804,
-  "studioID": 30,
-  "price": 6
- },
- {
-  "animeID": 1805,
-  "studioID": 6279,
-  "price": 3
- },
- {
-  "animeID": 1806,
-  "studioID": 81,
-  "price": 1
- },
- {
-  "animeID": 1808,
-  "studioID": 41,
-  "price": 3
- },
- {
-  "animeID": 1808,
-  "studioID": 909,
-  "price": 7
- },
- {
-  "animeID": 1810,
-  "studioID": 120,
-  "price": 6
- },
- {
-  "animeID": 1813,
-  "studioID": 30,
-  "price": 7
- },
- {
-  "animeID": 1817,
-  "studioID": 34,
-  "price": 4
- },
- {
-  "animeID": 1818,
-  "studioID": 11,
   "price": 8
- },
- {
-  "animeID": 1824,
-  "studioID": 11,
-  "price": 4
- },
- {
-  "animeID": 1825,
-  "studioID": 11,
-  "price": 3
- },
- {
-  "animeID": 1832,
-  "studioID": 48,
-  "price": 7
- },
- {
-  "animeID": 1833,
-  "studioID": 6090,
-  "price": 7
  },
  {
   "animeID": 1838,
@@ -4142,17 +3667,17 @@
  {
   "animeID": 1841,
   "studioID": 51,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 1842,
   "studioID": 101,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1844,
   "studioID": 1,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 1847,
@@ -4167,22 +3692,22 @@
  {
   "animeID": 1852,
   "studioID": 44,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 1853,
   "studioID": 18,
-  "price": 3
+  "price": 2
  },
  {
   "animeID": 1857,
   "studioID": 11,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 1861,
   "studioID": 18,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 1866,
@@ -4192,152 +3717,82 @@
  {
   "animeID": 1873,
   "studioID": 288,
-  "price": 7
- },
- {
-  "animeID": 1879,
-  "studioID": 11,
-  "price": 3
- },
- {
-  "animeID": 1879,
-  "studioID": 18,
-  "price": 7
- },
- {
-  "animeID": 1880,
-  "studioID": 11,
   "price": 1
  },
  {
+  "animeID": 1879,
+  "studioID": 11,
+  "price": 7
+ },
+ {
+  "animeID": 1879,
+  "studioID": 18,
+  "price": 6
+ },
+ {
+  "animeID": 1880,
+  "studioID": 11,
+  "price": 4
+ },
+ {
   "animeID": 1880,
   "studioID": 18,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 1883,
   "studioID": 78,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 1887,
   "studioID": 2,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 1888,
   "studioID": 39,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 1890,
   "studioID": 11,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 1893,
   "studioID": 11,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 1901,
   "studioID": 207,
-  "price": 7
- },
- {
-  "animeID": 1909,
-  "studioID": 7,
-  "price": 4
- },
- {
-  "animeID": 1910,
-  "studioID": 11,
-  "price": 6
- },
- {
-  "animeID": 1913,
-  "studioID": 7,
-  "price": 7
- },
- {
-  "animeID": 1919,
-  "studioID": 11,
-  "price": 6
- },
- {
-  "animeID": 1919,
-  "studioID": 37,
-  "price": 9
- },
- {
-  "animeID": 1919,
-  "studioID": 207,
-  "price": 6
- },
- {
-  "animeID": 1920,
-  "studioID": 1,
-  "price": 4
- },
- {
-  "animeID": 1922,
-  "studioID": 37,
-  "price": 8
- },
- {
-  "animeID": 1924,
-  "studioID": 207,
-  "price": 1
- },
- {
-  "animeID": 1925,
-  "studioID": 11,
-  "price": 1
- },
- {
-  "animeID": 1936,
-  "studioID": 37,
-  "price": 2
- },
- {
-  "animeID": 1940,
-  "studioID": 48,
-  "price": 5
- },
- {
-  "animeID": 1940,
-  "studioID": 103,
-  "price": 5
- },
- {
-  "animeID": 1941,
-  "studioID": 101,
   "price": 3
  },
  {
   "animeID": 1954,
   "studioID": 73,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 1956,
   "studioID": 38,
-  "price": 2
+  "price": 4
  },
  {
   "animeID": 1959,
   "studioID": 6896,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 1959,
   "studioID": 6109,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 1965,
   "studioID": 51,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 1965,
@@ -4347,107 +3802,107 @@
  {
   "animeID": 1966,
   "studioID": 30,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 1974,
   "studioID": 73,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 1985,
   "studioID": 18,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 1994,
   "studioID": 5,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 1996,
   "studioID": 37,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 2004,
   "studioID": 11,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 2006,
   "studioID": 18,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 2008,
   "studioID": 11,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 2009,
   "studioID": 11,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 2010,
   "studioID": 37,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 2011,
   "studioID": 37,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2012,
   "studioID": 18,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 2013,
   "studioID": 37,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 2014,
   "studioID": 37,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 2016,
   "studioID": 1,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2017,
   "studioID": 11,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 2018,
   "studioID": 1,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 2019,
   "studioID": 11,
-  "price": 9
+  "price": 5
  },
  {
   "animeID": 2020,
   "studioID": 18,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 2022,
   "studioID": 7,
-  "price": 5
+  "price": 3
  },
  {
   "animeID": 2026,
   "studioID": 118,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2026,
@@ -4457,62 +3912,62 @@
  {
   "animeID": 2034,
   "studioID": 18,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 2034,
   "studioID": 416,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2035,
   "studioID": 30,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 2036,
   "studioID": 22,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2036,
   "studioID": 434,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 2037,
   "studioID": 36,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 2041,
   "studioID": 22,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 2042,
   "studioID": 14,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 2043,
   "studioID": 65,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 2050,
   "studioID": 6,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 2050,
   "studioID": 24,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 2051,
   "studioID": 68,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 2051,
@@ -4522,167 +3977,112 @@
  {
   "animeID": 2052,
   "studioID": 86,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2053,
   "studioID": 6090,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 2056,
   "studioID": 1,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 2059,
   "studioID": 6896,
-  "price": 3
- },
- {
-  "animeID": 2073,
-  "studioID": 6703,
-  "price": 3
- },
- {
-  "animeID": 2074,
-  "studioID": 126,
-  "price": 1
- },
- {
-  "animeID": 2076,
-  "studioID": 18,
-  "price": 4
- },
- {
-  "animeID": 2083,
-  "studioID": 11,
-  "price": 9
- },
- {
-  "animeID": 2091,
-  "studioID": 11,
   "price": 2
- },
- {
-  "animeID": 2092,
-  "studioID": 11,
-  "price": 8
- },
- {
-  "animeID": 2093,
-  "studioID": 11,
-  "price": 2
- },
- {
-  "animeID": 2097,
-  "studioID": 10,
-  "price": 7
- },
- {
-  "animeID": 2097,
-  "studioID": 6896,
-  "price": 8
- },
- {
-  "animeID": 2098,
-  "studioID": 1,
-  "price": 1
  },
  {
   "animeID": 2099,
   "studioID": 48,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 2100,
   "studioID": 48,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 2101,
   "studioID": 11,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 2102,
   "studioID": 48,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2103,
   "studioID": 36,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 2104,
   "studioID": 3,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 2104,
   "studioID": 48,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2107,
   "studioID": 18,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 2112,
   "studioID": 27,
-  "price": 4
+  "price": 2
  },
  {
   "animeID": 2116,
   "studioID": 390,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 2116,
   "studioID": 829,
-  "price": 1
- },
- {
-  "animeID": 2117,
-  "studioID": 6896,
   "price": 4
  },
  {
   "animeID": 2117,
+  "studioID": 6896,
+  "price": 1
+ },
+ {
+  "animeID": 2117,
   "studioID": 7,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 2125,
   "studioID": 1,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 2126,
   "studioID": 1,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 2130,
   "studioID": 11,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2130,
   "studioID": 75,
-  "price": 6
- },
- {
-  "animeID": 2137,
-  "studioID": 25,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 2143,
   "studioID": 1,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 2143,
@@ -4692,7 +4092,7 @@
  {
   "animeID": 2144,
   "studioID": 1,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 2154,
@@ -4702,7 +4102,7 @@
  {
   "animeID": 2158,
   "studioID": 122,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 2158,
@@ -4712,32 +4112,32 @@
  {
   "animeID": 2159,
   "studioID": 561,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2161,
   "studioID": 4,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 2161,
   "studioID": 51,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 2165,
   "studioID": 18,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 2180,
   "studioID": 413,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 2198,
   "studioID": 48,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 2204,
@@ -4747,147 +4147,107 @@
  {
   "animeID": 2204,
   "studioID": 65,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 2207,
   "studioID": 22,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 2213,
   "studioID": 200,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 2214,
   "studioID": 200,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 2216,
   "studioID": 11,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 2219,
   "studioID": 48,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 2221,
   "studioID": 18,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2222,
   "studioID": 18,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 2224,
   "studioID": 103,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2227,
   "studioID": 18,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2229,
   "studioID": 18,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 2237,
   "studioID": 70,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 2238,
   "studioID": 457,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 2252,
   "studioID": 18,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 2253,
   "studioID": 18,
-  "price": 2
+  "price": 1
  },
  {
   "animeID": 2259,
   "studioID": 126,
-  "price": 6
+  "price": 9
  },
  {
   "animeID": 2264,
   "studioID": 11,
-  "price": 9
+  "price": 4
  },
  {
   "animeID": 2264,
   "studioID": 68,
-  "price": 3
+  "price": 1
  },
  {
   "animeID": 2264,
   "studioID": 200,
-  "price": 4
+  "price": 8
  },
  {
   "animeID": 2287,
   "studioID": 86,
-  "price": 3
- },
- {
-  "animeID": 2291,
-  "studioID": 48,
-  "price": 8
- },
- {
-  "animeID": 2311,
-  "studioID": 18,
-  "price": 5
- },
- {
-  "animeID": 2316,
-  "studioID": 479,
-  "price": 2
- },
- {
-  "animeID": 2317,
-  "studioID": 86,
   "price": 9
- },
- {
-  "animeID": 2318,
-  "studioID": 7,
-  "price": 5
- },
- {
-  "animeID": 2321,
-  "studioID": 329,
-  "price": 2
- },
- {
-  "animeID": 2321,
-  "studioID": 7040,
-  "price": 7
- },
- {
-  "animeID": 2326,
-  "studioID": 6090,
-  "price": 2
  },
  {
   "animeID": 2330,
   "studioID": 80,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 2335,
@@ -4902,62 +4262,42 @@
  {
   "animeID": 2337,
   "studioID": 455,
-  "price": 8
- },
- {
-  "animeID": 2340,
-  "studioID": 329,
-  "price": 7
- },
- {
-  "animeID": 2341,
-  "studioID": 329,
   "price": 7
  },
  {
   "animeID": 2346,
   "studioID": 48,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2354,
   "studioID": 234,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2355,
   "studioID": 234,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 2356,
   "studioID": 6460,
-  "price": 8
- },
- {
-  "animeID": 2359,
-  "studioID": 329,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 2365,
   "studioID": 86,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 2365,
   "studioID": 6896,
-  "price": 5
- },
- {
-  "animeID": 2372,
-  "studioID": 25,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2384,
   "studioID": 971,
-  "price": 9
+  "price": 7
  },
  {
   "animeID": 2385,
@@ -4967,17 +4307,17 @@
  {
   "animeID": 2386,
   "studioID": 18,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2387,
   "studioID": 37,
-  "price": 2
+  "price": 6
  },
  {
   "animeID": 2387,
   "studioID": 6896,
-  "price": 1
+  "price": 3
  },
  {
   "animeID": 2400,
@@ -4987,62 +4327,52 @@
  {
   "animeID": 2402,
   "studioID": 68,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 2403,
   "studioID": 399,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 2403,
   "studioID": 51,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 2404,
   "studioID": 27,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 2405,
   "studioID": 18,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2407,
   "studioID": 14,
-  "price": 5
- },
- {
-  "animeID": 2410,
-  "studioID": 45,
-  "price": 9
- },
- {
-  "animeID": 2412,
-  "studioID": 25,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2415,
   "studioID": 22,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 2416,
   "studioID": 22,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 2417,
   "studioID": 329,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2419,
   "studioID": 30,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 2422,
@@ -5052,7 +4382,7 @@
  {
   "animeID": 2424,
   "studioID": 11,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 2427,
@@ -5062,27 +4392,22 @@
  {
   "animeID": 2427,
   "studioID": 200,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 2428,
   "studioID": 200,
-  "price": 5
- },
- {
-  "animeID": 2446,
-  "studioID": 25,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2449,
   "studioID": 10,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 2450,
   "studioID": 247,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2451,
@@ -5092,12 +4417,12 @@
  {
   "animeID": 2452,
   "studioID": 73,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2452,
   "studioID": 65,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 2454,
@@ -5107,7 +4432,7 @@
  {
   "animeID": 2457,
   "studioID": 27,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 2458,
@@ -5117,102 +4442,97 @@
  {
   "animeID": 2460,
   "studioID": 30,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2463,
   "studioID": 18,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 2468,
   "studioID": 11,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2471,
   "studioID": 247,
-  "price": 4
+  "price": 7
  },
  {
   "animeID": 2471,
   "studioID": 234,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2486,
   "studioID": 65,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 2490,
   "studioID": 18,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 2497,
   "studioID": 18,
-  "price": 7
+  "price": 9
  },
  {
   "animeID": 2500,
   "studioID": 11,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 2508,
   "studioID": 38,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 2512,
   "studioID": 73,
-  "price": 8
+  "price": 1
  },
  {
   "animeID": 2513,
   "studioID": 73,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 2514,
   "studioID": 73,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 2518,
   "studioID": 8,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2520,
   "studioID": 18,
-  "price": 4
+  "price": 9
  },
  {
   "animeID": 2522,
   "studioID": 110,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2525,
   "studioID": 438,
-  "price": 3
+  "price": 4
  },
  {
   "animeID": 2526,
   "studioID": 196,
-  "price": 5
- },
- {
-  "animeID": 2530,
-  "studioID": 152,
   "price": 4
  },
  {
   "animeID": 2542,
   "studioID": 65,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2552,
@@ -5222,97 +4542,97 @@
  {
   "animeID": 2552,
   "studioID": 6410,
-  "price": 3
+  "price": 7
  },
  {
   "animeID": 2556,
   "studioID": 200,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 2560,
   "studioID": 18,
-  "price": 2
+  "price": 9
  },
  {
   "animeID": 2562,
   "studioID": 37,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2563,
   "studioID": 34,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 2565,
   "studioID": 68,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2580,
   "studioID": 44,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 2589,
   "studioID": 3,
-  "price": 5
- },
- {
-  "animeID": 2592,
-  "studioID": 6896,
   "price": 3
  },
  {
   "animeID": 2592,
+  "studioID": 6896,
+  "price": 8
+ },
+ {
+  "animeID": 2592,
   "studioID": 8,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 2594,
   "studioID": 11,
-  "price": 1
+  "price": 4
  },
  {
   "animeID": 2596,
   "studioID": 10,
-  "price": 4
+  "price": 6
  },
  {
   "animeID": 2597,
   "studioID": 73,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2602,
   "studioID": 8,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2605,
   "studioID": 44,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 2607,
   "studioID": 288,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 2608,
   "studioID": 179,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2621,
   "studioID": 11,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 2621,
   "studioID": 18,
-  "price": 4
+  "price": 5
  },
  {
   "animeID": 2685,
@@ -5322,17 +4642,17 @@
  {
   "animeID": 2693,
   "studioID": 7,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 2694,
   "studioID": 11,
-  "price": 1
+  "price": 2
  },
  {
   "animeID": 2698,
   "studioID": 413,
-  "price": 6
+  "price": 3
  },
  {
   "animeID": 2702,
@@ -5342,32 +4662,32 @@
  {
   "animeID": 2703,
   "studioID": 27,
-  "price": 2
+  "price": 7
  },
  {
   "animeID": 2704,
   "studioID": 27,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2705,
   "studioID": 10,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 2705,
   "studioID": 27,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 2706,
   "studioID": 27,
-  "price": 6
+  "price": 8
  },
  {
   "animeID": 2708,
   "studioID": 30,
-  "price": 6
+  "price": 5
  },
  {
   "animeID": 2708,
@@ -5377,182 +4697,177 @@
  {
   "animeID": 2709,
   "studioID": 27,
-  "price": 5
+  "price": 2
  },
  {
   "animeID": 2712,
   "studioID": 30,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 2718,
   "studioID": 6305,
-  "price": 1
+  "price": 5
  },
  {
   "animeID": 2723,
   "studioID": 39,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2729,
   "studioID": 11,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2730,
   "studioID": 7,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 2734,
   "studioID": 322,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2737,
+  "studioID": 28,
+  "price": 5
+ },
+ {
+  "animeID": 2740,
   "studioID": 28,
   "price": 1
  },
  {
   "animeID": 2740,
-  "studioID": 28,
-  "price": 5
- },
- {
-  "animeID": 2740,
   "studioID": 48,
-  "price": 6
+  "price": 1
  },
  {
   "animeID": 2744,
   "studioID": 7,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 2747,
   "studioID": 68,
-  "price": 7
+  "price": 8
  },
  {
   "animeID": 2748,
   "studioID": 103,
-  "price": 7
+  "price": 4
  },
  {
   "animeID": 2751,
   "studioID": 22,
-  "price": 8
+  "price": 3
  },
  {
   "animeID": 2752,
   "studioID": 10,
-  "price": 6
+  "price": 2
  },
  {
   "animeID": 2752,
   "studioID": 463,
-  "price": 9
+  "price": 2
  },
  {
   "animeID": 2754,
   "studioID": 7,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 2762,
   "studioID": 86,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 2762,
   "studioID": 829,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 2768,
   "studioID": 11,
-  "price": 8
+  "price": 6
  },
  {
   "animeID": 2771,
   "studioID": 256,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2771,
   "studioID": 6910,
-  "price": 3
+  "price": 5
  },
  {
   "animeID": 2771,
   "studioID": 122,
-  "price": 3
+  "price": 6
  },
  {
   "animeID": 2771,
   "studioID": 177,
-  "price": 7
+  "price": 5
  },
  {
   "animeID": 2772,
   "studioID": 93,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 2780,
   "studioID": 7,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 2780,
   "studioID": 6896,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2780,
   "studioID": 6460,
-  "price": 2
- },
- {
-  "animeID": 2785,
-  "studioID": 11,
   "price": 4
  },
  {
   "animeID": 2785,
+  "studioID": 11,
+  "price": 9
+ },
+ {
+  "animeID": 2785,
   "studioID": 24,
-  "price": 7
- },
- {
-  "animeID": 2789,
-  "studioID": 367,
-  "price": 3
- },
- {
-  "animeID": 2789,
-  "studioID": 22,
   "price": 6
  },
  {
   "animeID": 2789,
+  "studioID": 367,
+  "price": 1
+ },
+ {
+  "animeID": 2789,
+  "studioID": 22,
+  "price": 4
+ },
+ {
+  "animeID": 2789,
   "studioID": 434,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2790,
   "studioID": 438,
-  "price": 3
+  "price": 9
  },
  {
   "animeID": 2791,
   "studioID": 291,
-  "price": 3
- },
- {
-  "animeID": 2798,
-  "studioID": 45,
-  "price": 8
+  "price": 4
  },
  {
   "animeID": 2800,
@@ -5562,12 +4877,12 @@
  {
   "animeID": 2802,
   "studioID": 18,
-  "price": 5
+  "price": 8
  },
  {
   "animeID": 2811,
   "studioID": 18,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 2834,
@@ -5577,92 +4892,72 @@
  {
   "animeID": 2835,
   "studioID": 207,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 2835,
   "studioID": 18,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 2851,
   "studioID": 1,
-  "price": 1
- },
- {
-  "animeID": 2852,
-  "studioID": 45,
-  "price": 7
- },
- {
-  "animeID": 2861,
-  "studioID": 45,
-  "price": 1
- },
- {
-  "animeID": 2863,
-  "studioID": 25,
-  "price": 4
+  "price": 3
  },
  {
   "animeID": 2881,
   "studioID": 14,
-  "price": 4
- },
- {
-  "animeID": 2883,
-  "studioID": 395,
   "price": 9
  },
  {
   "animeID": 2903,
   "studioID": 18,
-  "price": 7
+  "price": 3
  },
  {
   "animeID": 2905,
   "studioID": 38,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2906,
   "studioID": 65,
-  "price": 5
+  "price": 6
  },
  {
   "animeID": 2907,
   "studioID": 338,
-  "price": 8
+  "price": 7
  },
  {
   "animeID": 2907,
   "studioID": 6345,
-  "price": 7
+  "price": 6
  },
  {
   "animeID": 2911,
   "studioID": 120,
-  "price": 5
+  "price": 7
  },
  {
   "animeID": 2912,
   "studioID": 65,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 2920,
   "studioID": 68,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 2921,
   "studioID": 65,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 2921,
   "studioID": 583,
-  "price": 1
+  "price": 9
  },
  {
   "animeID": 2921,
@@ -5672,32 +4967,32 @@
  {
   "animeID": 2922,
   "studioID": 65,
-  "price": 1
+  "price": 8
  },
  {
   "animeID": 2923,
   "studioID": 41,
-  "price": 5
+  "price": 4
  },
  {
   "animeID": 2929,
   "studioID": 101,
-  "price": 8
+  "price": 2
  },
  {
   "animeID": 2931,
   "studioID": 11,
-  "price": 8
+  "price": 5
  },
  {
   "animeID": 2931,
   "studioID": 200,
-  "price": 2
+  "price": 8
  },
  {
   "animeID": 2933,
   "studioID": 103,
-  "price": 7
+  "price": 1
  },
  {
   "animeID": 2934,
@@ -5707,22 +5002,17 @@
  {
   "animeID": 2937,
   "studioID": 18,
-  "price": 3
+  "price": 8
  },
  {
   "animeID": 2942,
   "studioID": 34,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 2951,
   "studioID": 14,
-  "price": 1
- },
- {
-  "animeID": 2960,
-  "studioID": 25,
-  "price": 6
+  "price": 4
  },
  {
   "animeID": 2963,
@@ -5732,77 +5022,77 @@
  {
   "animeID": 2963,
   "studioID": 761,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2964,
   "studioID": 3,
-  "price": 2
+  "price": 3
  },
  {
   "animeID": 2965,
   "studioID": 37,
-  "price": 6
+  "price": 7
  },
  {
   "animeID": 2973,
   "studioID": 1,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 2985,
   "studioID": 11,
-  "price": 5
+  "price": 9
  },
  {
   "animeID": 2985,
   "studioID": 22,
-  "price": 4
+  "price": 1
  },
  {
   "animeID": 2986,
   "studioID": 88,
-  "price": 9
+  "price": 3
  },
  {
   "animeID": 2986,
   "studioID": 210,
-  "price": 7
+  "price": 2
  },
  {
   "animeID": 2993,
   "studioID": 3,
-  "price": 1
+  "price": 6
  },
  {
   "animeID": 2994,
   "studioID": 11,
-  "price": 8
+  "price": 9
  },
  {
   "animeID": 2997,
   "studioID": 11,
-  "price": 5
- },
- {
-  "animeID": 2997,
-  "studioID": 7206,
   "price": 4
  },
  {
+  "animeID": 2997,
+  "studioID": 7206,
+  "price": 3
+ },
+ {
   "animeID": 2998,
   "studioID": 11,
-  "price": 1
+  "price": 7
  },
  {
   "animeID": 2998,
   "studioID": 7206,
-  "price": 2
+  "price": 5
  },
  {
   "animeID": 2999,
   "studioID": 11,
-  "price": 5
+  "price": 1
  },
  {
   "animeID": 2999,
@@ -5812,6 +5102,2041 @@
  {
   "animeID": 3000,
   "studioID": 37,
+  "price": 3
+ },
+ {
+  "animeID": 3001,
+  "studioID": 94,
+  "price": 5
+ },
+ {
+  "animeID": 3001,
+  "studioID": 235,
+  "price": 9
+ },
+ {
+  "animeID": 3002,
+  "studioID": 11,
+  "price": 4
+ },
+ {
+  "animeID": 3005,
+  "studioID": 207,
+  "price": 5
+ },
+ {
+  "animeID": 3005,
+  "studioID": 6279,
+  "price": 9
+ },
+ {
+  "animeID": 3006,
+  "studioID": 96,
+  "price": 4
+ },
+ {
+  "animeID": 3007,
+  "studioID": 11,
+  "price": 3
+ },
+ {
+  "animeID": 3009,
+  "studioID": 18,
+  "price": 8
+ },
+ {
+  "animeID": 3019,
+  "studioID": 73,
+  "price": 6
+ },
+ {
+  "animeID": 3019,
+  "studioID": 94,
+  "price": 7
+ },
+ {
+  "animeID": 3020,
+  "studioID": 18,
+  "price": 1
+ },
+ {
+  "animeID": 3021,
+  "studioID": 18,
+  "price": 5
+ },
+ {
+  "animeID": 3022,
+  "studioID": 18,
+  "price": 7
+ },
+ {
+  "animeID": 3023,
+  "studioID": 247,
+  "price": 5
+ },
+ {
+  "animeID": 3024,
+  "studioID": 68,
+  "price": 3
+ },
+ {
+  "animeID": 3026,
+  "studioID": 6896,
+  "price": 4
+ },
+ {
+  "animeID": 3037,
+  "studioID": 18,
+  "price": 7
+ },
+ {
+  "animeID": 3044,
+  "studioID": 200,
+  "price": 4
+ },
+ {
+  "animeID": 3053,
+  "studioID": 1,
+  "price": 5
+ },
+ {
+  "animeID": 3064,
+  "studioID": 207,
+  "price": 8
+ },
+ {
+  "animeID": 3065,
+  "studioID": 65,
+  "price": 5
+ },
+ {
+  "animeID": 3065,
+  "studioID": 94,
+  "price": 9
+ },
+ {
+  "animeID": 3076,
+  "studioID": 18,
+  "price": 3
+ },
+ {
+  "animeID": 3077,
+  "studioID": 247,
+  "price": 9
+ },
+ {
+  "animeID": 3085,
+  "studioID": 39,
+  "price": 1
+ },
+ {
+  "animeID": 3090,
+  "studioID": 48,
+  "price": 3
+ },
+ {
+  "animeID": 3091,
+  "studioID": 10,
+  "price": 1
+ },
+ {
+  "animeID": 3091,
+  "studioID": 34,
+  "price": 1
+ },
+ {
+  "animeID": 3092,
+  "studioID": 37,
+  "price": 1
+ },
+ {
+  "animeID": 3095,
+  "studioID": 7,
+  "price": 9
+ },
+ {
+  "animeID": 3111,
+  "studioID": 11,
+  "price": 4
+ },
+ {
+  "animeID": 3116,
+  "studioID": 6090,
+  "price": 9
+ },
+ {
+  "animeID": 3121,
+  "studioID": 51,
+  "price": 1
+ },
+ {
+  "animeID": 3121,
+  "studioID": 399,
+  "price": 1
+ },
+ {
+  "animeID": 3125,
+  "studioID": 86,
+  "price": 5
+ },
+ {
+  "animeID": 3129,
+  "studioID": 6361,
+  "price": 8
+ },
+ {
+  "animeID": 3129,
+  "studioID": 65,
+  "price": 6
+ },
+ {
+  "animeID": 3130,
+  "studioID": 247,
+  "price": 1
+ },
+ {
+  "animeID": 3137,
+  "studioID": 22,
+  "price": 4
+ },
+ {
+  "animeID": 3137,
+  "studioID": 829,
+  "price": 4
+ },
+ {
+  "animeID": 3137,
+  "studioID": 971,
+  "price": 1
+ },
+ {
+  "animeID": 3147,
+  "studioID": 14,
+  "price": 8
+ },
+ {
+  "animeID": 3159,
+  "studioID": 18,
+  "price": 3
+ },
+ {
+  "animeID": 3165,
+  "studioID": 44,
   "price": 2
+ },
+ {
+  "animeID": 3174,
+  "studioID": 70,
+  "price": 6
+ },
+ {
+  "animeID": 3182,
+  "studioID": 96,
+  "price": 8
+ },
+ {
+  "animeID": 3213,
+  "studioID": 18,
+  "price": 2
+ },
+ {
+  "animeID": 3218,
+  "studioID": 122,
+  "price": 8
+ },
+ {
+  "animeID": 3225,
+  "studioID": 163,
+  "price": 9
+ },
+ {
+  "animeID": 3226,
+  "studioID": 118,
+  "price": 3
+ },
+ {
+  "animeID": 3228,
+  "studioID": 44,
+  "price": 4
+ },
+ {
+  "animeID": 3231,
+  "studioID": 8,
+  "price": 7
+ },
+ {
+  "animeID": 3235,
+  "studioID": 200,
+  "price": 1
+ },
+ {
+  "animeID": 3245,
+  "studioID": 18,
+  "price": 8
+ },
+ {
+  "animeID": 3266,
+  "studioID": 7,
+  "price": 3
+ },
+ {
+  "animeID": 3272,
+  "studioID": 18,
+  "price": 5
+ },
+ {
+  "animeID": 3276,
+  "studioID": 18,
+  "price": 9
+ },
+ {
+  "animeID": 3279,
+  "studioID": 18,
+  "price": 9
+ },
+ {
+  "animeID": 3280,
+  "studioID": 18,
+  "price": 6
+ },
+ {
+  "animeID": 3281,
+  "studioID": 18,
+  "price": 2
+ },
+ {
+  "animeID": 3292,
+  "studioID": 7,
+  "price": 5
+ },
+ {
+  "animeID": 3297,
+  "studioID": 34,
+  "price": 6
+ },
+ {
+  "animeID": 3298,
+  "studioID": 37,
+  "price": 5
+ },
+ {
+  "animeID": 3306,
+  "studioID": 22,
+  "price": 9
+ },
+ {
+  "animeID": 3306,
+  "studioID": 8,
+  "price": 3
+ },
+ {
+  "animeID": 3312,
+  "studioID": 18,
+  "price": 3
+ },
+ {
+  "animeID": 3332,
+  "studioID": 18,
+  "price": 6
+ },
+ {
+  "animeID": 3335,
+  "studioID": 22,
+  "price": 1
+ },
+ {
+  "animeID": 3345,
+  "studioID": 22,
+  "price": 4
+ },
+ {
+  "animeID": 3354,
+  "studioID": 27,
+  "price": 7
+ },
+ {
+  "animeID": 3359,
+  "studioID": 37,
+  "price": 2
+ },
+ {
+  "animeID": 3369,
+  "studioID": 18,
+  "price": 3
+ },
+ {
+  "animeID": 3375,
+  "studioID": 179,
+  "price": 4
+ },
+ {
+  "animeID": 3375,
+  "studioID": 194,
+  "price": 6
+ },
+ {
+  "animeID": 3375,
+  "studioID": 347,
+  "price": 8
+ },
+ {
+  "animeID": 3389,
+  "studioID": 117,
+  "price": 3
+ },
+ {
+  "animeID": 3389,
+  "studioID": 521,
+  "price": 5
+ },
+ {
+  "animeID": 3391,
+  "studioID": 1,
+  "price": 6
+ },
+ {
+  "animeID": 3394,
+  "studioID": 1,
+  "price": 1
+ },
+ {
+  "animeID": 3399,
+  "studioID": 65,
+  "price": 1
+ },
+ {
+  "animeID": 3417,
+  "studioID": 462,
+  "price": 7
+ },
+ {
+  "animeID": 3418,
+  "studioID": 86,
+  "price": 2
+ },
+ {
+  "animeID": 3418,
+  "studioID": 829,
+  "price": 3
+ },
+ {
+  "animeID": 3421,
+  "studioID": 7,
+  "price": 9
+ },
+ {
+  "animeID": 3429,
+  "studioID": 86,
+  "price": 5
+ },
+ {
+  "animeID": 3430,
+  "studioID": 10,
+  "price": 7
+ },
+ {
+  "animeID": 3437,
+  "studioID": 14,
+  "price": 5
+ },
+ {
+  "animeID": 3447,
+  "studioID": 10,
+  "price": 6
+ },
+ {
+  "animeID": 3448,
+  "studioID": 207,
+  "price": 7
+ },
+ {
+  "animeID": 3455,
+  "studioID": 27,
+  "price": 8
+ },
+ {
+  "animeID": 3457,
+  "studioID": 37,
+  "price": 6
+ },
+ {
+  "animeID": 3464,
+  "studioID": 34,
+  "price": 2
+ },
+ {
+  "animeID": 3470,
+  "studioID": 3,
+  "price": 3
+ },
+ {
+  "animeID": 3470,
+  "studioID": 48,
+  "price": 1
+ },
+ {
+  "animeID": 3480,
+  "studioID": 7258,
+  "price": 3
+ },
+ {
+  "animeID": 3482,
+  "studioID": 18,
+  "price": 8
+ },
+ {
+  "animeID": 3512,
+  "studioID": 86,
+  "price": 4
+ },
+ {
+  "animeID": 3514,
+  "studioID": 73,
+  "price": 6
+ },
+ {
+  "animeID": 3515,
+  "studioID": 18,
+  "price": 7
+ },
+ {
+  "animeID": 3522,
+  "studioID": 22,
+  "price": 5
+ },
+ {
+  "animeID": 3545,
+  "studioID": 36,
+  "price": 9
+ },
+ {
+  "animeID": 3550,
+  "studioID": 1,
+  "price": 1
+ },
+ {
+  "animeID": 3568,
+  "studioID": 14,
+  "price": 3
+ },
+ {
+  "animeID": 3571,
+  "studioID": 103,
+  "price": 3
+ },
+ {
+  "animeID": 3574,
+  "studioID": 60,
+  "price": 4
+ },
+ {
+  "animeID": 3579,
+  "studioID": 18,
+  "price": 4
+ },
+ {
+  "animeID": 3588,
+  "studioID": 4,
+  "price": 6
+ },
+ {
+  "animeID": 3588,
+  "studioID": 325,
+  "price": 7
+ },
+ {
+  "animeID": 3595,
+  "studioID": 48,
+  "price": 1
+ },
+ {
+  "animeID": 3597,
+  "studioID": 10,
+  "price": 3
+ },
+ {
+  "animeID": 3602,
+  "studioID": 18,
+  "price": 9
+ },
+ {
+  "animeID": 3603,
+  "studioID": 77,
+  "price": 9
+ },
+ {
+  "animeID": 3604,
+  "studioID": 44,
+  "price": 5
+ },
+ {
+  "animeID": 3605,
+  "studioID": 7,
+  "price": 8
+ },
+ {
+  "animeID": 3616,
+  "studioID": 11,
+  "price": 7
+ },
+ {
+  "animeID": 3640,
+  "studioID": 917,
+  "price": 7
+ },
+ {
+  "animeID": 3641,
+  "studioID": 38,
+  "price": 6
+ },
+ {
+  "animeID": 3641,
+  "studioID": 256,
+  "price": 6
+ },
+ {
+  "animeID": 3642,
+  "studioID": 44,
+  "price": 1
+ },
+ {
+  "animeID": 3653,
+  "studioID": 3,
+  "price": 9
+ },
+ {
+  "animeID": 3655,
+  "studioID": 7,
+  "price": 5
+ },
+ {
+  "animeID": 3656,
+  "studioID": 179,
+  "price": 6
+ },
+ {
+  "animeID": 3661,
+  "studioID": 629,
+  "price": 5
+ },
+ {
+  "animeID": 3673,
+  "studioID": 4,
+  "price": 6
+ },
+ {
+  "animeID": 3673,
+  "studioID": 94,
+  "price": 9
+ },
+ {
+  "animeID": 3673,
+  "studioID": 753,
+  "price": 9
+ },
+ {
+  "animeID": 3673,
+  "studioID": 765,
+  "price": 6
+ },
+ {
+  "animeID": 3673,
+  "studioID": 178,
+  "price": 5
+ },
+ {
+  "animeID": 3674,
+  "studioID": 44,
+  "price": 7
+ },
+ {
+  "animeID": 3675,
+  "studioID": 18,
+  "price": 7
+ },
+ {
+  "animeID": 3702,
+  "studioID": 13,
+  "price": 3
+ },
+ {
+  "animeID": 3710,
+  "studioID": 18,
+  "price": 8
+ },
+ {
+  "animeID": 3727,
+  "studioID": 247,
+  "price": 1
+ },
+ {
+  "animeID": 3731,
+  "studioID": 73,
+  "price": 9
+ },
+ {
+  "animeID": 3734,
+  "studioID": 6361,
+  "price": 3
+ },
+ {
+  "animeID": 3734,
+  "studioID": 65,
+  "price": 9
+ },
+ {
+  "animeID": 3744,
+  "studioID": 247,
+  "price": 3
+ },
+ {
+  "animeID": 3745,
+  "studioID": 247,
+  "price": 5
+ },
+ {
+  "animeID": 3765,
+  "studioID": 22,
+  "price": 4
+ },
+ {
+  "animeID": 3768,
+  "studioID": 207,
+  "price": 1
+ },
+ {
+  "animeID": 3778,
+  "studioID": 207,
+  "price": 9
+ },
+ {
+  "animeID": 3787,
+  "studioID": 1,
+  "price": 3
+ },
+ {
+  "animeID": 10005,
+  "studioID": 455,
+  "price": 2
+ },
+ {
+  "animeID": 10012,
+  "studioID": 456,
+  "price": 8
+ },
+ {
+  "animeID": 10015,
+  "studioID": 36,
+  "price": 7
+ },
+ {
+  "animeID": 10017,
+  "studioID": 18,
+  "price": 4
+ },
+ {
+  "animeID": 10029,
+  "studioID": 21,
+  "price": 8
+ },
+ {
+  "animeID": 10030,
+  "studioID": 7,
+  "price": 1
+ },
+ {
+  "animeID": 10033,
+  "studioID": 18,
+  "price": 9
+ },
+ {
+  "animeID": 10045,
+  "studioID": 8,
+  "price": 5
+ },
+ {
+  "animeID": 10045,
+  "studioID": 22,
+  "price": 2
+ },
+ {
+  "animeID": 10045,
+  "studioID": 6404,
+  "price": 9
+ },
+ {
+  "animeID": 10048,
+  "studioID": 457,
+  "price": 3
+ },
+ {
+  "animeID": 10049,
+  "studioID": 37,
+  "price": 3
+ },
+ {
+  "animeID": 10073,
+  "studioID": 346,
+  "price": 1
+ },
+ {
+  "animeID": 10075,
+  "studioID": 1,
+  "price": 3
+ },
+ {
+  "animeID": 10080,
+  "studioID": 32,
+  "price": 9
+ },
+ {
+  "animeID": 10092,
+  "studioID": 10,
+  "price": 6
+ },
+ {
+  "animeID": 10092,
+  "studioID": 27,
+  "price": 3
+ },
+ {
+  "animeID": 10098,
+  "studioID": 11,
+  "price": 1
+ },
+ {
+  "animeID": 10109,
+  "studioID": 27,
+  "price": 1
+ },
+ {
+  "animeID": 10114,
+  "studioID": 30,
+  "price": 8
+ },
+ {
+  "animeID": 10116,
+  "studioID": 247,
+  "price": 4
+ },
+ {
+  "animeID": 10119,
+  "studioID": 309,
+  "price": 3
+ },
+ {
+  "animeID": 10162,
+  "studioID": 10,
+  "price": 7
+ },
+ {
+  "animeID": 10162,
+  "studioID": 765,
+  "price": 3
+ },
+ {
+  "animeID": 10165,
+  "studioID": 2,
+  "price": 7
+ },
+ {
+  "animeID": 10165,
+  "studioID": 929,
+  "price": 5
+ },
+ {
+  "animeID": 10180,
+  "studioID": 7,
+  "price": 1
+ },
+ {
+  "animeID": 10187,
+  "studioID": 27,
+  "price": 5
+ },
+ {
+  "animeID": 10189,
+  "studioID": 1,
+  "price": 9
+ },
+ {
+  "animeID": 10191,
+  "studioID": 44,
+  "price": 4
+ },
+ {
+  "animeID": 10216,
+  "studioID": 10,
+  "price": 8
+ },
+ {
+  "animeID": 10218,
+  "studioID": 13,
+  "price": 1
+ },
+ {
+  "animeID": 10219,
+  "studioID": 218,
+  "price": 4
+ },
+ {
+  "animeID": 10244,
+  "studioID": 247,
+  "price": 3
+ },
+ {
+  "animeID": 10258,
+  "studioID": 6624,
+  "price": 5
+ },
+ {
+  "animeID": 10258,
+  "studioID": 318,
+  "price": 8
+ },
+ {
+  "animeID": 10271,
+  "studioID": 11,
+  "price": 7
+ },
+ {
+  "animeID": 10298,
+  "studioID": 7,
+  "price": 8
+ },
+ {
+  "animeID": 10338,
+  "studioID": 276,
+  "price": 8
+ },
+ {
+  "animeID": 10346,
+  "studioID": 18,
+  "price": 4
+ },
+ {
+  "animeID": 10370,
+  "studioID": 118,
+  "price": 7
+ },
+ {
+  "animeID": 10372,
+  "studioID": 112,
+  "price": 5
+ },
+ {
+  "animeID": 10378,
+  "studioID": 51,
+  "price": 6
+ },
+ {
+  "animeID": 10378,
+  "studioID": 70,
+  "price": 2
+ },
+ {
+  "animeID": 10378,
+  "studioID": 196,
+  "price": 7
+ },
+ {
+  "animeID": 10378,
+  "studioID": 354,
+  "price": 5
+ },
+ {
+  "animeID": 10378,
+  "studioID": 829,
+  "price": 5
+ },
+ {
+  "animeID": 10379,
+  "studioID": 112,
+  "price": 6
+ },
+ {
+  "animeID": 10379,
+  "studioID": 765,
+  "price": 7
+ },
+ {
+  "animeID": 10391,
+  "studioID": 112,
+  "price": 2
+ },
+ {
+  "animeID": 10406,
+  "studioID": 443,
+  "price": 3
+ },
+ {
+  "animeID": 10408,
+  "studioID": 112,
+  "price": 6
+ },
+ {
+  "animeID": 10417,
+  "studioID": 43,
+  "price": 9
+ },
+ {
+  "animeID": 10418,
+  "studioID": 32,
+  "price": 8
+ },
+ {
+  "animeID": 10435,
+  "studioID": 207,
+  "price": 1
+ },
+ {
+  "animeID": 10459,
+  "studioID": 276,
+  "price": 5
+ },
+ {
+  "animeID": 10460,
+  "studioID": 7,
+  "price": 1
+ },
+ {
+  "animeID": 10465,
+  "studioID": 346,
+  "price": 9
+ },
+ {
+  "animeID": 10469,
+  "studioID": 44,
+  "price": 5
+ },
+ {
+  "animeID": 10490,
+  "studioID": 10,
+  "price": 5
+ },
+ {
+  "animeID": 10495,
+  "studioID": 39,
+  "price": 8
+ },
+ {
+  "animeID": 10495,
+  "studioID": 95,
+  "price": 4
+ },
+ {
+  "animeID": 10495,
+  "studioID": 497,
+  "price": 5
+ },
+ {
+  "animeID": 10495,
+  "studioID": 753,
+  "price": 9
+ },
+ {
+  "animeID": 10495,
+  "studioID": 755,
+  "price": 2
+ },
+ {
+  "animeID": 10497,
+  "studioID": 37,
+  "price": 4
+ },
+ {
+  "animeID": 10521,
+  "studioID": 561,
+  "price": 5
+ },
+ {
+  "animeID": 10532,
+  "studioID": 561,
+  "price": 2
+ },
+ {
+  "animeID": 10536,
+  "studioID": 10,
+  "price": 1
+ },
+ {
+  "animeID": 10539,
+  "studioID": 276,
+  "price": 6
+ },
+ {
+  "animeID": 10540,
+  "studioID": 276,
+  "price": 1
+ },
+ {
+  "animeID": 10541,
+  "studioID": 276,
+  "price": 5
+ },
+ {
+  "animeID": 10554,
+  "studioID": 22,
+  "price": 3
+ },
+ {
+  "animeID": 10554,
+  "studioID": 829,
+  "price": 2
+ },
+ {
+  "animeID": 10582,
+  "studioID": 51,
+  "price": 4
+ },
+ {
+  "animeID": 10607,
+  "studioID": 1,
+  "price": 2
+ },
+ {
+  "animeID": 10620,
+  "studioID": 163,
+  "price": 3
+ },
+ {
+  "animeID": 10620,
+  "studioID": 765,
+  "price": 4
+ },
+ {
+  "animeID": 10628,
+  "studioID": 44,
+  "price": 1
+ },
+ {
+  "animeID": 10628,
+  "studioID": 299,
+  "price": 2
+ },
+ {
+  "animeID": 10643,
+  "studioID": 14,
+  "price": 6
+ },
+ {
+  "animeID": 10671,
+  "studioID": 541,
+  "price": 2
+ },
+ {
+  "animeID": 10686,
+  "studioID": 1,
+  "price": 7
+ },
+ {
+  "animeID": 10687,
+  "studioID": 18,
+  "price": 4
+ },
+ {
+  "animeID": 10703,
+  "studioID": 73,
+  "price": 1
+ },
+ {
+  "animeID": 10711,
+  "studioID": 333,
+  "price": 8
+ },
+ {
+  "animeID": 10731,
+  "studioID": 10,
+  "price": 2
+ },
+ {
+  "animeID": 10731,
+  "studioID": 463,
+  "price": 4
+ },
+ {
+  "animeID": 10735,
+  "studioID": 14,
+  "price": 6
+ },
+ {
+  "animeID": 10737,
+  "studioID": 418,
+  "price": 6
+ },
+ {
+  "animeID": 10741,
+  "studioID": 7,
+  "price": 7
+ },
+ {
+  "animeID": 10765,
+  "studioID": 1,
+  "price": 3
+ },
+ {
+  "animeID": 10796,
+  "studioID": 27,
+  "price": 5
+ },
+ {
+  "animeID": 10800,
+  "studioID": 11,
+  "price": 1
+ },
+ {
+  "animeID": 10801,
+  "studioID": 3,
+  "price": 2
+ },
+ {
+  "animeID": 10804,
+  "studioID": 41,
+  "price": 8
+ },
+ {
+  "animeID": 10805,
+  "studioID": 32,
+  "price": 5
+ },
+ {
+  "animeID": 10823,
+  "studioID": 37,
+  "price": 2
+ },
+ {
+  "animeID": 10832,
+  "studioID": 41,
+  "price": 3
+ },
+ {
+  "animeID": 10834,
+  "studioID": 300,
+  "price": 4
+ },
+ {
+  "animeID": 10838,
+  "studioID": 276,
+  "price": 4
+ },
+ {
+  "animeID": 10842,
+  "studioID": 4,
+  "price": 9
+ },
+ {
+  "animeID": 10845,
+  "studioID": 346,
+  "price": 6
+ },
+ {
+  "animeID": 10884,
+  "studioID": 418,
+  "price": 9
+ },
+ {
+  "animeID": 10889,
+  "studioID": 65,
+  "price": 2
+ },
+ {
+  "animeID": 10905,
+  "studioID": 41,
+  "price": 5
+ },
+ {
+  "animeID": 10918,
+  "studioID": 60,
+  "price": 2
+ },
+ {
+  "animeID": 10935,
+  "studioID": 48,
+  "price": 3
+ },
+ {
+  "animeID": 10936,
+  "studioID": 292,
+  "price": 9
+ },
+ {
+  "animeID": 10937,
+  "studioID": 14,
+  "price": 4
+ },
+ {
+  "animeID": 10958,
+  "studioID": 276,
+  "price": 9
+ },
+ {
+  "animeID": 10958,
+  "studioID": 91,
+  "price": 6
+ },
+ {
+  "animeID": 10967,
+  "studioID": 6,
+  "price": 1
+ },
+ {
+  "animeID": 10967,
+  "studioID": 207,
+  "price": 7
+ },
+ {
+  "animeID": 10987,
+  "studioID": 101,
+  "price": 8
+ },
+ {
+  "animeID": 11013,
+  "studioID": 287,
+  "price": 5
+ },
+ {
+  "animeID": 11061,
+  "studioID": 11,
+  "price": 4
+ },
+ {
+  "animeID": 11061,
+  "studioID": 6460,
+  "price": 7
+ },
+ {
+  "animeID": 11077,
+  "studioID": 894,
+  "price": 7
+ },
+ {
+  "animeID": 11079,
+  "studioID": 7,
+  "price": 1
+ },
+ {
+  "animeID": 11101,
+  "studioID": 103,
+  "price": 8
+ },
+ {
+  "animeID": 11113,
+  "studioID": 10,
+  "price": 1
+ },
+ {
+  "animeID": 11123,
+  "studioID": 37,
+  "price": 5
+ },
+ {
+  "animeID": 11135,
+  "studioID": 37,
+  "price": 6
+ },
+ {
+  "animeID": 11203,
+  "studioID": 93,
+  "price": 3
+ },
+ {
+  "animeID": 11203,
+  "studioID": 338,
+  "price": 7
+ },
+ {
+  "animeID": 11203,
+  "studioID": 6345,
+  "price": 4
+ },
+ {
+  "animeID": 11209,
+  "studioID": 27,
+  "price": 5
+ },
+ {
+  "animeID": 11209,
+  "studioID": 48,
+  "price": 4
+ },
+ {
+  "animeID": 11237,
+  "studioID": 44,
+  "price": 4
+ },
+ {
+  "animeID": 11239,
+  "studioID": 44,
+  "price": 2
+ },
+ {
+  "animeID": 11241,
+  "studioID": 73,
+  "price": 3
+ },
+ {
+  "animeID": 11255,
+  "studioID": 38,
+  "price": 8
+ },
+ {
+  "animeID": 11266,
+  "studioID": 561,
+  "price": 6
+ },
+ {
+  "animeID": 11313,
+  "studioID": 103,
+  "price": 5
+ },
+ {
+  "animeID": 11339,
+  "studioID": 418,
+  "price": 9
+ },
+ {
+  "animeID": 11359,
+  "studioID": 18,
+  "price": 5
+ },
+ {
+  "animeID": 11371,
+  "studioID": 10,
+  "price": 7
+ },
+ {
+  "animeID": 11371,
+  "studioID": 463,
+  "price": 7
+ },
+ {
+  "animeID": 11441,
+  "studioID": 37,
+  "price": 9
+ },
+ {
+  "animeID": 11457,
+  "studioID": 118,
+  "price": 9
+ },
+ {
+  "animeID": 11491,
+  "studioID": 541,
+  "price": 5
+ },
+ {
+  "animeID": 11499,
+  "studioID": 37,
+  "price": 8
+ },
+ {
+  "animeID": 11507,
+  "studioID": 32,
+  "price": 7
+ },
+ {
+  "animeID": 11537,
+  "studioID": 200,
+  "price": 1
+ },
+ {
+  "animeID": 11609,
+  "studioID": 276,
+  "price": 5
+ },
+ {
+  "animeID": 11615,
+  "studioID": 541,
+  "price": 8
+ },
+ {
+  "animeID": 11633,
+  "studioID": 112,
+  "price": 2
+ },
+ {
+  "animeID": 11659,
+  "studioID": 18,
+  "price": 5
+ },
+ {
+  "animeID": 11665,
+  "studioID": 112,
+  "price": 8
+ },
+ {
+  "animeID": 11697,
+  "studioID": 247,
+  "price": 7
+ },
+ {
+  "animeID": 11703,
+  "studioID": 290,
+  "price": 6
+ },
+ {
+  "animeID": 11715,
+  "studioID": 112,
+  "price": 7
+ },
+ {
+  "animeID": 11737,
+  "studioID": 561,
+  "price": 8
+ },
+ {
+  "animeID": 11739,
+  "studioID": 7,
+  "price": 3
+ },
+ {
+  "animeID": 11761,
+  "studioID": 6,
+  "price": 3
+ },
+ {
+  "animeID": 11761,
+  "studioID": 406,
+  "price": 3
+ },
+ {
+  "animeID": 11763,
+  "studioID": 38,
+  "price": 6
+ },
+ {
+  "animeID": 11771,
+  "studioID": 10,
+  "price": 6
+ },
+ {
+  "animeID": 11799,
+  "studioID": 200,
+  "price": 4
+ },
+ {
+  "animeID": 11813,
+  "studioID": 112,
+  "price": 6
+ },
+ {
+  "animeID": 11837,
+  "studioID": 73,
+  "price": 4
+ },
+ {
+  "animeID": 11837,
+  "studioID": 765,
+  "price": 5
+ },
+ {
+  "animeID": 11843,
+  "studioID": 14,
+  "price": 4
+ },
+ {
+  "animeID": 11867,
+  "studioID": 207,
+  "price": 9
+ },
+ {
+  "animeID": 11917,
+  "studioID": 118,
+  "price": 8
+ },
+ {
+  "animeID": 11959,
+  "studioID": 1,
+  "price": 8
+ },
+ {
+  "animeID": 12001,
+  "studioID": 18,
+  "price": 6
+ },
+ {
+  "animeID": 12021,
+  "studioID": 37,
+  "price": 4
+ },
+ {
+  "animeID": 12021,
+  "studioID": 637,
+  "price": 9
+ },
+ {
+  "animeID": 12031,
+  "studioID": 1,
+  "price": 3
+ },
+ {
+  "animeID": 12039,
+  "studioID": 829,
+  "price": 6
+ },
+ {
+  "animeID": 12049,
+  "studioID": 41,
+  "price": 7
+ },
+ {
+  "animeID": 12049,
+  "studioID": 561,
+  "price": 2
+ },
+ {
+  "animeID": 12067,
+  "studioID": 37,
+  "price": 4
+ },
+ {
+  "animeID": 12069,
+  "studioID": 11,
+  "price": 4
+ },
+ {
+  "animeID": 12113,
+  "studioID": 13,
+  "price": 1
+ },
+ {
+  "animeID": 12115,
+  "studioID": 13,
+  "price": 2
+ },
+ {
+  "animeID": 12123,
+  "studioID": 6052,
+  "price": 2
+ },
+ {
+  "animeID": 12157,
+  "studioID": 163,
+  "price": 1
+ },
+ {
+  "animeID": 12157,
+  "studioID": 392,
+  "price": 8
+ },
+ {
+  "animeID": 12157,
+  "studioID": 549,
+  "price": 2
+ },
+ {
+  "animeID": 12231,
+  "studioID": 18,
+  "price": 4
+ },
+ {
+  "animeID": 12237,
+  "studioID": 553,
+  "price": 8
+ },
+ {
+  "animeID": 12291,
+  "studioID": 48,
+  "price": 2
+ },
+ {
+  "animeID": 12291,
+  "studioID": 755,
+  "price": 2
+ },
+ {
+  "animeID": 12317,
+  "studioID": 27,
+  "price": 6
+ },
+ {
+  "animeID": 12321,
+  "studioID": 3,
+  "price": 5
+ },
+ {
+  "animeID": 12321,
+  "studioID": 276,
+  "price": 7
+ },
+ {
+  "animeID": 12365,
+  "studioID": 7,
+  "price": 6
+ },
+ {
+  "animeID": 12413,
+  "studioID": 314,
+  "price": 7
+ },
+ {
+  "animeID": 12431,
+  "studioID": 561,
+  "price": 2
+ },
+ {
+  "animeID": 12437,
+  "studioID": 43,
+  "price": 6
+ },
+ {
+  "animeID": 12445,
+  "studioID": 300,
+  "price": 4
+ },
+ {
+  "animeID": 12449,
+  "studioID": 48,
+  "price": 1
+ },
+ {
+  "animeID": 12455,
+  "studioID": 1,
+  "price": 2
+ },
+ {
+  "animeID": 12467,
+  "studioID": 346,
+  "price": 9
+ },
+ {
+  "animeID": 12471,
+  "studioID": 4,
+  "price": 4
+ },
+ {
+  "animeID": 12499,
+  "studioID": 247,
+  "price": 7
+ },
+ {
+  "animeID": 12503,
+  "studioID": 163,
+  "price": 7
+ },
+ {
+  "animeID": 12531,
+  "studioID": 200,
+  "price": 3
+ },
+ {
+  "animeID": 12531,
+  "studioID": 569,
+  "price": 7
+ },
+ {
+  "animeID": 12599,
+  "studioID": 118,
+  "price": 1
+ },
+ {
+  "animeID": 12663,
+  "studioID": 18,
+  "price": 3
+ },
+ {
+  "animeID": 12679,
+  "studioID": 7,
+  "price": 6
+ },
+ {
+  "animeID": 12695,
+  "studioID": 347,
+  "price": 6
+ },
+ {
+  "animeID": 12725,
+  "studioID": 179,
+  "price": 7
+ },
+ {
+  "animeID": 12725,
+  "studioID": 413,
+  "price": 9
+ },
+ {
+  "animeID": 12725,
+  "studioID": 37,
+  "price": 1
+ },
+ {
+  "animeID": 12725,
+  "studioID": 126,
+  "price": 6
+ },
+ {
+  "animeID": 12725,
+  "studioID": 36,
+  "price": 4
+ },
+ {
+  "animeID": 12745,
+  "studioID": 1,
+  "price": 9
+ },
+ {
+  "animeID": 12765,
+  "studioID": 829,
+  "price": 7
+ },
+ {
+  "animeID": 12783,
+  "studioID": 4420,
+  "price": 6
+ },
+ {
+  "animeID": 12795,
+  "studioID": 7,
+  "price": 5
+ },
+ {
+  "animeID": 12795,
+  "studioID": 6565,
+  "price": 2
+ },
+ {
+  "animeID": 12815,
+  "studioID": 1,
+  "price": 7
+ },
+ {
+  "animeID": 12893,
+  "studioID": 14,
+  "price": 8
+ },
+ {
+  "animeID": 12901,
+  "studioID": 36,
+  "price": 2
+ },
+ {
+  "animeID": 12921,
+  "studioID": 541,
+  "price": 3
+ },
+ {
+  "animeID": 12929,
+  "studioID": 18,
+  "price": 6
+ },
+ {
+  "animeID": 12979,
+  "studioID": 1,
+  "price": 8
+ },
+ {
+  "animeID": 12991,
+  "studioID": 44,
+  "price": 6
+ },
+ {
+  "animeID": 13055,
+  "studioID": 37,
+  "price": 3
+ },
+ {
+  "animeID": 13141,
+  "studioID": 723,
+  "price": 7
+ },
+ {
+  "animeID": 13203,
+  "studioID": 73,
+  "price": 6
+ },
+ {
+  "animeID": 13231,
+  "studioID": 103,
+  "price": 8
+ },
+ {
+  "animeID": 13231,
+  "studioID": 118,
+  "price": 9
+ },
+ {
+  "animeID": 13267,
+  "studioID": 51,
+  "price": 5
+ },
+ {
+  "animeID": 13271,
+  "studioID": 11,
+  "price": 6
+ },
+ {
+  "animeID": 13331,
+  "studioID": 314,
+  "price": 1
+ },
+ {
+  "animeID": 13349,
+  "studioID": 333,
+  "price": 4
+ },
+ {
+  "animeID": 13377,
+  "studioID": 541,
+  "price": 1
+ },
+ {
+  "animeID": 13403,
+  "studioID": 287,
+  "price": 6
+ },
+ {
+  "animeID": 13409,
+  "studioID": 94,
+  "price": 4
+ },
+ {
+  "animeID": 13409,
+  "studioID": 235,
+  "price": 6
+ },
+ {
+  "animeID": 13535,
+  "studioID": 14,
+  "price": 4
+ },
+ {
+  "animeID": 13535,
+  "studioID": 829,
+  "price": 6
+ },
+ {
+  "animeID": 13553,
+  "studioID": 6966,
+  "price": 7
+ },
+ {
+  "animeID": 13561,
+  "studioID": 10,
+  "price": 7
+ },
+ {
+  "animeID": 13585,
+  "studioID": 95,
+  "price": 9
+ },
+ {
+  "animeID": 13619,
+  "studioID": 44,
+  "price": 6
+ },
+ {
+  "animeID": 13663,
+  "studioID": 27,
+  "price": 2
+ },
+ {
+  "animeID": 13667,
+  "studioID": 1,
+  "price": 5
+ },
+ {
+  "animeID": 13681,
+  "studioID": 292,
+  "price": 2
+ },
+ {
+  "animeID": 13715,
+  "studioID": 6111,
+  "price": 1
+ },
+ {
+  "animeID": 13781,
+  "studioID": 1,
+  "price": 6
+ },
+ {
+  "animeID": 13833,
+  "studioID": 290,
+  "price": 2
+ },
+ {
+  "animeID": 13833,
+  "studioID": 785,
+  "price": 3
+ },
+ {
+  "animeID": 13835,
+  "studioID": 290,
+  "price": 7
+ },
+ {
+  "animeID": 13839,
+  "studioID": 73,
+  "price": 1
+ },
+ {
+  "animeID": 13843,
+  "studioID": 521,
+  "price": 1
+ },
+ {
+  "animeID": 13843,
+  "studioID": 6072,
+  "price": 9
+ },
+ {
+  "animeID": 13851,
+  "studioID": 27,
+  "price": 2
+ },
+ {
+  "animeID": 13859,
+  "studioID": 7,
+  "price": 6
+ },
+ {
+  "animeID": 16498,
+  "studioID": 858,
+  "price": 5
+ },
+ {
+  "animeID": 16498,
+  "studioID": 10,
+  "price": 6
+ },
+ {
+  "animeID": 113415,
+  "studioID": 569,
+  "price": 3
+ },
+ {
+  "animeID": 101922,
+  "studioID": 43,
+  "price": 7
+ },
+ {
+  "animeID": 21459,
+  "studioID": 4,
+  "price": 2
+ },
+ {
+  "animeID": 21366,
+  "studioID": 44,
+  "price": 4
+ },
+ {
+  "animeID": 98478,
+  "studioID": 44,
+  "price": 5
+ },
+ {
+  "animeID": 120377,
+  "studioID": 803,
+  "price": 3
+ },
+ {
+  "animeID": 127230,
+  "studioID": 569,
+  "price": 2
+ },
+ {
+  "animeID": 20605,
+  "studioID": 1,
+  "price": 9
  }
 ]
